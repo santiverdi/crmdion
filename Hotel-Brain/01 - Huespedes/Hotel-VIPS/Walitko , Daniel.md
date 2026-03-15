@@ -1,0 +1,48 @@
+---
+tipo: huesped
+hotel: "Hotel VIPS"
+nombre: "Walitko , Daniel"
+email: "danywal2000@hotmail.com"
+telefono: "Mov: 3364547788"
+ciudad: "San Nicolás de los Arroyos"
+pais: "Argentina"
+canal: "WhatsApp"
+mercado: "Directo"
+tipo_viajero: "Pareja"
+primera_visita: "22/02/2026"
+ultima_visita: "22/02/2026"
+total_visitas: 1
+gasto_total: 600000.0
+gasto_promedio: 600000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-vips, primera-vez, pareja, directo]
+---
+
+# Walitko , Daniel
+**Hotel**: Hotel VIPS
+
+## Datos de contacto
+- **Email**: danywal2000@hotmail.com
+- **Telefono**: Mov: 3364547788
+- **Ciudad**: San Nicolás de los Arroyos
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel VIPS** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | WhatsApp |
+| Mercado | Directo |
+| Visitas | 1 |
+| Gasto total | $600,000 |
+| Gasto promedio | $600,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 22/02/2026 | 27/02/2026 | 1 | 5 | WhatsApp | $600,000 | C. Anticipo |
+

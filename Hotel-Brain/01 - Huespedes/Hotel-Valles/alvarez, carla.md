@@ -1,0 +1,48 @@
+---
+tipo: huesped
+hotel: "Hotel Valles"
+nombre: "alvarez, carla"
+email: "alvarezcarla"
+telefono: "Mov: 5491126683415"
+ciudad: ""
+pais: "Argentina"
+canal: "WhatsApp"
+mercado: "Corporativo"
+tipo_viajero: "Pareja"
+primera_visita: "14/01/2026"
+ultima_visita: "14/01/2026"
+total_visitas: 1
+gasto_total: 232000.0
+gasto_promedio: 232000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-valles, primera-vez, pareja, corporativo]
+---
+
+# alvarez, carla
+**Hotel**: Hotel Valles
+
+## Datos de contacto
+- **Email**: alvarezcarla
+- **Telefono**: Mov: 5491126683415
+- **Ciudad**: 
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel Valles** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | WhatsApp |
+| Mercado | Corporativo |
+| Visitas | 1 |
+| Gasto total | $232,000 |
+| Gasto promedio | $232,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 14/01/2026 | 16/01/2026 | 1 | 2 | WhatsApp | $232,000 | C. Anticipo |
+

@@ -1,0 +1,254 @@
+﻿Pasajero,visitas,revenue,primera,ultima,adultos_max,menores_max,canal,mercado,email,telefono,ciudad,pais,dias_desde_salida,hotel,segmento,tipo_viajero
+" De María , Diego Nicolás",1,210000.0,2026-02-09,2026-02-12,2,0,WhatsApp,Directo,nicotarotdemaria@gmail.com,Mov: +54 9 2931 49-1214,,Argentina,26,Hotel Kings,Primera vez,Pareja
+" FERREYRA,  VANESSA",1,577373.811,2026-02-07,2026-02-14,2,0,Booking.com,OTAs,cferre.781119@guest.booking.com,Mov: +54 362 470 3895,,Argentina,24,Hotel Kings,Primera vez,Pareja
+" GALIZIA,  ROCIO ",1,604580.35,2026-02-08,2026-02-15,1,1,Booking.com,OTAs,zmabel.582945@guest.booking.com,Mov: +543415145570,,Argentina,23,Hotel Kings,Primera vez,Familia
+" Kruk , Lidia Cristina ",2,958000.0,2025-12-14,2026-03-03,2,0,Contacto Telefónico,Directo,cristina_kruk@hotmail.com,Mov: 5491125300225,Lanús,Argentina,7,Hotel Kings,Recurrente,Pareja
+" ROTH ,  JUAN IGNACIO",1,218344.52,2026-02-20,2026-02-22,2,1,Booking.com,OTAs,rjuani.806691@guest.booking.com,Mov: 542281538314,,Argentina,16,Hotel Kings,Primera vez,Familia
+" castagnola , luis ",1,197904.078,2026-02-24,2026-02-27,2,0,Booking.com,OTAs,aobes.972861@guest.booking.com,Mov:  +5491164750795,,Argentina,11,Hotel Kings,Primera vez,Pareja
+"ACEVEDO , BEATRIZ ",1,70000.0,2026-03-01,2026-03-02,2,0,Walk In,Directo,ACEVEDO,Mov: +5493364373317,,Argentina,8,Hotel Kings,Primera vez,Pareja
+"AGUERO, MELISA",1,288000.0,2026-02-14,2026-02-17,2,0,WhatsApp,Directo,agueromel.0109@gmail.com,Mov: +5491133808868,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"AGUIRRE, NOEMI",1,198000.0,2026-02-14,2026-02-15,4,0,Walk In,Directo,AGUIRRE@NO.MAIL,Mov: 2257405532,,Argentina,23,Hotel Kings,Primera vez,Grupo
+"ANDRES LOPEZ, ALBERTO",1,415977.768,2026-03-01,2026-03-09,2,0,Booking.com,OTAs,dlopez.496960@guest.booking.com,Mov: +5493413733483 - Fij: +54 9 341 611 5291,,Argentina,1,Hotel Kings,Primera vez,Pareja
+"ARRAMBIDE , RENE",1,350000.0,2026-03-01,2026-03-06,2,0,Walk In,Directo,susanaleiva.pincha@gmail.com,Mov: +5492215902773,,Argentina,4,Hotel Kings,Primera vez,Pareja
+"Abril Sandullo, Sharon",1,135457.976,2026-02-25,2026-02-27,2,0,Booking.com,OTAs,csandu.708838@guest.booking.com,Mov:  +5492215233976,,Argentina,11,Hotel Kings,Primera vez,Pareja
+"Adrian, Romano",1,422979.8,2026-02-07,2026-02-15,2,0,Booking.com,OTAs,radria.386702@guest.booking.com,Mov: +54 341 387 6340,,Argentina,23,Hotel Kings,Primera vez,Pareja
+"Adriana Tarifa, Liliana",1,605889.978,2026-02-02,2026-02-08,2,0,Booking.com,OTAs,ltarif.769881@guest.booking.com,Mov: 38815478113 - Fij: +54 388 520 9308,,Argentina,30,Hotel Kings,Primera vez,Pareja
+"Agostina, Salva",1,135490.912,2026-02-22,2026-02-24,2,0,Booking.com,OTAs,sagost.101674@guest.booking.com,Mov: 543492275904,,Argentina,14,Hotel Kings,Primera vez,Pareja
+"Agustin, Amarilla",1,121901.934,2026-02-11,2026-02-13,2,0,Booking.com,OTAs,aagust.197339@guest.booking.com,Mov: +54 11 7102 5440,,Argentina,25,Hotel Kings,Primera vez,Pareja
+"Alan, Vizcarra",1,555222.71,2026-02-02,2026-02-09,2,0,Booking.com,OTAs,valan.807941@guest.booking.com,Mov: +54 11 3076 7947 - Fij: +54 11 3076 7947,,Argentina,29,Hotel Kings,Primera vez,Pareja
+"Alarcon, Caterina",1,69844.515,2026-02-19,2026-02-20,2,0,Booking.com,OTAs,acater.703914@guest.booking.com,Mov: 541125042757,Ciudad Autónoma de Buenos Aires,Argentina,18,Hotel Kings,Primera vez,Pareja
+"Albarracín Quiroga , Erika Belén ",1,220000.0,2026-02-15,2026-02-16,4,0,WhatsApp,Directo,Erkabquiroga@gmail.com,Mov: +54 9 11 3159-7440,Buenos Aires,Argentina,22,Hotel Kings,Primera vez,Grupo
+"Alejandra Lacuadra, Silvia",1,863294.391,2026-02-07,2026-02-16,2,0,Booking.com,OTAs,slacua.549766@guest.booking.com,Mov: +54 11 6806 6454 - Fij: +54 11 6806 6454,,Argentina,22,Hotel Kings,Primera vez,Pareja
+"Alejandra, Ponce",1,378186.213,2026-02-24,2026-02-27,2,0,Booking.com,OTAs,paleja.106815@guest.booking.com,Mov: +54 2281 31 4170 - Fij: +54 2281 31 4170,,Argentina,11,Hotel Kings,Primera vez,Pareja
+"Alexia Iriart, Tamara",1,415089.037,2026-02-24,2026-03-04,2,0,Booking.com,OTAs,tiriar.418744@guest.booking.com,Mov: 541169001201,,Argentina,6,Hotel Kings,Primera vez,Pareja
+"Alfaro, Yanina",1,753393.069,2026-02-16,2026-02-25,2,0,Booking.com,OTAs,yalfar.384865@guest.booking.com,Mov: +54 264 531 1277 - Fij: +54 264 531 1277,,Argentina,13,Hotel Kings,Primera vez,Pareja
+"Alvarez, Viviana",1,347163.146,2026-02-08,2026-02-12,2,0,Booking.com,OTAs,valvar.262916@guest.booking.com,Mov: +54 11 3043 3237,,Argentina,26,Hotel Kings,Primera vez,Pareja
+"Analia Crego, Hebe",1,54437.803,2026-03-09,2026-03-10,2,0,Booking.com,OTAs,hcrego.616334@guest.booking.com,Mov: +54 11 6437 3015 - Fij: +54 11 6437 3015,Ciudad Autónoma de Buenos Aires,Argentina,0,Hotel Kings,Primera vez,Pareja
+"Andres Sanchez, Diego",1,137621.19,2026-03-07,2026-03-08,3,1,Booking.com,OTAs,dsanch.846172@guest.booking.com,Mov: +54 2923 44 9108,,Argentina,2,Hotel Kings,Primera vez,Familia
+"Anna, Ventriglia",1,130801.883,2026-02-24,2026-02-25,4,0,Booking.com,OTAs,vanna.938307@guest.booking.com,Mov: 541162487845,,Argentina,13,Hotel Kings,Primera vez,Grupo
+"Aranda, Cristian",1,108851.528,2026-03-04,2026-03-06,2,0,Booking.com,OTAs,carand.722168@guest.booking.com,Mov: +54 11 7368 7059,,Argentina,4,Hotel Kings,Primera vez,Pareja
+"Arena, Luis",1,191918.718,2026-02-17,2026-02-20,2,0,Booking.com,OTAs,larena.394261@guest.booking.com,Mov: 543487645573,,Argentina,18,Hotel Kings,Primera vez,Pareja
+"Ares, Agustin",1,81000.0,2026-03-03,2026-03-04,2,0,Motor de reservas propio,Directo,romeoelbebe@gmail.com,Mov: 1133770502,,Argentina,6,Hotel Kings,Primera vez,Pareja
+"Ariel Ferreyra, Gustavo",1,359536.836,2026-02-14,2026-02-17,2,0,Booking.com,OTAs,gferre.717903@guest.booking.com,Mov: +54 11 6019 6496,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"BACRI, MARCELA",1,210000.0,2026-03-04,2026-03-07,2,0,Walk In,Directo,marcelabacrimeyer@hotmail.com,Mov: 5492324693494,Mercedes,Argentina,3,Hotel Kings,Primera vez,Pareja
+"BURGUEÑO, MORENA",1,150000.0,2026-02-09,2026-02-11,2,0,Walk In,Directo,morenaburgueno116@gmail.com,Mov: 3489348148,,Argentina,27,Hotel Kings,Primera vez,Pareja
+"Bazan, Chiara",1,68232.384,2026-02-27,2026-02-28,2,0,Booking.com,OTAs,cbazan.509274@guest.booking.com,Mov: +54 341 588 7962,,Argentina,10,Hotel Kings,Primera vez,Pareja
+"Beatriz Ramirez, Rosa",1,621390.154,2026-02-21,2026-02-28,2,0,Booking.com,OTAs,rramir.992503@guest.booking.com,Mov: +54 376 462 1086 - Fij: +54 376 462 1086,,Argentina,10,Hotel Kings,Primera vez,Pareja
+"Berezan Acman , Sergio Marcelo ",1,1287000.0,2026-02-01,2026-02-14,2,0,Contacto Telefónico,Directo,acmanmarcelo@yahoo.com.ar,Mov: 1130853918,,Argentina,24,Hotel Kings,Primera vez,Pareja
+"Berlocq, Rodrigo",1,68030.157,2026-03-08,2026-03-09,2,0,Booking.com,OTAs,rberlo.653496@guest.booking.com,Mov: +54 249 451 0200,,Argentina,1,Hotel Kings,Primera vez,Pareja
+"Bianchini, Aurelio",1,354618.621,2026-02-15,2026-02-18,2,0,Booking.com,OTAs,abianc.482568@guest.booking.com,Mov: +54 2345 65 2200 - Fij: +54 2345 65 2200,,Argentina,20,Hotel Kings,Primera vez,Pareja
+"Bonilla, Nazareno",1,864000.0,2026-02-14,2026-02-24,2,0,Motor de reservas propio,Directo,nazarenobonilla98@gmail.com,Mov: 1125170710,,Argentina,14,Hotel Kings,Primera vez,Pareja
+"Boubee, Anabel",1,122450.862,2026-03-04,2026-03-06,2,0,Booking.com,OTAs,anabelboubee@gmail.com,Mov: 5492262496308,Loberia,Argentina,4,Hotel Kings,Primera vez,Pareja
+"Bruschi , Ana Maria ",2,393000.0,2026-02-09,2026-02-13,1,0,Contacto Telefónico,Directo,anambruschi@gmail.com,Mov: +54 9 11 6192-5385,,Argentina,25,Hotel Kings,Recurrente,Solo
+"Brussini, Juan Pablo",1,57571.788,2026-02-19,2026-02-20,1,0,Booking.com,OTAs,jbruss.809229@guest.booking.com,Mov: 541164982110,Olavarría,Argentina,18,Hotel Kings,Primera vez,Solo
+"Burgos, Ana Beatriz",2,864000.0,2026-02-03,2026-02-08,2,1,Motor de reservas propio,Directo,burgosab15@gmail.com,Mov: 3834005045,,Argentina,30,Hotel Kings,Recurrente,Familia
+"CANI INGRESO 11 VERANO 2026, CANI INGRESO 11 VERANO 2026",1,735000.0,2026-02-06,2026-02-09,6,0,Contacto Telefónico,Tour & Travel,CANI INGRESO 11 VERANO 2026,Mov: CANI INGRESO 11 VERANO 2026,,Indefinido,29,Hotel Kings,Primera vez,Grupo
+"CANI INGRESO 12 VERANO 2026, CANI INGRESO 12 VERANO 2026",1,3900000.0,2026-02-09,2026-02-14,23,0,Contacto Telefónico,Tour & Travel,CANI INGRESO 12 VERANO 2026,Mov: CANI INGRESO 12 VERANO 2026,,Indefinido,24,Hotel Kings,Primera vez,Grupo
+"CANI INGRESO 13 VERANO 2026, CANI INGRESO 13 VERANO 2026",1,2145000.0,2026-02-14,2026-02-17,23,0,Contacto Telefónico,Tour & Travel,CANI INGRESO 13 VERANO 2026,Mov: CANI INGRESO 13 VERANO 2026,,Indefinido,21,Hotel Kings,Primera vez,Grupo
+"CANI INGRESO 14 VERANO 2026, CANI INGRESO 14 VERANO 2026",1,810000.0,2026-02-17,2026-02-20,11,0,Contacto Telefónico,Tour & Travel,CANI INGRESO 14 VERANO 2026,Mov: CANI INGRESO 14 VERANO 2026,,Indefinido,18,Hotel Kings,Primera vez,Grupo
+"CANI INGRESO 15 VERANO 2026, CANI INGRESO 15 VERANO 2026",1,1200000.0,2026-02-20,2026-02-23,13,0,Contacto Telefónico,Tour & Travel,CANI INGRESO 15 VERANO 2026,Mov: CANI INGRESO 15 VERANO 2026,,Indefinido,15,Hotel Kings,Primera vez,Grupo
+"CANI INGRESO 16 VERANO 2026, CANI INGRESO 16 VERANO 2026",1,2880000.0,2026-02-23,2026-02-27,21,0,Contacto Telefónico,Tour & Travel,CANI INGRESO 16 VERANO 2026,Mov: CANI INGRESO 16 VERANO 2026,,Indefinido,11,Hotel Kings,Primera vez,Grupo
+"CARLOS BORROMEDO, JUAN",1,129972.418,2026-03-07,2026-03-08,3,0,Booking.com,OTAs,jborro.571363@guest.booking.com,Mov: 542214085445,,Argentina,2,Hotel Kings,Primera vez,Grupo
+"CELMI, RICARDO ALBERTO",1,122348.35,2026-03-02,2026-03-04,2,0,Booking.com,OTAs,rcelmi.902961@guest.booking.com,Mov: 5491130884057,Buenos Aires,Argentina,6,Hotel Kings,Primera vez,Pareja
+"CERRON BELTRAN , DANIEL",1,112500.0,2026-02-22,2026-02-23,3,0,Walk In,Directo,CERRON@NOCERRON.COM,Mov: 1132560585,,Argentina,15,Hotel Kings,Primera vez,Grupo
+"CESPEDES, HUGO",1,150000.0,2026-02-17,2026-02-19,3,0,Walk In,Directo,ezequielcespedes1990@hotmail.com,Mov: 1151022436,,Indefinido,19,Hotel Kings,Primera vez,Grupo
+"COLLMER, LAURA ALICIA",1,110000.0,2026-02-16,2026-02-17,2,0,Walk In,Directo,lauracollmer389@gmail.com,Mov: +54 9 3382 46-6070 - Fij: +54 9 3382 46-6070,Rufino,Argentina,21,Hotel Kings,Primera vez,Pareja
+"CONTRERA, EVANGELINA",1,110000.0,2026-02-16,2026-02-17,1,0,WhatsApp,Directo,evan.c.hds@gmail.com,Mov: +54 9 2245 55-7639,Dolores,Argentina,21,Hotel Kings,Primera vez,Solo
+"CORRAL, MYRIAM",1,880000.0,2026-02-02,2026-02-10,2,0,Walk In,Directo,CACORRAL60@GMAIL.COM,Mov: 1158070751,,Argentina,28,Hotel Kings,Primera vez,Pareja
+"CUADRA, MARTIN",1,60957.368,2026-02-19,2026-02-20,2,1,Booking.com,OTAs,nnull.476156@guest.booking.com,Mov: 541160411867,,Argentina,18,Hotel Kings,Primera vez,Familia
+"CUEVAS, MARIA VICTORIA ",1,70000.0,2026-03-06,2026-03-07,2,0,Walk In,Directo,"MVCVICTOR11@GMAIL,COM",Mov: 1131570793,,Argentina,3,Hotel Kings,Primera vez,Pareja
+"Cajal, Micaela",1,152926.648,2026-03-06,2026-03-08,2,0,Booking.com,OTAs,mcajal.388661@guest.booking.com,Mov: 541151152672,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"Carlos, Pigretti",1,183522.528,2026-03-05,2026-03-08,2,0,Booking.com,OTAs,cpigre.191231@guest.booking.com,Mov: +54 2245 50 8195,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"Castex, Monica Mariela",1,140000.0,2026-03-06,2026-03-08,2,0,Contacto Telefónico,Directo,marielacastex@gmail.com,Mov: +54 9 2325 65-0391,San Antonio de Areco,Argentina,2,Hotel Kings,Primera vez,Pareja
+"Caudulo, Alfredo ",1,375000.0,2026-02-22,2026-02-27,2,0,Contacto Telefónico,Directo,educaudu@hotmail.com,Mov: +54 9 11 5145-1032,,Argentina,11,Hotel Kings,Primera vez,Pareja
+"Cecilia Ledesma, Andrea",1,491853.383,2026-02-13,2026-02-17,2,0,Booking.com,OTAs,aledes.766697@guest.booking.com,Mov: +54 11 5774 76501 - Fij: +54 11 5774 7650,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"Cristian, Olaechea",1,990000.0,2026-02-21,2026-03-02,2,0,Walk In,Directo,ocrist.530920@guest.booking.com,Mov: +54 11 5781 9720 - Fij: +54 11 5781 9720,,Argentina,8,Hotel Kings,Primera vez,Pareja
+"Cristina Barrera, Maria",1,745471.898,2026-02-02,2026-02-11,2,0,Booking.com,OTAs,mbarre.738913@guest.booking.com,Mov: +54 336 430 7331 - Fij: +54 336 430 7331,,Argentina,27,Hotel Kings,Primera vez,Pareja
+"Czarniecki, Emiliano",1,262652.57,2026-02-15,2026-02-17,2,0,Booking.com,OTAs,eczarn.961913@guest.booking.com,Mov: 541161243986,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"DALLA VALLE, MAURO",2,103500.0,2025-12-08,2026-03-09,1,0,Walk In,Directo,maurodallavalle@hotmail.com.ar,Mov: 1154177889,,Argentina,1,Hotel Kings,Recurrente,Solo
+"DE LIMA, ROSANA ",1,110000.0,2026-02-16,2026-02-17,1,0,Walk In,Directo,rosana7578@gmail.com,Mov: 3764214905,,Argentina,21,Hotel Kings,Primera vez,Solo
+"DIZ, MYRIAM",1,480000.0,2026-02-21,2026-02-26,2,0,WhatsApp,Directo,acjakstas@yahoo.com.ar,Mov: +54 9 3462 68-2915,,Argentina,12,Hotel Kings,Primera vez,Pareja
+"Dario Ferreyra, Ruben",1,135931.04,2026-03-03,2026-03-05,2,0,Booking.com,OTAs,rferre.215120@guest.booking.com,Mov: 541134827800,Moron,Argentina,5,Hotel Kings,Primera vez,Pareja
+"Dario Suviria, Julio Ruben",1,406328.406,2026-02-14,2026-02-17,2,0,Booking.com,OTAs,jsuvir.959542@guest.booking.com,Mov: +54 11 2788 5380,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"Desch, Luciano",1,112500.0,2026-02-28,2026-03-02,2,0,WhatsApp,Directo,ldesch@metrogas.com.ar,Mov: +54 9 11 2690-3226,,Argentina,8,Hotel Kings,Primera vez,Pareja
+"Destinosrecupero, Destinosrecupero",1,0.0,2026-03-01,2026-03-08,22,0,Contacto Telefónico,Tour & Travel,Destinosrecupero,Mov: DestinosDestinosDestinosDestinos,,Indefinido,2,Hotel Kings,Primera vez,Grupo
+"Diaz, Veronica",1,166395.522,2026-03-04,2026-03-07,1,1,Booking.com,OTAs,vdiaz.430064@guest.booking.com,Mov: +54 291 648 8237,,Argentina,3,Hotel Kings,Primera vez,Familia
+"Dolores Roberto, Maria",1,63972.906,2026-02-10,2026-02-11,2,0,Booking.com,OTAs,mrober.563187@guest.booking.com,Mov: +54 223 634 7661,,Argentina,27,Hotel Kings,Primera vez,Pareja
+"Dussich, Juan",1,60957.368,2026-02-22,2026-02-23,1,0,Booking.com,OTAs,jdussi.238204@guest.booking.com,Mov: 541149714215,,Argentina,15,Hotel Kings,Primera vez,Solo
+"ESCOBAR, YESICA PATRICIA",1,0.0,2026-03-02,2026-03-05,2,0,Mail,Tour & Travel,escobaryesicapatricia873@nomail.com,Mov: escobaryesicapatricia873@nomail.com,,Indefinido,5,Hotel Kings,Primera vez,Pareja
+"Enrique Quinteros, Jorge",1,1157055.096,2026-02-09,2026-02-21,2,0,Booking.com,OTAs,jquint.930538@guest.booking.com,Mov: +54 11 3350 4865 - Fij: +54 11 3350 4865,,Argentina,17,Hotel Kings,Primera vez,Pareja
+"Enrique, Maria Lourdes",2,149228.07799999998,2026-02-07,2026-02-20,2,0,Booking.com,OTAs,lenriq.800227@guest.booking.com,Mov: 541160578067,Ituzaingo,Argentina,18,Hotel Kings,Recurrente,Pareja
+"FERRERO, LILIANA BEATRIZ",1,1540000.0,2026-02-11,2026-02-26,2,0,Contacto Telefónico,Directo,lilitaferra@gmail.com,Mov: 011 65452296,Buenos Aires,Argentina,12,Hotel Kings,Primera vez,Pareja
+"FLORES, KEVIN ",1,75000.0,2026-02-13,2026-02-14,2,0,WhatsApp,Directo,kevin@no flores.com,Mov: 221593,,Argentina,24,Hotel Kings,Primera vez,Pareja
+"FURIO, LUCAS",1,150000.0,2026-02-23,2026-02-24,4,0,Walk In,Directo,lucasfurio3@gmail.com,Mov: 5492281595134,Azul,Argentina,14,Hotel Kings,Primera vez,Grupo
+"FUSARO, MARCELO",1,140000.0,2026-02-28,2026-03-02,2,0,Walk In,Directo,marceloafusaro@gmail.com,Mov: 1154563241,,Indefinido,8,Hotel Kings,Primera vez,Pareja
+"Fernanda Apella, Maria",1,459107.892,2026-02-13,2026-02-17,2,0,Booking.com,OTAs,mapell.969603@guest.booking.com,Mov: +54 11 3868 6380,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"Fernandez, Edgardo angel",1,54000.0,2026-03-02,2026-03-03,1,0,Motor de reservas propio,Directo,edgardofernandez1520@yahoo.com,Mov: 1168327471,,Argentina,7,Hotel Kings,Primera vez,Solo
+"Francisco, Amaya",1,107832.974,2026-02-07,2026-02-08,2,1,Booking.com,OTAs,afranc.795959@guest.booking.com,Mov: +54 11 3786 5922,,Argentina,30,Hotel Kings,Primera vez,Familia
+"GANINO, LAUTARO ",1,225000.0,2026-02-18,2026-02-21,2,0,Contacto Telefónico,Directo,ganlautaro@gmail.com,Mov: +54 9 11 6156-7757,,Argentina,17,Hotel Kings,Primera vez,Pareja
+"GARCILAZO , ANGELA",1,67500.0,2026-02-23,2026-02-24,2,0,Walk In,Directo,GARCI,Mov: +5492268515675,,Argentina,14,Hotel Kings,Primera vez,Pareja
+"GOMEZ, X2",1,240000.0,2026-02-09,2026-02-13,2,0,Contacto Telefónico,Corporativo,GOMEZGOMEZGOMEZ,Mov: GOMEZGOMEZGOMEZGOMEZ,,Indefinido,25,Hotel Kings,Primera vez,Pareja
+"GOTTARDELLO, FRANCO",1,75000.0,2026-02-17,2026-02-18,2,0,Walk In,Directo,francogottardello@yahoo.com.ar,Mov: 011-1557552672,,Argentina,20,Hotel Kings,Primera vez,Pareja
+"GUTIERREZ, BELIA",1,0.0,2026-02-28,2026-03-04,2,0,Contacto Telefónico,Corporativo,GUTIERREZGUTIERREZGUTIERREZ,Mov: 1156694673,,Argentina,6,Hotel Kings,Primera vez,Pareja
+"Geatti, Adriana",1,375000.0,2026-02-17,2026-02-22,1,0,WhatsApp,Directo,adrianageatti@hotmail.com,Mov: +54 9 3412 52-4848,,Argentina,16,Hotel Kings,Primera vez,Solo
+"Gianico, Zulema",1,660000.0,2026-02-19,2026-02-23,3,0,WhatsApp,Directo,zuglo2015@hotmail.com,Mov: 5492478540515,Arrecifes,Argentina,15,Hotel Kings,Primera vez,Grupo
+"Gino, Giandinoto",1,388170.904,2026-02-09,2026-02-13,2,0,Booking.com,OTAs,ggino.825060@guest.booking.com,Mov: +54 9 11 7969 2011,,Argentina,25,Hotel Kings,Primera vez,Pareja
+"Gonzales , lucas joaquin",1,70000.0,2026-02-15,2026-02-16,2,0,WhatsApp,Directo,j284299@gmail.com,Mov: +54 9 3874 42-7109,,Argentina,22,Hotel Kings,Primera vez,Pareja
+"Gonzalez, Silvia Isabel ",1,171000.0,2026-03-05,2026-03-08,1,0,WhatsApp,Directo,silviaisabelgonzalez@hotmail.com,Mov: +54 9 11 7365-5137 - Fij: +54 9 11 7365-5137,Avellaneda,Argentina,2,Hotel Kings,Primera vez,Solo
+"Gracetour, Gracetour",1,8225000.0,2026-02-27,2026-03-04,50,0,Mail,Tour & Travel,gracetours@coopconesa.com.ar,Mov: 03364492325 - Fij: 03364492325,,Indefinido,6,Hotel Kings,Primera vez,Grupo
+"Guillermina, Gomez",1,115140.986,2026-02-11,2026-02-13,2,0,Booking.com,OTAs,gguill.256032@guest.booking.com,Mov: 542233403639,,Argentina,25,Hotel Kings,Primera vez,Pareja
+"Habermann, Roberto Adrian",1,216000.0,2026-02-27,2026-03-03,1,0,Motor de reservas propio,Directo,jimenita_yl87@hotmail.com,Mov: 1161780326,,Argentina,7,Hotel Kings,Primera vez,Solo
+"Hellen, Manzol",1,60950.967,2026-02-17,2026-02-18,2,1,Booking.com,OTAs,mhelle.911108@guest.booking.com,Mov: 541123991325,,Argentina,20,Hotel Kings,Primera vez,Familia
+"Hernan Rodriguez, Gonzalo",1,594987.348,2026-02-16,2026-02-23,2,0,Booking.com,OTAs,grodri.702662@guest.booking.com,Mov: +54 261 209 2014 - Fij: +54 261 209 2014,,Argentina,15,Hotel Kings,Primera vez,Pareja
+"INGRESO 6 VGP 2026, INGRESO 6 VGP 2026",1,1400000.0,2026-02-09,2026-02-16,7,0,Contacto Telefónico,Tour & Travel,INGRESO 6 VGP 2026,Mov: INGRESO 6 VGP 2026,,Indefinido,22,Hotel Kings,Primera vez,Grupo
+"INGRESO 7 VGP 2026, INGRESO 7 VGP 2026",1,1400000.0,2026-02-16,2026-02-23,6,0,Contacto Telefónico,Tour & Travel,INGRESO 7 VGP 2026,Mov: INGRESO 7 VGP 2026,,Indefinido,15,Hotel Kings,Primera vez,Grupo
+"INGRESO 7, DESTINOS",1,9240000.0,2026-02-15,2026-02-22,40,0,Contacto Telefónico,Tour & Travel,ING7,Mov: INGRESO7,,Indefinido,16,Hotel Kings,Primera vez,Grupo
+"INGRESO 8 VGP 2026, INGRESO 8 VGP 2026",1,490000.0,2026-02-23,2026-03-02,2,0,Contacto Telefónico,Tour & Travel,INGRESO 8 VGP 2026,Mov: INGRESO 8 VGP 2026,,Indefinido,8,Hotel Kings,Primera vez,Pareja
+"INGRESO5, DESTINOS",1,8536500.0,2026-02-01,2026-02-08,41,0,Contacto Telefónico,Tour & Travel,ING5,Mov: INGRESO5,,Indefinido,30,Hotel Kings,Primera vez,Grupo
+"INGRESO6, destinos",2,12810000.0,2026-02-07,2026-02-15,40,0,Contacto Telefónico,Tour & Travel,ING6destinos,Mov: ING6destinos,,Indefinido,23,Hotel Kings,Recurrente,Grupo
+"INGRESO8, destinos",2,12775000.0,2026-02-21,2026-03-01,44,0,Contacto Telefónico,Tour & Travel,ing8destinos,Mov: ing8destinossss,,Indefinido,9,Hotel Kings,Recurrente,Grupo
+"ISABEL SAMBATARO, LILIANA",1,933074.802,2026-01-29,2026-02-08,1,0,Booking.com,OTAs,lsamba.730589@guest.booking.com,Mov: +54 2622 52 8495 - Fij: +54 2622 52 8495,,Argentina,30,Hotel Kings,Primera vez,Solo
+"Iaco, Fidel",1,60644.099,2026-02-26,2026-02-27,2,0,Booking.com,OTAs,fiaco.137619@guest.booking.com,Mov: 1149746043,,Argentina,11,Hotel Kings,Primera vez,Pareja
+"Imparado, Juan",2,135957.36800000002,2026-02-18,2026-03-05,2,1,Booking.com,Directo,alejandro@hotmail.com,Mov: 3517526229,Buenos Aires,Argentina,5,Hotel Kings,Recurrente,Familia
+"JORDA , SUSANA ",1,528000.0,2026-02-24,2026-03-02,2,0,WhatsApp,Corporativo,susanajorda@hotmail.com,Mov: +54 9 11 6887-0233,,Argentina,8,Hotel Kings,Primera vez,Pareja
+"Javier, Ramos",1,107712.228,2026-02-21,2026-02-22,2,0,Booking.com,OTAs,rjavie.697565@guest.booking.com,Mov: 541136008952,,Argentina,16,Hotel Kings,Primera vez,Pareja
+"Joaquin, Franco",1,61225.431,2026-03-09,2026-03-10,2,0,Booking.com,OTAs,fjoaqu.888345@guest.booking.com,Mov: +54 223 503 4564,,Argentina,0,Hotel Kings,Primera vez,Pareja
+"Jose Garcia, Ciro",1,430477.562,2026-02-09,2026-02-14,2,0,Booking.com,OTAs,cgarci.450346@guest.booking.com,Mov: +54 341 349 9150 - Fij: +54 341 349 9150,,Argentina,24,Hotel Kings,Primera vez,Pareja
+"Juarez, Paulina",1,60957.368,2026-02-22,2026-02-23,2,0,Booking.com,OTAs,pjuare.435221@guest.booking.com,Mov: 542494626761,,Argentina,15,Hotel Kings,Primera vez,Pareja
+"Jurado, Ricardo",1,54437.803,2026-03-09,2026-03-10,2,0,Booking.com,OTAs,rjurad.586315@guest.booking.com,Mov: +54 387 464 1319,,Argentina,0,Hotel Kings,Primera vez,Pareja
+"Kastelan, Lucas",1,478315.518,2026-02-16,2026-02-20,2,0,Booking.com,OTAs,lkaste.518944@guest.booking.com,Mov: +54 2325 68 8709,,Argentina,18,Hotel Kings,Primera vez,Pareja
+"Larico, Norma",1,106000.0,2026-03-06,2026-03-08,1,0,WhatsApp,Directo,norlarico@gmail.com,Mov: 54 9 11 3808-9856,,Argentina,2,Hotel Kings,Primera vez,Solo
+"Laura, Celani",1,503432.832,2026-02-18,2026-02-25,2,0,Booking.com,OTAs,claura.553754@guest.booking.com,Mov: +54 291 577 6995,,Argentina,13,Hotel Kings,Primera vez,Pareja
+"Leandra Balina, Maria",2,121914.736,2026-02-20,2026-03-01,2,1,Booking.com,OTAs,mbalin.335720@guest.booking.com,Mov: 542266460752,,Argentina,9,Hotel Kings,Recurrente,Familia
+"Lerra, Tania",1,97044.347,2026-02-07,2026-02-08,2,0,Booking.com,OTAs,tlerra.845538@guest.booking.com,Mov: +54 2244 46 2075,,Argentina,30,Hotel Kings,Primera vez,Pareja
+"MARTINELLI, OSVALDO NESTOR",1,225000.0,2026-02-18,2026-02-21,2,0,Contacto Telefónico,Directo,martinelliosvaldo@yahoo.com.ar,Mov: 5491167981135,Merlo,Argentina,17,Hotel Kings,Primera vez,Pareja
+"MARTINEZ, CARLOS",1,140000.0,2026-02-07,2026-02-09,2,0,Walk In,Directo,MAR@NO MARTINEZ.COM.AR,Mov: 2477347274,Buenos Aires,Argentina,29,Hotel Kings,Primera vez,Pareja
+"MATALONI, STELLA MARIS",1,180000.0,2026-02-06,2026-02-09,2,0,Contacto Telefónico,Corporativo,matalonistella@gmail.com,Mov: 5491139078381,Santos Lugares,Argentina,29,Hotel Kings,Primera vez,Pareja
+"MEDINA, MERCEDES",1,210000.0,2026-02-10,2026-02-13,2,0,Walk In,Directo,NO@HOTMAILLL.COM,Mov: 3794347176,,Argentina,25,Hotel Kings,Primera vez,Pareja
+"MENDOZA, DOMINGO",1,53000.0,2026-03-06,2026-03-07,1,0,Contacto Telefónico,Directo,mendozahdomigo@gmail.com,Mov: 3434524604,,Argentina,3,Hotel Kings,Primera vez,Solo
+"MEZA, ANDREA ",1,198000.0,2026-03-04,2026-03-07,2,0,Contacto Telefónico,Tour & Travel,MEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZAMEZA,Mov: +5491126650640,,Argentina,3,Hotel Kings,Primera vez,Pareja
+"MIHAICH, LAUTARO",1,0.0,2026-02-28,2026-03-06,2,0,Contacto Telefónico,Tour & Travel,MIHAICHMIHAICH,Mov:  +5493537659960,,Argentina,4,Hotel Kings,Primera vez,Pareja
+"MORENO, CESAR",1,70000.0,2026-02-08,2026-02-09,2,0,Walk In,Directo,MORENO@NO MAIL.COM,Mov: 3515070425,,Indefinido,29,Hotel Kings,Primera vez,Pareja
+"MOYA, LUIS",1,66000.0,2026-03-02,2026-03-03,2,0,Walk In,Directo,gaby.carro@outlook.com,Mov: 1549159635300 - Fij: +54 9 11 5963-5300,San Justo,Argentina,7,Hotel Kings,Primera vez,Pareja
+"Maira, Bentos",1,190333.63,2026-02-20,2026-02-22,2,0,Booking.com,OTAs,bmaira.848045@guest.booking.com,Mov: +54 345 419 9236,,Argentina,16,Hotel Kings,Primera vez,Pareja
+"Maldonado, Matias Leonardo",1,115143.576,2026-02-19,2026-02-21,1,0,Booking.com,OTAs,liliana.e.delfante@gmail.com,Mov: 542284570399,Olavarría,Argentina,17,Hotel Kings,Primera vez,Solo
+"Mansini, Mercedes",1,373229.92,2026-02-05,2026-02-09,2,0,Booking.com,OTAs,mmansi.118283@guest.booking.com,Mov: 5491169249976 - Fij: +54 11 6924 9976,Ituzaingo,Argentina,29,Hotel Kings,Primera vez,Pareja
+"Manzur, Lucas",2,154957.997,2026-02-21,2026-02-23,1,0,Booking.com,OTAs,lmanzu.674089@guest.booking.com,Mov: 54136207095,,Argentina,15,Hotel Kings,Recurrente,Solo
+"Maradona, Daiana",1,555222.731,2026-02-02,2026-02-09,1,0,Booking.com,OTAs,dmarad.657557@guest.booking.com,Mov: +54 264 566 9556,,Argentina,29,Hotel Kings,Primera vez,Solo
+"Marchisio, Magali",1,69844.515,2026-02-22,2026-02-23,2,0,Booking.com,OTAs,mmarch.419796@guest.booking.com,Mov: 541136729591,,Argentina,15,Hotel Kings,Primera vez,Pareja
+"Maria Lescano, Claudia Marcela",2,269896.55700000003,2026-03-03,2026-03-07,2,0,Booking.com,Directo,clesca.775583@guest.booking.com,Mov: +5491160239592,,Argentina,3,Hotel Kings,Recurrente,Pareja
+"Mariano, Giobbe",1,551764.934,2026-02-02,2026-02-09,2,0,Booking.com,OTAs,gmaria.821077@guest.booking.com,Mov: +54 11 6155 6112 - Fij: +54 11 6155 6112,,Argentina,29,Hotel Kings,Primera vez,Pareja
+"Markowsky , gustavo",1,525000.0,2026-03-01,2026-03-08,2,0,WhatsApp,Directo,gustavomar2025@gmail.com,Mov: +54 9 3425 26-4179,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"Martin Ferro, Franco",1,182872.104,2026-02-24,2026-02-27,2,0,Booking.com,OTAs,fferro.169841@guest.booking.com,Mov: 543813942443,,Argentina,11,Hotel Kings,Primera vez,Pareja
+"Martin, Alejandra ",1,75000.0,2026-02-21,2026-02-22,1,0,Contacto Telefónico,Directo,alemartin31@yahoo.com,Mov: +54 9 2281 41-2040,,Indefinido,16,Hotel Kings,Primera vez,Solo
+"Martinez, Claudia Marcela",2,870000.0,2026-02-06,2026-02-11,4,0,Mail,Directo,martinezclaudiamarcela429@nomail.com,Mov: +5493489636178,,Argentina,27,Hotel Kings,Recurrente,Grupo
+"Martinez, Rodrigo",1,317174.202,2026-02-06,2026-02-09,2,0,Booking.com,OTAs,lcwsqt.865562@guest.booking.com,Mov: 5493484383886,Ingeniero Maschwitz,Argentina,29,Hotel Kings,Primera vez,Pareja
+"Mateo, Marcelo",1,140000.0,2026-02-21,2026-02-22,4,0,Contacto Telefónico,Directo,Marcelo_lp2006@hotmail.com,Mov: +54 9 2214 76-8450,,Indefinido,16,Hotel Kings,Primera vez,Grupo
+"Matricali, Angel",1,1100000.0,2026-02-17,2026-02-27,2,0,WhatsApp,Directo,mariamasche413@gmail.com,Mov: 5491167539637 - Fij: +54 11 6753 9637,Lanús,Argentina,11,Hotel Kings,Primera vez,Pareja
+"Mauricio Gaston, Gonzalez",1,236394.142,2026-02-15,2026-02-17,2,0,Booking.com,OTAs,ggasto.261939@guest.booking.com,Mov: 541170665250,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"Max Desideri, Juan",1,166790.598,2026-02-20,2026-02-22,2,0,Booking.com,OTAs,jdesid.268430@guest.booking.com,Mov: 543442507460,,Argentina,16,Hotel Kings,Primera vez,Pareja
+"Mendoza, Tamara",1,74216.766,2026-02-20,2026-02-21,2,0,Booking.com,OTAs,tmendo.590174@guest.booking.com,Mov: 543888451014,,Argentina,17,Hotel Kings,Primera vez,Pareja
+"Miñano, Raul Lucas",1,720000.0,2026-02-05,2026-02-09,4,0,Mail,Tour & Travel,minanoraullucas769@nomail.com,Mov:  +5491128961230,,Argentina,29,Hotel Kings,Primera vez,Grupo
+"Monica, Luna",1,195000.0,2026-02-21,2026-02-24,2,0,Booking.com,OTAs,lmonic.740237@guest.booking.com,Mov: 5493815949395,,Argentina,14,Hotel Kings,Primera vez,Pareja
+"Monica, Sosa",1,575340.864,2026-02-18,2026-02-26,2,0,Booking.com,OTAs,smonic.804480@guest.booking.com,Mov: +54 11 6664 1684,,Argentina,12,Hotel Kings,Primera vez,Pareja
+"Montiel, Silvana",1,438601.887,2026-02-20,2026-02-27,2,0,Booking.com,OTAs,smonti.550573@guest.booking.com,Mov: 541137691989,,Argentina,11,Hotel Kings,Primera vez,Pareja
+"Morales, Thiago",1,548061.176,2026-02-12,2026-02-16,2,0,Booking.com,OTAs,tmoral.566015@guest.booking.com,Mov: +54 221 607 8007,,Argentina,22,Hotel Kings,Primera vez,Pareja
+"Moreno, Oriana nicole",1,440000.0,2026-02-13,2026-02-17,2,0,WhatsApp,Directo,ori_moreno@hotmail.com.ar,Mov: +5492974119239 - Fij:  ,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"Mure  , lila ",1,375000.0,2026-03-01,2026-03-06,2,0,WhatsApp,Directo,lilah1955@yahoo.com.ar,Mov: +54 9 2216 23-9901,,Argentina,4,Hotel Kings,Primera vez,Pareja
+"Neluda Iribarren, Martha",1,793087.119,2026-02-17,2026-02-26,2,0,Booking.com,OTAs,miriba.342524@guest.booking.com,Mov: +54 11 5139 8083,,Argentina,12,Hotel Kings,Primera vez,Pareja
+"Norberto, Abregu",1,121901.934,2026-02-17,2026-02-19,1,0,Booking.com,OTAs,anorbe.357946@guest.booking.com,Mov: 541154955929,,Argentina,19,Hotel Kings,Primera vez,Solo
+"Nuzzolese, Angel",1,133000.0,2026-03-03,2026-03-05,2,0,Contacto Telefónico,Directo,NUZZONUZZO,Mov: 5491141673371,Ciudad Autónoma de Buenos Aires,Argentina,5,Hotel Kings,Primera vez,Pareja
+"OLEAS,  norberto",1,240000.0,2026-02-13,2026-02-17,2,0,Contacto Telefónico,Corporativo,OLEASOLEAS,Mov:  +5491127748550,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"OLGUIN, ALEJANDRO GERMAN",1,345600.0,2026-02-11,2026-02-15,2,0,Motor de reservas propio,Directo,m1o9r9o2n@gmail.com,Mov: 01165091421,,Argentina,23,Hotel Kings,Primera vez,Pareja
+"Olasagastia, Ana",1,183600.0,2026-03-05,2026-03-08,1,0,Motor de reservas propio,Directo,saulgonza22@hotmail.com,Mov: 2914390480 - Fij: 2914390480,,Argentina,2,Hotel Kings,Primera vez,Solo
+"Otero, Silvia Marcelo",1,70000.0,2026-02-07,2026-02-08,2,0,Contacto Telefónico,Directo,marcelaotero03@gmail.com,Mov: +54 9 2215 66-7603,La Plata,Argentina,30,Hotel Kings,Primera vez,Pareja
+"PAZZAGLIA, CAMILA",1,75000.0,2026-02-19,2026-02-20,2,0,Walk In,Directo,pastaglia@nomail.com,Mov: 5491144451109,San Antonio de Areco,Argentina,18,Hotel Kings,Primera vez,Pareja
+"PORTILLO ACOSTA, LILIAN NOEMI",1,300000.0,2026-02-18,2026-02-23,2,0,Contacto Telefónico,Corporativo,PORTILLO ACOSTA,Mov: PORTILLO ACOSTA,,Indefinido,15,Hotel Kings,Primera vez,Pareja
+"Parietti, Nelva",1,368655.808,2026-02-27,2026-03-05,2,0,Booking.com,OTAs,nparie.250456@guest.booking.com,Mov: 54225243929,,Argentina,5,Hotel Kings,Primera vez,Pareja
+"Pau, Marina Gabriela",1,1100000.0,2026-02-02,2026-02-12,2,0,WhatsApp,Directo,marina.g.pau@gmail.com,Mov: 5491162311519,Ciudad Autónoma de Buenos Aires,Argentina,26,Hotel Kings,Primera vez,Pareja
+"Paz, Virginia",1,225000.0,2026-02-23,2026-02-26,2,0,Walk In,Directo,virpqz@gmail.com,Mov: 5491124580737,Tortuguitas,Argentina,12,Hotel Kings,Primera vez,Pareja
+"Pendenza, Juliana",1,60957.368,2026-02-20,2026-02-21,2,1,Booking.com,OTAs,jpende.955140@guest.booking.com,Mov: 542213160319,,Argentina,17,Hotel Kings,Primera vez,Familia
+"Pereyra, Norma",1,304000.0,2026-03-05,2026-03-09,2,0,Mail,Corporativo,pereyranorma111@nomail.com,Mov: +5492216736759,,Argentina,1,Hotel Kings,Primera vez,Pareja
+"Peyortt, Alcides",1,108694.784,2026-03-06,2026-03-08,2,0,Booking.com,OTAs,apeyor.912056@guest.booking.com,Mov: +933364379648,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"Pinto Anunciada , Teresa",1,105000.0,2026-03-08,2026-03-09,3,0,WhatsApp,Directo,tere.lanzillotta@hotmail.com,Mov: +54 9 11 4038-5551,,Indefinido,1,Hotel Kings,Primera vez,Grupo
+"Principato, cristina viviana",1,210000.0,2026-02-21,2026-02-24,2,0,Contacto Telefónico,Tour & Travel,PrincipatoPrincipato,Mov: PrincipatoPrincipatoPrincipato - Fij: 1164122808,,Indefinido,14,Hotel Kings,Primera vez,Pareja
+"REY , EZEQUIEL ",1,132000.0,2026-03-05,2026-03-08,2,0,Walk In,Directo,REYREY,Mov: +5491160358394,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"RIOS, ALBERTO",1,150000.0,2026-02-06,2026-02-08,2,0,Walk In,Directo,rios18385@gmail.com,Mov: 1141680793,,Indefinido,30,Hotel Kings,Primera vez,Pareja
+"RIVERO, MAXIMILIANO",1,75000.0,2026-02-11,2026-02-12,2,0,Walk In,Directo,RIVERO@RIVERO.COM,Mov: 1126574030,,Argentina,26,Hotel Kings,Primera vez,Pareja
+"ROMERO , MARIANA",1,202500.0,2026-02-24,2026-02-26,3,0,Contacto Telefónico,Directo,luisita2025gutierrez@gmail.com,Mov: 1141790237,,Argentina,12,Hotel Kings,Primera vez,Grupo
+"Ramirez, Marta",1,180000.0,2026-02-14,2026-02-17,1,0,Contacto Telefónico,Tour & Travel,ramirezmarta532@gmail.com,Mov: 1125215924,,Argentina,21,Hotel Kings,Primera vez,Solo
+"Renauld, Gustavo",1,577379.815,2026-02-18,2026-02-23,2,0,Booking.com,OTAs,grenau.247904@guest.booking.com,Mov: +54 343 451 8092,,Argentina,15,Hotel Kings,Primera vez,Pareja
+"Ricardo, Marino",1,60950.967,2026-02-20,2026-02-21,2,0,Booking.com,OTAs,mricar.395725@guest.booking.com,Mov: +54 2262 61 3856,,Argentina,17,Hotel Kings,Primera vez,Pareja
+"Ricci, Gustavo ",6,344345.497,2025-09-12,2026-03-07,2,0,WhatsApp,Directo,tavoricci520@gmail.com,Mov: 5491160982381,Avellaneda,Argentina,3,Hotel Kings,VIP,Pareja
+"Rios Ferreyra, MAXIMILIANO",2,261000.0,2026-02-12,2026-02-13,3,0,Walk In,Directo,maxi13rios@gmail.com,Mov: +54 9 11 6850-4199,Merlo,Argentina,25,Hotel Kings,Recurrente,Grupo
+"Robles, Joaquin",1,396000.0,2026-02-09,2026-02-13,2,0,Motor de reservas propio,Directo,joakro102@gmail.com,Mov: +5491164667717 - Fij: 1164667717,,Argentina,25,Hotel Kings,Primera vez,Pareja
+"Rodriguez, Jorge Alberto",1,550000.0,2026-02-09,2026-02-14,2,0,Walk In,Directo,suarezluciana83@hotmail.com,Mov: 5491144347062,Avellaneda,Argentina,24,Hotel Kings,Primera vez,Pareja
+"SABOREDO, AYELEN",3,213000.0,2025-12-16,2026-02-14,2,0,Walk In,Directo,saboredoayelen184@nomail.com,Mov: 22571542322,,Indefinido,24,Hotel Kings,VIP,Pareja
+"SALCEDO DAMIAN , JORGE ",2,350000.0,2026-03-03,2026-03-08,2,0,Walk In,Directo,salcedo@nomail.com,Mov: 5491140653674,Ciudad Autónoma de Buenos Aires,Argentina,2,Hotel Kings,Recurrente,Pareja
+"SILVEYRA MADRID, SOFIA",1,57000.0,2026-02-10,2026-02-11,1,0,Walk In,Directo,madridsofia326@gmail.com,Mov: 2281302376,,Argentina,27,Hotel Kings,Primera vez,Solo
+"SOSA, sebastian ",1,240000.0,2026-02-17,2026-02-21,2,0,WhatsApp,Corporativo,SOSASOSASOSA,Mov: +5491168059693,,Argentina,17,Hotel Kings,Primera vez,Pareja
+"SPRECHMANN, alejandra ",1,180000.0,2026-02-25,2026-02-28,2,0,Contacto Telefónico,Corporativo,SPRECHMANN,Mov:  +5491162700583,,Argentina,10,Hotel Kings,Primera vez,Pareja
+"Saboredo, Ayelen",3,241000.0,2026-01-29,2026-03-07,2,0,Walk In,Directo,ayesaboredo@gmail.com,Mov: 5491122925796,San Bernardo,Argentina,3,Hotel Kings,VIP,Pareja
+"Salletti, Lorena",1,810000.0,2026-02-17,2026-02-23,3,0,Mail,Tour & Travel,jorgemoreo@yahoo.com.ar,Mov: +5491169744044,,Argentina,15,Hotel Kings,Primera vez,Grupo
+"San Roman, Eugenio Aman",1,375000.0,2026-02-19,2026-02-24,1,0,Walk In,Directo,eugesanroman@hotmail.com,Mov: 5491159942179,Hurlingham,Argentina,14,Hotel Kings,Primera vez,Solo
+"Sanchez, Eduardo",2,620154.0869999999,2026-02-12,2026-02-17,2,0,Booking.com,OTAs,esanch.448754@guest.booking.com,Mov: +54 3329 69 0544,,Argentina,21,Hotel Kings,Recurrente,Pareja
+"Segovia, Amelia ",1,162000.0,2026-03-06,2026-03-08,2,0,Motor de reservas propio,Directo,esther@esthersegovia.com,Mov: 149458442,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"Silvero, Lazaro",1,76463.324,2026-03-07,2026-03-08,2,0,Booking.com,OTAs,lsilve.838897@guest.booking.com,Mov: 542215418948,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"Soledad, Insembrante",1,118197.071,2026-02-14,2026-02-15,2,0,Booking.com,OTAs,isoled.512316@guest.booking.com,Mov: 542214590977,,Argentina,23,Hotel Kings,Primera vez,Pareja
+"Susana, Torres",1,169533.196,2026-03-05,2026-03-08,2,0,Booking.com,OTAs,tsusan.405662@guest.booking.com,Mov: +54 261 662 1005,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"TERRANOVA, GABRIELA",1,60000.0,2026-02-28,2026-03-01,2,0,Contacto Telefónico,Tour & Travel,TERRANOVA,Mov: 1170622785,,Argentina,9,Hotel Kings,Primera vez,Pareja
+"Tokan, Veronika",1,57570.493,2026-02-17,2026-02-18,2,1,Booking.com,OTAs,vtokan.390557@guest.booking.com,Mov: 541171326516,,Argentina,20,Hotel Kings,Primera vez,Familia
+"Tortonesi, Pilar",1,630000.0,2026-02-02,2026-02-09,2,0,Mail,Tour & Travel,tortonesipilar251@nomail.com,Mov: 0247715518632,,Indefinido,29,Hotel Kings,Primera vez,Pareja
+"VALENZUELA, NANCY ",1,140000.0,2026-02-28,2026-03-02,2,0,Contacto Telefónico,Tour & Travel,VALENZUELAVALENZUELAVALENZUELA,Mov: +5491169730281,,Argentina,8,Hotel Kings,Primera vez,Pareja
+"Vaccaro, Carlos",2,612900.0,2025-11-13,2026-02-26,3,0,Contacto Telefónico,Directo,vacaro@nomail.com,Mov: 5492216905329,La Plata,Argentina,12,Hotel Kings,Recurrente,Grupo
+"Vilches, Claudio",1,0.0,2026-03-03,2026-03-08,2,0,Contacto Telefónico,Corporativo,claudio@nomail.com,Mov: 1161470242,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"Villarreal, Carlos",1,600000.0,2026-03-01,2026-03-09,2,0,WhatsApp,Directo,villacarrlos,Mov: +54 9 11 44222559,,Argentina,1,Hotel Kings,Primera vez,Pareja
+"Widerker, Elina",1,770000.0,2026-02-03,2026-02-10,2,0,WhatsApp,Directo,elinawiderker@gmail.com,Mov: 5491131969272,,Argentina,28,Hotel Kings,Primera vez,Pareja
+"YAGUI, ANA",1,67500.0,2026-02-24,2026-02-25,2,0,Walk In,Directo,NO @NO MAIL.COM.AR,Mov: 2213184024,,Argentina,13,Hotel Kings,Primera vez,Pareja
+"acevedo, magali maitena",1,350000.0,2026-02-14,2026-02-19,2,0,Mail,Tour & Travel,acevedoacevedo,Mov: +5491133501059,,Indefinido,19,Hotel Kings,Primera vez,Pareja
+"adelmo , silvia ",1,140000.0,2026-02-06,2026-02-08,2,0,WhatsApp,Directo,adelmosi,Mov: +54 9 11 3911-2983,,Argentina,30,Hotel Kings,Primera vez,Pareja
+"advsadvsadv, asvsa",1,342000.0,2026-02-28,2026-03-04,2,0,Portal de reservas,Directo,aa0@hotmail.com,Mov: 0445777577,,Argentina,6,Hotel Kings,Primera vez,Pareja
+"aimale, nicolas",1,60950.967,2026-02-17,2026-02-18,2,0,Booking.com,OTAs,naimal.797202@guest.booking.com,Mov: 542215991052,,Argentina,20,Hotel Kings,Primera vez,Pareja
+"alejandro, troglia",1,108197.861,2026-02-07,2026-02-08,2,0,Booking.com,OTAs,taleja.508280@guest.booking.com,Mov: +54 2266 61 6254,,Argentina,30,Hotel Kings,Primera vez,Pareja
+"aranda, franco",1,405000.0,2026-02-07,2026-02-10,2,0,Mail,Tour & Travel,ARANDAFRANCO,Mov: +5491170835515,,Indefinido,28,Hotel Kings,Primera vez,Pareja
+"bahamonde, andres",1,50000.0,2026-03-06,2026-03-07,1,0,Walk In,Directo,luis27bahamonde@gmail.com,Mov: 56945451496,,Chile,3,Hotel Kings,Primera vez,Solo
+"beatriz Flores, Rosa",1,69854.183,2026-02-28,2026-03-01,1,1,Booking.com,OTAs,rflore.524619@guest.booking.com,Mov: +54 348 451 2000,,Argentina,9,Hotel Kings,Primera vez,Familia
+"camila, gonzalez",1,59618.285,2026-03-07,2026-03-08,2,0,Booking.com,OTAs,gcamil.759880@guest.booking.com,Mov: +54 2964 50 8156,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"cantero, julio ",1,240000.0,2026-02-21,2026-02-25,2,0,Contacto Telefónico,Tour & Travel,ANDRES666CANTERO@HOTMAIL.COM,Mov: 1124531018,,Argentina,13,Hotel Kings,Primera vez,Pareja
+"chorvat, margarita",1,480000.0,2026-02-20,2026-02-25,2,0,WhatsApp,Directo,maritachorvat@gmail.com,Mov:  +549113735539974,,Indefinido,13,Hotel Kings,Primera vez,Pareja
+"clemente, josé",1,342000.0,2026-03-03,2026-03-09,1,0,Contacto Telefónico,Tour & Travel,clementeclementeclemente,Mov: +5491159903327,,Argentina,1,Hotel Kings,Primera vez,Solo
+"conde, alicia",1,922644.361,2026-02-09,2026-02-15,1,1,Booking.com,OTAs,aconde.474353@guest.booking.com,Mov: +54 294 469 3245,,Argentina,23,Hotel Kings,Primera vez,Familia
+"coronel, oscar",1,270000.0,2026-02-14,2026-02-17,2,0,Contacto Telefónico,Corporativo,coronel,Mov: +5492932506559,,Argentina,21,Hotel Kings,Primera vez,Pareja
+"crippa, sara",1,240000.0,2026-02-21,2026-02-25,2,0,Contacto Telefónico,Corporativo,no@gami.com,Mov: 1165573178,,Indefinido,13,Hotel Kings,Primera vez,Pareja
+"forte, gisela",1,169203.592,2026-02-19,2026-02-21,2,0,Booking.com,OTAs,forteevangelina8@gmail.com,Mov: 549 11235252,,Argentina,17,Hotel Kings,Primera vez,Pareja
+"gabriel fernandez, mario",1,209533.545,2026-02-24,2026-02-27,2,0,Booking.com,OTAs,mferna.897160@guest.booking.com,Mov: 541561653781,,Argentina,11,Hotel Kings,Primera vez,Pareja
+"galaverna, alberto",2,212000.0,2026-02-13,2026-02-17,1,0,Walk In,Directo,no@galavwerna.com,Mov: galarvernagalaverna,,Argentina,21,Hotel Kings,Recurrente,Solo
+"german hoffmann, Matias",1,139708.366,2026-02-26,2026-02-28,2,1,Booking.com,OTAs,mhoffm.462773@guest.booking.com,Mov: +54 11 7108 7833,,Argentina,10,Hotel Kings,Primera vez,Familia
+"gisel Ortiz, Tamara",1,170464.909,2026-02-06,2026-02-08,2,0,Booking.com,OTAs,tortiz.518887@guest.booking.com,Mov: +54 11 5947 1851,,Argentina,30,Hotel Kings,Primera vez,Pareja
+"gonzalez, maria ines",1,180000.0,2026-02-17,2026-02-20,2,0,Contacto Telefónico,Tour & Travel,princesa1547@gmail.com,Mov: 1158605956,,Argentina,18,Hotel Kings,Primera vez,Pareja
+"gonzalez, martin",1,74527.131,2026-03-06,2026-03-07,2,0,Booking.com,OTAs,margon88@hotmail.com,Mov: 2254585626,,Argentina,3,Hotel Kings,Primera vez,Pareja
+"gonzalez, victor rene",1,664000.0,2026-02-27,2026-03-03,4,0,Mail,Corporativo,gonzalezvictorrene2@nomail.com,Mov: 1159063951,,Argentina,7,Hotel Kings,Primera vez,Grupo
+"ingreso 7, PRETTI",1,3150000.0,2026-02-14,2026-02-21,13,0,Mail,Tour & Travel,PRETIIIIIIIIIIII,Mov: ING7PRETTIII,,Indefinido,17,Hotel Kings,Primera vez,Grupo
+"islan, martina",1,1400000.0,2026-02-02,2026-02-09,6,0,Contacto Telefónico,Tour & Travel,jorge.er21@gmail.com,Mov: 381-4189429,,Indefinido,29,Hotel Kings,Primera vez,Grupo
+"juana, maria",1,450000.0,2026-03-02,2026-03-08,2,0,WhatsApp,Directo,verolobita181@gmail.com,Mov: +5492215757629,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"landeyro, tomas",1,140000.0,2026-02-20,2026-02-22,2,0,Walk In,Directo,tlandeyro@gmail.com,Mov: 2262336886,,Argentina,16,Hotel Kings,Primera vez,Pareja
+"lini, alejandra",1,462000.0,2026-03-03,2026-03-10,2,0,Mail,Tour & Travel,linialejandra422@nomail.com,Mov:  +5492616509739,,Argentina,0,Hotel Kings,Primera vez,Pareja
+"mac, juli",1,1188000.0,2026-02-02,2026-02-14,2,0,Motor de reservas propio,Directo,macias.julieta@hotmail.com,Mov: 2235892843,,Argentina,24,Hotel Kings,Primera vez,Pareja
+"martinez, magali",1,110000.0,2026-02-15,2026-02-16,2,0,Contacto Telefónico,Directo,juanbarrena06@gmail.com,Mov: 2494544523,,Argentina,22,Hotel Kings,Primera vez,Pareja
+"mendoza, ANGELA",1,280000.0,2026-02-09,2026-02-13,2,0,Contacto Telefónico,Tour & Travel,mendozamendoza,Mov: +5491162574867,,Argentina,25,Hotel Kings,Primera vez,Pareja
+"mercedes simcic, carolina",1,444167.599,2026-02-13,2026-02-18,2,0,Booking.com,OTAs,csimci.105411@guest.booking.com,Mov: +54 2325 59 1253 - Fij: +54 2325 59 1253,,Argentina,20,Hotel Kings,Primera vez,Pareja
+"olivieri, gustavo",1,197911.374,2026-02-18,2026-02-21,2,0,Booking.com,OTAs,golivi.934245@guest.booking.com,Mov: 542914439421,,Argentina,17,Hotel Kings,Primera vez,Pareja
+"omar Noguera, Marcos",1,60957.368,2026-02-28,2026-03-01,2,0,Booking.com,OTAs,mnogue.983760@guest.booking.com,Mov: 54116230715,,Argentina,9,Hotel Kings,Primera vez,Pareja
+"orzuza, gabriell",1,660000.0,2026-02-14,2026-02-20,2,0,Contacto Telefónico,Directo,gabrielorzuza,Mov: +54 9 11 6361-2703,,Indefinido,18,Hotel Kings,Primera vez,Pareja
+"pascual, florencia",1,70000.0,2026-02-12,2026-02-13,2,0,Contacto Telefónico,Directo,moni-fag@hotmail.com,Mov: 1139242398,,Argentina,25,Hotel Kings,Primera vez,Pareja
+"pianucci, NORMA ",1,528000.0,2026-03-01,2026-03-09,2,0,Mail,Tour & Travel,pianuccipianuccipianuccipianucci,Mov: +5493464692390,,Argentina,1,Hotel Kings,Primera vez,Pareja
+"ramon, mino",1,394986.172,2026-02-25,2026-03-04,2,0,Booking.com,OTAs,mramon.471426@guest.booking.com,Mov: 541158273485,,Argentina,6,Hotel Kings,Primera vez,Pareja
+"ramos valencia, diana",1,140000.0,2026-02-18,2026-02-20,2,0,Walk In,Directo,diana_VALENCIA2017@OUTKLOCK.COM,Mov: 1161979424,,Argentina,18,Hotel Kings,Primera vez,Pareja
+"rodriguez, stella",1,60000.0,2026-03-08,2026-03-09,1,0,Walk In,Directo,rodriguez@nomail.com,Mov: 011-1553857797,,Argentina,1,Hotel Kings,Primera vez,Solo
+"sedano, daniel",1,288000.0,2026-02-21,2026-02-24,2,0,WhatsApp,Directo,dsedano@wenlen.com,Mov: +54 9 11 6716-6679,,Argentina,14,Hotel Kings,Primera vez,Pareja
+"sol pedreira, maria",1,114589.516,2026-02-27,2026-03-01,2,0,Booking.com,OTAs,mpedre.851784@guest.booking.com,Mov: +54 1136877363,,Argentina,9,Hotel Kings,Primera vez,Pareja
+"soledad Santana, Maria",1,61225.431,2026-03-05,2026-03-06,2,0,Booking.com,OTAs,msanta.321084@guest.booking.com,Mov: +54 381 535 3781,,Argentina,4,Hotel Kings,Primera vez,Pareja
+"vazquez riquelme , nancy ",1,75000.0,2026-02-17,2026-02-18,2,0,Walk In,Directo,benitezzzzz,Mov: 86800750,,Paraguay,20,Hotel Kings,Primera vez,Pareja
+"ventrice , gerardo ",1,212000.0,2026-03-01,2026-03-05,1,0,WhatsApp,Directo,ventricegerardo@gmail.com,Mov: 54 9 2216 09-0818,,Argentina,5,Hotel Kings,Primera vez,Solo
+"vera, hector",1,490000.0,2026-03-01,2026-03-08,2,0,WhatsApp,Directo,ahi@no.com,Mov: 2994190278,,Argentina,2,Hotel Kings,Primera vez,Pareja
+"vgp vgp, vgp vgp",1,0.0,2026-03-02,2026-03-09,4,0,Contacto Telefónico,Tour & Travel,vgp vgp,Mov: vgp vgp,,Indefinido,1,Hotel Kings,Primera vez,Grupo

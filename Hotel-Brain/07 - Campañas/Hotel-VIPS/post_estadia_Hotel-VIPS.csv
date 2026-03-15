@@ -1,0 +1,292 @@
+﻿Pasajero,visitas,revenue,primera,ultima,adultos_max,menores_max,canal,mercado,email,telefono,ciudad,pais,dias_desde_salida,hotel,segmento,tipo_viajero
+"Abarca Jara, Ivan",1,78630.096,2026-02-19,2026-02-20,2,0,Booking.com,OTAs,ivan_abarca97@hotmail.com,Mov: 56958816613,,Chile,18,Hotel VIPS,Primera vez,Pareja
+"Abraham, Mateo Ignacio",1,56000.0,2026-03-06,2026-03-07,2,0,WhatsApp,Directo,matteabraham@gmail.com,Mov: +54 9 2233 47-0229,,Argentina,3,Hotel VIPS,Primera vez,Pareja
+"Acosta, Debora",1,231000.0,2026-02-26,2026-03-01,2,0,WhatsApp,Directo,deboraacosta9@hotmail.com,Mov: +54 9 11 6275-4174,San Justo,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Adad, Lara",1,360000.0,2026-02-14,2026-02-17,2,0,WhatsApp,Directo,laraadad1@gmail.com,Mov: +54 9 3415 03-2775,,Indefinido,21,Hotel VIPS,Primera vez,Pareja
+"Alanes Oropeza, Esther Patricia",1,314486.504,2026-02-17,2026-02-19,4,0,Booking.com,OTAs,eorope.581830@guest.booking.com,Mov: 59163605114,,Bolivia (Estado Plurinacional de),19,Hotel VIPS,Primera vez,Grupo
+"Alarcon, Tomas",1,184031.514,2026-03-06,2026-03-08,2,0,Booking.com,OTAs,tomas alarcon3022@gmail.com,Mov: 54 297 624 6593,,Argentina,2,Hotel VIPS,Primera vez,Pareja
+"Alberto, Aloisi",2,155630.09600000002,2026-02-20,2026-02-22,2,0,Booking.com,Directo,aalber.177456@guest.booking.com,Mov: 542266520880,Mercedes,Argentina,16,Hotel VIPS,Recurrente,Pareja
+"Alcaraz Rotela, Karina Emilce",2,699085.153,2026-02-14,2026-02-20,2,0,Booking.com,Directo,karialcaraz87@gmail.com,Mov: +595 982470331,,Paraguay,18,Hotel VIPS,Recurrente,Pareja
+"Alejandro Walter, Ogando",1,453615.196,2026-02-19,2026-02-26,2,0,Booking.com,OTAs,alejandrowalterogando@gmail.com,Mov: 542216551639,,Argentina,12,Hotel VIPS,Primera vez,Pareja
+"Alvarez, Juan Pablo",1,480000.0,2026-02-14,2026-02-18,2,0,Motor de reservas propio,Directo,ajuampia@gmail.com,Mov: 2236842532,,Argentina,20,Hotel VIPS,Primera vez,Pareja
+"Amadeo Hernandez, Lorna Gabriela Argentina",1,77000.0,2026-02-25,2026-02-26,2,0,Walk In,Directo,garrby@hotmail.com,Mov: +54 9 221 596-0703,,Indefinido,12,Hotel VIPS,Primera vez,Pareja
+"Anderson, Guillermina Daniela",1,300000.0,2026-02-06,2026-02-09,2,0,Mail,Tour & Travel,anderson.guillermina@gmail.com,Mov: 2916463576,,Indefinido,29,Hotel VIPS,Primera vez,Pareja
+"Andrea Martinez, Susana",1,73224.166,2026-03-04,2026-03-05,2,0,Booking.com,OTAs,sussanaamartinez@hotmail.com,Mov: +54 11 2318 2535,,Argentina,5,Hotel VIPS,Primera vez,Pareja
+"Andrea, Alvarez",1,960703.341,2026-02-21,2026-02-28,4,0,Booking.com,OTAs,aandre.693509@guest.booking.com,Mov: 543329602240,Baradero,Argentina,10,Hotel VIPS,Primera vez,Grupo
+"Antonaccio, Claudia Susana",1,385000.0,2026-03-01,2026-03-06,2,0,WhatsApp,Directo,claudiasusanaantonaccio@gmail.com,Mov: +54 9 11 5668-7950,,Indefinido,4,Hotel VIPS,Primera vez,Pareja
+"Antonio Ocsachoque, Marco",1,162389.344,2026-02-20,2026-02-22,2,0,Booking.com,OTAs,mocsac.890958@guest.booking.com,Mov: 5491132836921,Espeleta,Argentina,16,Hotel VIPS,Primera vez,Pareja
+"Aran, Elisabet  Lujan ",1,960000.0,2026-02-07,2026-02-15,2,0,WhatsApp,Directo,elizabetlujanaran@gmail.com,Mov: +54 9 3329 59-4254,,Indefinido,23,Hotel VIPS,Primera vez,Pareja
+"Arismendi, Horacio",3,1009000.0,2025-09-17,2026-03-06,2,0,WhatsApp,Directo,arismendihoracio@gmail.com,Mov: 5491169324003,Ciudad Autónoma de Buenos Aires,Argentina,4,Hotel VIPS,VIP,Pareja
+"Arluna, Rut Elizabeth",1,264000.0,2026-02-11,2026-02-14,2,0,Contacto Telefónico,Corporativo,rut.arluna@hotmail.com,Mov: 1128013284,,Argentina,24,Hotel VIPS,Primera vez,Pareja
+"Asencio, Mateo",1,741348.222,2026-02-05,2026-02-11,2,0,Booking.com,OTAs,mateoasencio99@gmail.com,Mov: +54 3564 58 4838,,Argentina,27,Hotel VIPS,Primera vez,Pareja
+"BALLET BUENOS AIRES, BALLET BUENOS AIRES",1,1740000.0,2026-02-05,2026-02-08,12,0,Contacto Telefónico,Directo,BALLET BUENOS AIRES,Mov: 54 9 2236 95-6598,,Indefinido,30,Hotel VIPS,Primera vez,Grupo
+"BARNEZ, PEDRO",1,700000.0,2026-02-06,2026-02-13,2,0,WhatsApp,Tour & Travel,diana.barnesarnes22@yahoo.com,Mov: 2622225898,,Argentina,25,Hotel VIPS,Primera vez,Pareja
+"BARREIRO, MARIA",1,369000.0,2026-03-02,2026-03-05,3,0,Mail,Tour & Travel,doloresrivero88@gmail.com,Mov: 549  11561545968 - Fij: 549 1131154251,,Indefinido,5,Hotel VIPS,Primera vez,Grupo
+"BARZINI, SONIA VIRGINIA",1,231000.0,2026-02-10,2026-02-13,2,0,Walk In,Directo,barzinisonia28@gmail.com,Mov: 549 541954355,Wilde,Argentina,25,Hotel VIPS,Primera vez,Pareja
+"BILBAO, RUBEN DARIO",2,197000.0,2026-01-17,2026-03-04,2,0,Walk In,Directo,rubitobilbao@hotmail.com,Mov: 5492983414710,Buenos Aires,Argentina,6,Hotel VIPS,Recurrente,Pareja
+"Baraldua, Marcos Gonzalo",1,58000.0,2026-03-07,2026-03-08,1,0,Walk In,Directo,marcosgonzalo57@gmail.com,Mov: 2326439886,,Argentina,2,Hotel VIPS,Primera vez,Solo
+"Barbieri, Katherine",1,231000.0,2026-02-08,2026-02-11,2,0,WhatsApp,Directo,katherinebarbieri4@gamil.com,Mov: 5493764570751,Posadas,Argentina,27,Hotel VIPS,Primera vez,Pareja
+"Baron, Ludmila",1,154000.0,2026-02-27,2026-03-01,2,0,Walk In,Directo,lumibaron@gmail.com,Mov: +54 9 2262 4810-80,,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Bernardini, Edith Marcela",1,77000.0,2026-03-05,2026-03-06,2,0,Walk In,Directo,des_14_6839159602@noemail.com,Mov: 5491154056921,,Indefinido,4,Hotel VIPS,Primera vez,Pareja
+"Bettina Stoehr, Marion",1,391647.96,2026-02-18,2026-02-22,1,0,Booking.com,OTAs,mstoeh.927878@guest.booking.com,Mov: +41 79 522 90 37 - Fij: +41 79 522 90 37,,Suiza,16,Hotel VIPS,Primera vez,Solo
+"Birman Polanco, Alejandro Samuel",1,1255838.863,2026-02-05,2026-02-16,2,0,Booking.com,OTAs,alebirman@gmail.com,Mov: +56 9 8800 4070,,Chile,22,Hotel VIPS,Primera vez,Pareja
+"Biscayart, Juan Agustín",1,222752.736,2026-02-18,2026-02-19,6,0,Booking.com,OTAs,juan@biscayart.com,Mov: 5492477597707,,Argentina,19,Hotel VIPS,Primera vez,Grupo
+"Bravo, Melina Aldana Elizabeth",1,115500.0,2026-02-18,2026-02-19,3,0,Walk In,Directo,candelabravo1998@gmail.com,Mov: 1162661331,,Indefinido,19,Hotel VIPS,Primera vez,Grupo
+"Bravo, Susana Cristina",1,700000.0,2026-02-14,2026-02-21,2,0,Contacto Telefónico,Directo,brsu26061@gmail.com,Mov: 3816093329,,Indefinido,17,Hotel VIPS,Primera vez,Pareja
+"Brener, Claudia",1,462000.0,2026-02-17,2026-02-23,2,0,WhatsApp,Directo,Claubren@icloud.com,Mov: +54 9 11 4188-5029,,Indefinido,15,Hotel VIPS,Primera vez,Pareja
+"Briz, Silvia Alicia",1,157234.03,2026-02-24,2026-02-26,2,0,Booking.com,OTAs,silviabriz@yahoo.es,Mov: 1167937043,,Argentina,12,Hotel VIPS,Primera vez,Pareja
+"Bucci, Matias",1,500000.0,2026-02-12,2026-02-17,2,0,Contacto Telefónico,Corporativo,buccimatias@gmail.com,Mov: 2964617603,,Indefinido,21,Hotel VIPS,Primera vez,Pareja
+"CABRERA CAPURRO, HERNAN HORACIO",1,700102.998,2026-02-06,2026-02-09,4,0,Booking.com,OTAs,hcapur.804393@guest.booking.com,Mov: +34 657 19 92 98,,España,29,Hotel VIPS,Primera vez,Grupo
+"CARRILLO, ISABEL ELENA ",1,693000.0,2026-02-18,2026-02-27,2,0,Contacto Telefónico,Directo,carrilloisabelelena@gmail.com,Mov: +54 9 3814 90-1703 - Fij: +54 3184901703,San Miguel de Tucumán,Argentina,11,Hotel VIPS,Primera vez,Pareja
+"CATALDI, NILDA",1,539000.0,2026-02-19,2026-02-26,2,0,Walk In,Directo,digital_67@hotmail.com,Mov: 5491145797014,Ciudad Autónoma de Buenos Aires,Argentina,12,Hotel VIPS,Primera vez,Pareja
+"CORIA , EMMANUEL EDUARDO",2,308000.0,2026-02-09,2026-02-11,4,2,Contacto Telefónico,Directo,.,Mov: 1126192232,Junín,Argentina,27,Hotel VIPS,Recurrente,Familia
+"Cabrera, Alfredo Emiliano",1,232000.0,2026-02-26,2026-03-02,1,0,Contacto Telefónico,Tour & Travel,CABRERAALFREDOEMILIANO@GMAIL.COM,Mov: +54 9 3795 16-9761,,Indefinido,8,Hotel VIPS,Primera vez,Solo
+"Campero, Ricardo",1,154000.0,2026-02-27,2026-03-01,2,0,WhatsApp,Directo,ricardocampero35@gmail.com,Mov: +54 9 11 3858-2415,,Indefinido,9,Hotel VIPS,Primera vez,Pareja
+"Carlos Fernandez, Osvaldo",1,223777.122,2026-02-16,2026-02-18,2,0,Booking.com,OTAs,oferna.389373@guest.booking.com,Mov: 541172185000,,Argentina,20,Hotel VIPS,Primera vez,Pareja
+"Carmona, Yanina Marianela",1,480000.0,2026-02-16,2026-02-20,2,0,Walk In,Directo,gyanicarmona@gmail.com,Mov: 3812144722,,Indefinido,18,Hotel VIPS,Primera vez,Pareja
+"Castellanos, Julian",1,69158.579,2026-03-09,2026-03-10,2,0,Booking.com,OTAs,jcaste.524676@guest.booking.com,Mov: 5492284530716,Olavarría,Argentina,0,Hotel VIPS,Primera vez,Pareja
+"Cativelli, Evangelina",1,240000.0,2026-02-08,2026-02-10,2,0,Contacto Telefónico,Directo,evicativelli@hotmail.com,Mov: 3515743505,,Indefinido,28,Hotel VIPS,Primera vez,Pareja
+"Cejas, Nicolas Agustín",1,77000.0,2026-02-24,2026-02-25,1,0,Walk In,Directo,nikocejas47@gmail.com,Mov: 3535669105,,Argentina,13,Hotel VIPS,Primera vez,Solo
+"Cepeda, Natalia Ines",1,103679.261,2026-02-10,2026-02-11,2,0,Booking.com,OTAs,natalianyfa@gmail.com,Mov: 2262500130,,Indefinido,27,Hotel VIPS,Primera vez,Pareja
+"Chianelli, Maria Rosa",1,500000.0,2026-02-17,2026-02-22,2,0,WhatsApp,Directo,marychianelli@hotmail.com,Mov: 549118176719 - Fij: 1158176719,San Miguel,Argentina,16,Hotel VIPS,Primera vez,Pareja
+"Citate, María So",1,231000.0,2026-02-25,2026-02-28,1,0,WhatsApp,Directo,citate.sol@gmail.com,Mov: 5491159894365,,Argentina,10,Hotel VIPS,Primera vez,Solo
+"Colas, Magali",1,171943.191,2026-02-20,2026-02-22,1,1,Booking.com,OTAs,maguico13@gmail.com,Mov: 542215905606,,Argentina,16,Hotel VIPS,Primera vez,Familia
+"Colman, Leila",1,250564.817,2026-02-20,2026-02-23,2,1,Booking.com,OTAs,lcolma.616520@guest.booking.com,Mov: 541161542700,,Argentina,15,Hotel VIPS,Primera vez,Familia
+"Corbetta, Natalia María",1,77000.0,2026-02-26,2026-02-27,1,0,Contacto Telefónico,Directo,nmcorbetta@hotmail.com,Mov: 2241445775,,Indefinido,11,Hotel VIPS,Primera vez,Solo
+"Coria, Fabian",1,240000.0,2026-02-15,2026-02-17,2,0,WhatsApp,Directo,cori@,Mov: +54 9 11 5904-1667,,Indefinido,21,Hotel VIPS,Primera vez,Pareja
+"Crosta, Julieta Rosana",1,100000.0,2026-03-01,2026-03-02,2,0,WhatsApp,Directo,julicro@gmail.com,Mov: +54 9 11 5346-5005,,Indefinido,8,Hotel VIPS,Primera vez,Pareja
+"D' Esposito, Claudio Alejandro",1,86904.717,2026-03-01,2026-03-02,2,0,Booking.com,OTAs,claudiodesposito1@gmail.com,Mov: +54 9 11 5613-8315,,Argentina,8,Hotel VIPS,Primera vez,Pareja
+"DAcosta, Daniel",2,156057.91499999998,2026-03-07,2026-03-09,2,0,Booking.com,Directo,ddacos.596097@guest.booking.com,Mov: 5491132490559,Ciudad Autónoma de Buenos Aires,Argentina,1,Hotel VIPS,Recurrente,Pareja
+"DE MARINIS, ANDREA FABIANA",2,512415.161,2026-02-14,2026-02-18,2,0,Booking.com,Directo,amarin.439656@guest.booking.com,Mov: +54 11 3012 0800,,Argentina,20,Hotel VIPS,Recurrente,Pareja
+"Daneluz, Jose María",1,77000.0,2026-02-28,2026-03-01,1,0,Walk In,Directo,jmdaneluz@hotmail.com,Mov: 1149915960,,Indefinido,9,Hotel VIPS,Primera vez,Solo
+"Daneluz, Marianela",1,231000.0,2026-02-28,2026-03-02,3,0,Contacto Telefónico,Directo,hipus_talabarteria@hotmail.com,Mov: +54 9 11 6102-0080,,Indefinido,8,Hotel VIPS,Primera vez,Grupo
+"Daoud, Silvina Leila",1,77000.0,2026-03-07,2026-03-08,2,0,Contacto Telefónico,Directo,Silvinadaoud@gmail.com,Mov: +54 9 2494 52-2405,Tandil,Argentina,2,Hotel VIPS,Primera vez,Pareja
+"De Marco, Norma",1,539000.0,2026-02-20,2026-02-27,2,0,WhatsApp,Corporativo,demarco@nomail.com,Mov: 5491124571973,Avellaneda,Argentina,11,Hotel VIPS,Primera vez,Pareja
+"De Nardi, Oscar Alberto",1,240000.0,2026-02-14,2026-02-16,2,0,WhatsApp,Directo,oscardenardi@gmail.com,Mov: 3329 53-5154,,Indefinido,22,Hotel VIPS,Primera vez,Pareja
+"De leon, Carolina Ester",1,78621.626,2026-02-13,2026-02-14,1,1,Booking.com,OTAs,carolinadeleon604@gmail.com,Mov: 542268415554,,Argentina,24,Hotel VIPS,Primera vez,Familia
+"Del Papa, Miguel Angel",1,420000.0,2026-03-01,2026-03-07,1,0,Contacto Telefónico,Directo,Miguelangeldp57@outlook.com.ar,Mov: +54 9 11 5895-6158,Ciudad Autónoma de Buenos Aires,Argentina,3,Hotel VIPS,Primera vez,Solo
+"Delgado, Silvana Marina",1,616000.0,2026-02-15,2026-02-22,2,0,Mail,Tour & Travel,mardel4582@gmail.com,Mov: 387658059,,Indefinido,16,Hotel VIPS,Primera vez,Pareja
+"Denevi, Marisa Ines",1,505000.002,2026-02-16,2026-02-22,2,0,Contacto Telefónico,Directo,marisadenevi23@gmail.com,Mov: +549 22323627813,,Argentina,16,Hotel VIPS,Primera vez,Pareja
+"Diaz Gomez, Celia",1,166468.969,2026-02-28,2026-03-02,1,1,Booking.com,OTAs,cely_2783@hotmail.com,Mov: 541126785007,,Argentina,8,Hotel VIPS,Primera vez,Familia
+"Diaz, Juan Ernesto",1,962500.0,2026-02-03,2026-02-08,5,0,Walk In,Directo,juanediiaz@gmail.com,Mov: 3413554276,,Indefinido,30,Hotel VIPS,Primera vez,Grupo
+"Eduardo Schammas, Jorge",1,547192.859,2026-02-21,2026-03-01,2,0,Booking.com,OTAs,jscham.127793@guest.booking.com,Mov: 5493813386003,San Miguel,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Ellero, Micaela Lujan",1,385000.0,2026-02-22,2026-02-27,2,0,WhatsApp,Directo,micaela12ellero@gmail.com,Mov: +54 9 2323 66-7899 - Fij: 5492323612025,,Indefinido,11,Hotel VIPS,Primera vez,Pareja
+"Erhart , Lucas Hernán ",1,231000.0,2026-02-23,2026-02-26,2,0,Contacto Telefónico,Directo,Micaela.erhart@gmail.com,Mov: +54 9 11 6917-6833 - Fij: Luckaserhart7@gmail.com,,Indefinido,12,Hotel VIPS,Primera vez,Pareja
+"Esparza miranda, D""Angella",1,79057.915,2026-03-07,2026-03-08,2,0,Booking.com,OTAs,daem16081990@gmail.com,Mov: +54 11 6806 5269,,Argentina,2,Hotel VIPS,Primera vez,Pareja
+"Ezequiel Tercero, Fernando",1,365460.996,2026-02-06,2026-02-09,2,0,Booking.com,OTAs,fterce.894283@guest.booking.com,Mov: +54 11 2374 7167,,Argentina,29,Hotel VIPS,Primera vez,Pareja
+"FLORES, JAVIER",1,77000.0,2026-02-09,2026-02-10,2,0,WhatsApp,Directo,javierflo@gmail.com,Mov: 011 15-39217871,,Argentina,28,Hotel VIPS,Primera vez,Pareja
+"Feito, Jonathan Gabriel",1,77000.0,2026-02-13,2026-02-14,2,0,WhatsApp,Directo,feitojg30@gmail.com,Mov: 5491126528386,,Indefinido,24,Hotel VIPS,Primera vez,Pareja
+"Fernandez, Carlos",1,154000.0,2026-02-10,2026-02-12,2,0,Walk In,Directo,flpropiedades@yahoo.com.ar,Mov: 1140262744,,Indefinido,26,Hotel VIPS,Primera vez,Pareja
+"Fernandez, Carlos Alberto",1,154000.0,2026-02-11,2026-02-13,2,0,Walk In,Directo,caalfer56@hotmail.com,Mov: 1156358095,,Indefinido,25,Hotel VIPS,Primera vez,Pareja
+"Fernandez, Irma Estela",1,462000.0,2026-02-26,2026-03-04,2,0,Contacto Telefónico,Directo,irmaestelafernandez@gmail.com,Mov: 3424778972,,Indefinido,6,Hotel VIPS,Primera vez,Pareja
+"Francisco, Cortez",1,157243.252,2026-02-19,2026-02-21,2,0,Booking.com,OTAs,cortuba@gmail.com,Mov: +54 11 7104 9083,,Argentina,17,Hotel VIPS,Primera vez,Pareja
+"Fuente, Alberto",1,77000.0,2026-02-23,2026-02-24,1,0,Contacto Telefónico,Directo,afuente@flechalog.com,Mov: +54 9 11 5138-6239,,Argentina,14,Hotel VIPS,Primera vez,Solo
+"Galanena, Daniela Edel",1,235864.878,2026-02-23,2026-02-26,2,0,Booking.com,OTAs,danielaedelg@gmail.com,Mov: +54 2317 41 8816,,Argentina,12,Hotel VIPS,Primera vez,Pareja
+"Garcia Sigman, Luis Ignacio",1,70000.0,2026-02-26,2026-02-27,1,0,Contacto Telefónico,Directo,nachogarciasig@gmail.com,Mov: +54 9 11 2398-5582,,Indefinido,11,Hotel VIPS,Primera vez,Solo
+"Garcia, Gustavo Alejandro",1,157260.192,2026-02-27,2026-03-01,2,0,Booking.com,OTAs,katherinegarciapache@g,Mov: 11-32427636,,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Garelli, Camila",1,360000.0,2026-02-13,2026-02-16,2,0,WhatsApp,Directo,camigarelli@gmail.com,Mov: +54 9 3402 52-1280,,Indefinido,22,Hotel VIPS,Primera vez,Pareja
+"Geli, Ana Julia",1,180000.0,2026-02-15,2026-02-16,3,0,Walk In,Directo,learosello@yahoo.com.ar,Mov: 1158138633,,Indefinido,22,Hotel VIPS,Primera vez,Grupo
+"Gerardo, Serrano",1,215127.304,2026-02-06,2026-02-08,2,0,Booking.com,OTAs,julijaoqui@hotmail.com,Mov: +54 2226 52 0536,,Argentina,30,Hotel VIPS,Primera vez,Pareja
+"Ghinzani, Hernan",1,808500.0,2026-02-07,2026-02-14,3,0,Contacto Telefónico,Directo,ghinzani60@gmail.com,Mov: 549 2346540877,,Indefinido,24,Hotel VIPS,Primera vez,Grupo
+"Gil, Rocio Daiana ",1,480000.0,2026-02-14,2026-02-18,2,0,Contacto Telefónico,Directo,Rociodgil08@gmail.com,Mov: +54 9 3425 39-4441,Santa Fe,Argentina,20,Hotel VIPS,Primera vez,Pareja
+"Gil, Romina",1,500000.0,2026-02-09,2026-02-14,2,0,WhatsApp,Directo,rominabalparda@gmail.com,Mov: +54 9 3412 77-7084,,Indefinido,24,Hotel VIPS,Primera vez,Pareja
+"Gimenez, Omar",1,346500.0,2026-03-05,2026-03-08,3,0,Contacto Telefónico,Directo,gimenez_omar_david@hotmail.com,Mov: 5491141627167,Buenos Aires,Argentina,2,Hotel VIPS,Primera vez,Grupo
+"Golomidov, Kirill",1,310884.078,2026-02-20,2026-02-24,2,0,Booking.com,OTAs,kgolom.791427@guest.booking.com,Mov: 5491176419990,,Federación de Rusia,14,Hotel VIPS,Primera vez,Pareja
+"Gomez, Lazaro Miguel",1,480351.672,2026-02-18,2026-02-25,1,0,Booking.com,OTAs,lazarogomez1902@hotmail.com,Mov: +54 3487 71 4293,,Argentina,13,Hotel VIPS,Primera vez,Solo
+"Gonzalez, Claudia Julia",1,174000.0,2026-03-02,2026-03-05,1,0,Contacto Telefónico,Tour & Travel,gonzalezclaudiajulia629@nomail.com,Mov: gonzalezclaudiajulia629@nomail.com - Fij: 1166664097,,Indefinido,5,Hotel VIPS,Primera vez,Solo
+"Gonzalez, Ezequiel",1,323729.161,2026-02-26,2026-03-02,2,1,Booking.com,OTAs,22ezegonzalez@gmaiil.com,Mov: 541154650360,,Argentina,8,Hotel VIPS,Primera vez,Familia
+"Grattarola, Silvia Nilda",1,400000.0,2026-02-18,2026-02-22,2,0,Mail,Tour & Travel,silvianilda.53@hotmail.com,Mov: 549 1122886,,Indefinido,16,Hotel VIPS,Primera vez,Pareja
+"Guanuco, Blas Armando",1,78624.832,2026-02-28,2026-03-01,1,1,Booking.com,OTAs,guanucoblas1@gmail.com,Mov: +54 9 221 6760-602,,Argentina,9,Hotel VIPS,Primera vez,Familia
+"Guevara, Carlos",1,385000.0,2026-02-25,2026-03-02,2,0,Walk In,Directo,guevafer@hotmail.com,Mov: +54 9 2214 59-5300,,Indefinido,8,Hotel VIPS,Primera vez,Pareja
+"Guigou Avonadet, Javier",1,291319.309,2026-02-05,2026-02-08,2,0,Booking.com,OTAs,farmaciamarine@adinet.com.uy,Mov: +598 95 492 223,,Uruguay,30,Hotel VIPS,Primera vez,Pareja
+"Hector, Naredo",1,86410.65,2026-03-04,2026-03-05,1,0,Booking.com,OTAs,nhecto.950443@guest.booking.com,Mov: 549 1167517001,,Argentina,5,Hotel VIPS,Primera vez,Solo
+"Heredero Guillén, Carlos",2,150227.736,2026-03-04,2026-03-06,2,0,Booking.com,Directo,herederocarlos89@gmail.com,Mov: 2235164422,,España,4,Hotel VIPS,Recurrente,Pareja
+"INGRESO 6, AGUERO",1,6160000.0,2026-02-07,2026-02-14,20,0,Mail,Tour & Travel,A6A6@NOMAIL.COM,Mov: 54878,,Indefinido,24,Hotel VIPS,Primera vez,Grupo
+"INGRESO 7, AGUERO",1,3388000.0,2026-02-14,2026-02-21,11,0,Mail,Tour & Travel,A7A7@NOMAIL.COM,Mov: 548569,,Indefinido,17,Hotel VIPS,Primera vez,Grupo
+"INGRESO 8, AGUERO",1,3080000.0,2026-02-21,2026-02-28,9,0,Mail,Tour & Travel,A8A8@NOMAIL.COM,Mov: 5698748,,Indefinido,10,Hotel VIPS,Primera vez,Grupo
+"Irala, Cintia",1,720000.0,2026-02-14,2026-02-17,4,0,Contacto Telefónico,Directo,Jesugomez1228@gmail.com,Mov: +54 9 2281 53-2405,Azul,Argentina,21,Hotel VIPS,Primera vez,Grupo
+"Iribarren, Denise Lía Tamara",2,8018935.03,2026-02-26,2026-03-01,2,0,Booking.com,Directo,danielhaffner78@gmail.com,Mov: 54 11 2189 8923,,Argentina,9,Hotel VIPS,Recurrente,Pareja
+"Jauregui, Rocío Elisabet",1,77000.0,2026-02-25,2026-02-26,2,0,Walk In,Directo,roci_jbm@hotmail.com,Mov: +54 9 341 313-4947,,Indefinido,12,Hotel VIPS,Primera vez,Pareja
+"Kaczka, Marcelo",1,77000.0,2026-02-27,2026-02-28,2,0,WhatsApp,Directo,yiyek@hotmail.com.ar,Mov: 1165564050,,Argentina,10,Hotel VIPS,Primera vez,Pareja
+"Koll, Norma Edith",1,231343.566,2026-03-06,2026-03-09,2,0,Booking.com,OTAs,normakoll@hotmail.com,Mov: 1144357283,,Argentina,1,Hotel VIPS,Primera vez,Pareja
+"LATTARO, JONATAN",1,77000.0,2026-02-08,2026-02-09,2,0,Walk In,Directo,jonatanlattaro@gmail.com,Mov: 5492212207501,La Plata,Argentina,29,Hotel VIPS,Primera vez,Pareja
+"LOPEZ, LAURA ANDREA ",1,154000.0,2026-03-07,2026-03-09,2,0,Walk In,Directo,lauraandrealopez.88lp@gmail.com,Mov: 5492213507664,,Argentina,1,Hotel VIPS,Primera vez,Pareja
+"Lautaro Martin, Armua",1,123558.037,2026-02-07,2026-02-08,2,0,Booking.com,OTAs,lautaroarmua8@gmail.com,Mov: +54 221 303 5779,,Argentina,30,Hotel VIPS,Primera vez,Pareja
+"Leite Elizabet, Enes",1,323694.71,2026-02-26,2026-03-02,2,0,Booking.com,OTAs,nesleite@hotmail.com,Mov: 54 11 3262 3978,,Argentina,8,Hotel VIPS,Primera vez,Pareja
+"Llizaso, Jonatan Miguel Angel",1,210000.0,2026-02-28,2026-03-03,2,0,Walk In,Directo,Jonatanmiguelangellizaso@gmail.com,Mov: +54 9 11 2495-1849 - Fij: +54 9 11 2495-1849,,Indefinido,7,Hotel VIPS,Primera vez,Pareja
+"Lobo, Nadia Ailén ",1,960000.0,2026-02-14,2026-02-22,2,0,Motor de reservas propio,Directo,lobonadiaailenini@gmail.com,Mov: 1125305063,,Argentina,16,Hotel VIPS,Primera vez,Pareja
+"Lopez, Candela",1,402627.403,2026-02-06,2026-02-08,4,0,Booking.com,OTAs,clopez.241234@guest.booking.com,Mov: +54 9 11 6580 9291,,Argentina,30,Hotel VIPS,Primera vez,Grupo
+"Lopez, Carlos Daniel",1,385000.0,2026-02-06,2026-02-08,5,0,WhatsApp,Directo,lopezcarlos,Mov: +54 9 11 3432-1398,,Indefinido,30,Hotel VIPS,Primera vez,Grupo
+"Loureyro, María Cristina",1,460244.892,2026-02-19,2026-02-23,2,0,Booking.com,OTAs,lureyroc@gmail.com,Mov: +54 2983 55 2269,,Argentina,15,Hotel VIPS,Primera vez,Pareja
+"Lupi , carina",1,308000.0,2026-02-21,2026-02-25,2,0,WhatsApp,Directo,carilupi2016@gmail.com,Mov: 2932638556,Buenos Aires,Argentina,13,Hotel VIPS,Primera vez,Pareja
+"López, Flavia",1,180000.0,2026-02-16,2026-02-17,3,0,WhatsApp,Directo,flor.paz80@hotmail.com,Mov: +54 9 11 6720-6135,,Indefinido,21,Hotel VIPS,Primera vez,Grupo
+"MONTES IREN, LILIANA ",1,600000.0,2026-02-22,2026-02-27,2,0,Motor de reservas propio,Directo,montesiren@gmail.com,Mov: 3854789773,,Argentina,11,Hotel VIPS,Primera vez,Pareja
+"Mackiewicz, Carlos",1,78624.832,2026-02-28,2026-03-01,2,0,Booking.com,OTAs,aemolteni@yahoo.com.ar,Mov: +54 9 11 5695-5957,,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Manchini, Oscar Alberto",1,840000.0,2026-02-09,2026-02-16,2,0,WhatsApp,Directo,oscarmanchini7@gmail.com,Mov: +54 9 3401 64-2655 - Fij: 549 3401 642380,,Indefinido,22,Hotel VIPS,Primera vez,Pareja
+"Manzano Martín, Irma Rafaela",1,157243.252,2026-02-27,2026-03-01,2,0,Booking.com,OTAs,irmar.manzano@gmail.com,Mov: 542644472370,,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Marcelo Remon, Hector",1,148525.394,2026-02-22,2026-02-24,2,0,Booking.com,OTAs,hremon.494158@guest.booking.com,Mov: 541157302396,,Argentina,14,Hotel VIPS,Primera vez,Pareja
+"Maris Maero, Amelia Estela",1,1036897.38,2026-02-16,2026-02-26,2,0,Booking.com,OTAs,amaero.994654@guest.booking.com,Mov: +54 3541 59 6171,,Argentina,12,Hotel VIPS,Primera vez,Pareja
+"Martinez, Ivana Alejandra",1,201313.701,2026-02-06,2026-02-08,2,0,Booking.com,OTAs,ivana296@hotmail.com,Mov: +54 2262 50 7389,,Argentina,30,Hotel VIPS,Primera vez,Pareja
+"Medeot, Andres",3,615028.787,2025-11-02,2026-02-12,2,0,Booking.com,OTAs,amdet@vestas.com,Mov: +54 50625627539 - Fij: +54 50625627539,,Argentina,26,Hotel VIPS,VIP,Pareja
+"Medina, Hector Daniel",1,154000.0,2026-02-21,2026-02-23,2,0,WhatsApp,Directo,hectordanielmedina832@,Mov: +54 9 2317 53-6374,,Indefinido,15,Hotel VIPS,Primera vez,Pareja
+"Melfi, Eduardo Alberto",1,154000.0,2026-02-20,2026-02-22,1,0,Contacto Telefónico,Directo,eduardomelfi.tkd@gmail.com,Mov: 549115705-7309,Ciudad Autónoma de Buenos Aires,Argentina,16,Hotel VIPS,Primera vez,Solo
+"Mersko, Claudia Marisa",1,231000.0,2026-02-23,2026-02-25,3,0,WhatsApp,Directo,artesaniasmyestilo@hotmail.com,Mov: 5493413366911,Granadero Baigorria,Argentina,13,Hotel VIPS,Primera vez,Grupo
+"Micol Garcia, Valeria",1,157260.192,2026-02-26,2026-02-28,2,0,Booking.com,OTAs,"valenicolgarcia@gmailc,om",Mov: 542214365335,,Argentina,10,Hotel VIPS,Primera vez,Pareja
+"Migliore, Juan María ",1,547192.859,2026-02-17,2026-02-25,1,0,Booking.com,OTAs,juanmariamigliore@gmail.com,Mov: 541139417788,,Argentina,13,Hotel VIPS,Primera vez,Solo
+"Miguel Romero, Jorge",1,755664.842,2026-02-04,2026-02-12,1,1,Booking.com,OTAs,arq.jorgeromero77@gamil.com,Mov: +54 11 3046 2392,,Argentina,26,Hotel VIPS,Primera vez,Familia
+"Milito, Ana",1,385000.0,2026-03-02,2026-03-07,2,0,WhatsApp,Directo,1111111111@,Mov: + 54 9 11 3616-8672,,Indefinido,3,Hotel VIPS,Primera vez,Pareja
+"Montesinos, Ximena",1,77000.0,2026-03-07,2026-03-08,2,0,Contacto Telefónico,Directo,ximenamontesinos@yahoo.com.ar,Mov: 2494628570,,Argentina,2,Hotel VIPS,Primera vez,Pareja
+"Montserrat Garcia, Ochoa",1,308000.0,2026-02-25,2026-03-01,2,0,WhatsApp,Directo,monsEGOCHOA@GMAIL.COM,Mov: +54 9 11 6401-3382,,Indefinido,9,Hotel VIPS,Primera vez,Pareja
+"Monzon, Monica Andrea ",1,215127.304,2026-02-06,2026-02-08,2,0,Booking.com,OTAs,monicaandreamonzon@gmail.com,Mov: +54 221 356 3804,,Argentina,30,Hotel VIPS,Primera vez,Pareja
+"Morey Monaco, Federico",1,154000.0,2026-02-27,2026-03-01,2,0,Walk In,Directo,martinaciancio7@gmail.com,Mov: +54 9 2281 633-507,,Indefinido,9,Hotel VIPS,Primera vez,Pareja
+"Nadal, Cintia",1,540000.0,2026-02-19,2026-02-22,3,0,Contacto Telefónico,Directo,nadalcintia.1@gmail.com,Mov: 5492314466196,Bolívar,Argentina,16,Hotel VIPS,Primera vez,Grupo
+"Noemi Classen, Raquel",1,547192.859,2026-02-21,2026-03-01,2,0,Booking.com,OTAs,colsantimarcos25@gmail.com,Mov: 5493413713459,,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"ORDOÑEZ ALVAREZ, JUAN MANUEL ",1,660932.394,2026-02-18,2026-02-25,2,0,Booking.com,OTAs,copiasmargus@gmail.com,Mov: 5491144379678,,Argentina,13,Hotel VIPS,Primera vez,Pareja
+"OROPEZA, JOSE",1,77000.0,2026-02-17,2026-02-18,2,0,Walk In,Directo,ESTHERALANESCOROPEZA@MAIL.COM,Mov: +59163605114,,Indefinido,20,Hotel VIPS,Primera vez,Pareja
+"Ocampo, Agustín",1,78621.626,2026-02-13,2026-02-14,2,0,Booking.com,OTAs,aocamp.494185@guest.booking.com,Mov: 542235809995,,Argentina,24,Hotel VIPS,Primera vez,Pareja
+"Orbe, Elias José ",1,231000.0,2026-02-20,2026-02-23,2,0,WhatsApp,Directo,Eliasorbe19@gmail.com,Mov: 5492241614729,Chascomus,Argentina,15,Hotel VIPS,Primera vez,Pareja
+"Oyarzo Hosni, Mohamed Alexis",2,272743.251,2026-02-11,2026-02-13,3,1,Booking.com,Directo,hogcnialexis@gmail.com,Mov: 542995053598,,Argentina,25,Hotel VIPS,Recurrente,Familia
+"PANIGHETTO, ROMINA",1,415596.23,2026-02-26,2026-03-02,1,1,Booking.com,OTAs,romina@assaplas.com.ar,Mov: +54 11 6701 5473,,Argentina,8,Hotel VIPS,Primera vez,Familia
+"PARDO, AGUSTIN DANIEL",1,360000.0,2026-02-16,2026-02-18,3,0,WhatsApp,Directo,Pardoagustindaniel@nomail.com,Mov: 2477679030,Buenos Aires,Argentina,20,Hotel VIPS,Primera vez,Grupo
+"PELC, ANTONIO",1,77000.0,2026-02-26,2026-02-27,2,0,Walk In,Directo,ELECTROMEDICACRUPI@GMAIL.COM,Mov: 1151552145,,Indefinido,11,Hotel VIPS,Primera vez,Pareja
+"Pal, Esteban",1,682336.257,2026-03-06,2026-03-09,3,1,Booking.com,OTAs,estebanpal1019@gmail.com,Mov: +54 11 5341 8253,,Argentina,1,Hotel VIPS,Primera vez,Familia
+"Palomino, Lautaro",1,407808.069,2026-02-19,2026-02-24,2,0,Booking.com,OTAs,lpalom.517362@guest.booking.com,Mov: 542226517020,,Argentina,14,Hotel VIPS,Primera vez,Pareja
+"Papandrea, Maria",1,148501.824,2026-02-26,2026-02-28,2,1,Booking.com,OTAs,mpapan.174766@guest.booking.com,Mov: 34689769827 - Fij: 549 115823366,,España,10,Hotel VIPS,Primera vez,Familia
+"Pelegrim, Elena Beatriz",1,300000.0,2026-02-22,2026-02-25,2,0,Contacto Telefónico,Corporativo,fervich@gmail.com,Mov: 549 1131622067,,Indefinido,13,Hotel VIPS,Primera vez,Pareja
+"Penas , matias",3,822000.0,2026-02-12,2026-02-21,1,0,Contacto Telefónico,Directo,matias.ariel.484@gmail.com,Mov: 2233491148,,Argentina,17,Hotel VIPS,VIP,Solo
+"Penzone, Cesar",1,700000.0,2026-02-05,2026-02-12,2,0,Walk In,Directo,cesarpenzone@hotmail.com,Mov: 5491154752633,,Argentina,26,Hotel VIPS,Primera vez,Pareja
+"Pereira, Monica Elisabeth",1,154000.0,2026-02-18,2026-02-19,4,0,Walk In,Directo,monicapereira772013@gmail.com,Mov: 1131504900,,Indefinido,19,Hotel VIPS,Primera vez,Grupo
+"Pla, Carmelo",2,123500.0,2025-10-09,2026-02-21,1,0,Mail,Corporativo,placarmelo@gamil.com,Mov: 5492215048401,La Plata,Argentina,17,Hotel VIPS,Recurrente,Solo
+"Porto, Ercilia",1,186650.608,2026-02-09,2026-02-11,2,0,Booking.com,OTAs,erciaporto@hotmail.com,Mov: +54 221 594 9533,,Argentina,27,Hotel VIPS,Primera vez,Pareja
+"Prieto, Jonathan",1,77000.0,2026-02-21,2026-02-22,2,0,Contacto Telefónico,Directo,jonathanprie@hotmail.com,Mov: +54 9 11 5095-0538,Mar Azul,Argentina,16,Hotel VIPS,Primera vez,Pareja
+"Pujals, Marcelo Bernardino Emilio",1,157234.03,2026-02-26,2026-02-28,2,0,Booking.com,OTAs,mbpujals@gmail.com,Mov: +54 9 341 254 2484,,Argentina,10,Hotel VIPS,Primera vez,Pareja
+"Punto Token MDK, Punto Token MDK",1,397000.0,2026-03-01,2026-03-02,10,0,Contacto Telefónico,Corporativo,proveedores@agenciamdk.com.ar,Mov: 2235511109 - Fij: 2235511109,,Indefinido,8,Hotel VIPS,Primera vez,Grupo
+"Quintaie, Cristina",1,308000.0,2026-02-27,2026-03-01,4,0,Contacto Telefónico,Directo,@q,Mov: 01165105903,San Justo,Argentina,9,Hotel VIPS,Primera vez,Grupo
+"Quintana, Jhonatan",1,154000.0,2026-02-11,2026-02-12,4,0,Walk In,Directo,avalosdaiana54@gmail.com,Mov: 1153087808,,Indefinido,26,Hotel VIPS,Primera vez,Grupo
+"Quiroga, Florencia",1,600000.0,2026-02-13,2026-02-18,2,0,Motor de reservas propio,Directo,qflorencia227@gmail.com,Mov: 1132780580,,Argentina,20,Hotel VIPS,Primera vez,Pareja
+"Quiroz, Gustavo Nicolas",1,77000.0,2026-02-18,2026-02-19,2,0,Walk In,Directo,nicolasq221@gmail.com,Mov: 2266485044,,Indefinido,19,Hotel VIPS,Primera vez,Pareja
+"ROMERO, VANESA MARÍA",1,600000.0,2026-02-18,2026-02-22,3,0,Contacto Telefónico,Tour & Travel,roemovanesa381@gmail.com,Mov: 549 3407667034,,Indefinido,16,Hotel VIPS,Primera vez,Grupo
+"RUMIEC, ALICIA ELENA",2,1555500.0,2026-02-11,2026-02-20,3,0,Walk In,Directo,aliciarumiec@gmail.com,Mov: 5491137059513,Lomas de Zamora,Argentina,18,Hotel VIPS,Recurrente,Grupo
+"Rachel, Heffes",1,470878.76,2026-02-09,2026-02-14,1,0,Booking.com,OTAs,rachelheffees22@gmail.com,Mov: +54 11 6571 9723,,Argentina,24,Hotel VIPS,Primera vez,Solo
+"Ramirez, Carmen",1,143822.488,2026-03-07,2026-03-09,2,0,Booking.com,OTAs,sosaja55@autlook.com,Mov: 65880185,Buenos Aires,Argentina,1,Hotel VIPS,Primera vez,Pareja
+"Ramos, Andrea Laura",1,154000.0,2026-02-11,2026-02-13,2,0,Walk In,Directo,pekanra@hotmail.com,Mov: 1151798210,,Indefinido,25,Hotel VIPS,Primera vez,Pareja
+"Retamal, Cristian",1,400000.0,2026-02-13,2026-02-17,2,0,WhatsApp,Directo,marvinxp8@gmail.com,Mov: 5493413635998,Rosario,Argentina,21,Hotel VIPS,Primera vez,Pareja
+"Ringma, Josefina",1,78630.096,2026-02-22,2026-02-23,2,0,Booking.com,OTAs,jringm.216677@guest.booking.com,Mov: 542932518459,Tandil,Argentina,15,Hotel VIPS,Primera vez,Pareja
+"Rocco, Eduardo Antonio ",1,157260.192,2026-02-27,2026-03-01,2,0,Booking.com,OTAs,roccocia@,Mov: +54 11 6138 9621 - Fij: +54 11 6138 9621,,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Rodriguez, Cristian Nahuel ",1,148501.824,2026-02-11,2026-02-13,2,0,Booking.com,OTAs,rodrigueznahuel86@gmail.com,Mov: +54 3542 46 0146,,Argentina,25,Hotel VIPS,Primera vez,Pareja
+"Rodriguez, Leandro",1,308000.0,2026-02-07,2026-02-11,2,0,WhatsApp,Directo,leanrodriguez217@gmail.com,Mov: +54 9 3412 81-6144,,Indefinido,27,Hotel VIPS,Primera vez,Pareja
+"Rojo, Verena Sol",1,154000.0,2026-03-07,2026-03-08,4,0,Walk In,Directo,verenasolrojo@hotmail.com,Mov: 2246584151,,Argentina,2,Hotel VIPS,Primera vez,Grupo
+"Roldán, Mirta Adriana",1,308000.0,2026-02-25,2026-03-01,2,0,WhatsApp,Directo,adrianahyn@gmail.com,Mov: +54 9 11 5573-6940 - Fij: 5491150361880,,Indefinido,9,Hotel VIPS,Primera vez,Pareja
+"Romero , María angélica",1,231000.0,2026-02-07,2026-02-10,1,0,Contacto Telefónico,Directo,JMARISOLOROSCO@GMAIL.COM,Mov: +54 9 11 6946-7085,Ciudad Autónoma de Buenos Aires,Argentina,28,Hotel VIPS,Primera vez,Solo
+"Romero, Cesar Ricardo",16,3296000.0,2025-09-13,2026-03-08,3,0,Walk In,Directo,cesarromeroh2016@gmail.com,Mov: 5492494365051,Tandil,Argentina,2,Hotel VIPS,VIP,Grupo
+"SOLER , MANUELA ",1,77000.0,2026-02-22,2026-02-23,2,0,Contacto Telefónico,Directo,MANUELASOLER53@GMIAL.COM,Mov: 2494207706,Buenos Aires,Argentina,15,Hotel VIPS,Primera vez,Pareja
+"Sanabria, Daiana",1,720000.0,2026-02-21,2026-02-25,3,1,WhatsApp,Corporativo,daiana_air@hotmail.com,Mov: 5491164361383,José C. Paz,Argentina,13,Hotel VIPS,Primera vez,Familia
+"Sanchez, Carolina",1,77000.0,2026-03-07,2026-03-08,2,0,WhatsApp,Directo,carolina1979sanchez@gmail.com,Mov: +54 9 2494 33-9633,Tandil,Argentina,2,Hotel VIPS,Primera vez,Pareja
+"Sanchez, Niyen Mijal",1,77000.0,2026-02-13,2026-02-14,2,0,Walk In,Directo,niyensz@gmail.com,Mov: 2923584848,,Indefinido,24,Hotel VIPS,Primera vez,Pareja
+"Sand, Viviana Raquel",1,180000.0,2026-02-14,2026-02-15,3,0,Walk In,Directo,sandvip@hotmail.com,Mov: 2215035576,,Indefinido,23,Hotel VIPS,Primera vez,Grupo
+"Sandra Marcela, Mendoza",1,760834.011,2026-02-07,2026-02-14,2,0,Booking.com,OTAs,sanmendoza1968@gmail.com,Mov: 5491128761164,,Argentina,24,Hotel VIPS,Primera vez,Pareja
+"Saninina, Daria",1,148525.394,2026-02-27,2026-03-01,2,0,Booking.com,OTAs,dsanin.509004@guest.booking.com,Mov: 5491154144234,,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Sansone, Sandra Monica",1,360000.0,2026-02-15,2026-02-18,2,0,Contacto Telefónico,Directo,monicasansone15@gmail.com,Mov: 5491169118747,,Indefinido,20,Hotel VIPS,Primera vez,Pareja
+"Schoeffel, Bruno",1,391647.96,2026-02-18,2026-02-22,1,0,Booking.com,OTAs,bschoe.598590@guest.booking.com,Mov: +41 78 715 05 95 - Fij: +41 78 715 05 95,,Suiza,16,Hotel VIPS,Primera vez,Solo
+"Scianca, Maria Elena",1,308000.0,2026-02-19,2026-02-23,2,0,Contacto Telefónico,Directo,mary_mileto@hotmail.com,Mov: +54 9 11 6293-0338,,Indefinido,15,Hotel VIPS,Primera vez,Pareja
+"Sepe Morinigo, Ruben Hugo",1,74263.411,2026-02-28,2026-03-01,1,1,Booking.com,OTAs,agenciahugosepe@gmail.com,Mov: +54 9 2267 5259-74,,Argentina,9,Hotel VIPS,Primera vez,Familia
+"Soraire, Alejandro",1,157250.6,2026-02-27,2026-02-28,2,2,Booking.com,OTAs,ALEJANDRO.SORAIRE@GMAIL.COM,Mov: +54 249 463 8779,,Argentina,10,Hotel VIPS,Primera vez,Familia
+"Soro, Pablo Gabriel ",3,538387.129,2026-02-04,2026-02-10,2,0,Walk In,Directo,latijeratraviesa@hotmail.com,Mov: +591 77695195,,Bolivia (Estado Plurinacional de),28,Hotel VIPS,VIP,Pareja
+"Sosa , Jose Esteban",1,480000.0,2026-02-14,2026-02-18,2,0,WhatsApp,Directo,Sosae1896@gmail.com,Mov: +54 9 11 6931-6157,,Indefinido,20,Hotel VIPS,Primera vez,Pareja
+"Soutto, Susana",1,405000.0,2026-02-22,2026-02-25,2,0,Contacto Telefónico,Corporativo,marialucreciatapia@gmail.com,Mov: +54 9 2281 30-0548 - Fij: 549 2281556575,,Indefinido,13,Hotel VIPS,Primera vez,Pareja
+"Surace , Claudio Andres",1,300000.0,2026-02-14,2026-02-17,1,0,Mail,Tour & Travel,suraceclaudioandres442@nomail.com,Mov: 1158579405,,Indefinido,21,Hotel VIPS,Primera vez,Solo
+"TUSO, MARIA EMILIA",1,210000.0,2026-02-28,2026-03-03,2,0,Contacto Telefónico,Directo,mariaemiliatusso@gmail.com,Mov: +54 9 11 6518-3222,Ramos Mejia,Argentina,7,Hotel VIPS,Primera vez,Pareja
+"Taretto, Natalia",1,201317.259,2026-02-06,2026-02-08,2,0,Booking.com,OTAs,nataliataretto@gmail.com,Mov: +54 11 6492 0759,,Argentina,30,Hotel VIPS,Primera vez,Pareja
+"Torres, Merlina ",1,240000.0,2026-02-06,2026-02-08,2,0,WhatsApp,Directo,merlinatorres13@hotmail.com,Mov: 5491130036971,Lanús,Argentina,30,Hotel VIPS,Primera vez,Pareja
+"Torricella, Lorena ",1,154000.0,2026-02-28,2026-03-02,2,0,Walk In,Directo,torricellalorena01@gmail.com,Mov: 1165621226,,Indefinido,8,Hotel VIPS,Primera vez,Pareja
+"Toukatli, Victoria",1,600000.0,2026-02-17,2026-02-22,2,0,Motor de reservas propio,Directo,victoriatoukatli@gmail.com,Mov: 01128554337,,Argentina,16,Hotel VIPS,Primera vez,Pareja
+"Urquiza, Thiago Daniel",1,77000.0,2026-02-12,2026-02-13,2,0,Walk In,Directo,thiagourquiza475@gmail.com,Mov: 11 78899112,,Argentina,25,Hotel VIPS,Primera vez,Pareja
+"Uttaro, Giselle",1,360000.0,2026-02-14,2026-02-17,2,0,WhatsApp,Directo,uttarogiselle@gmail.com,Mov: +54 9 11 3215-3844,Buenos Aires,Argentina,21,Hotel VIPS,Primera vez,Pareja
+"Valentin, Chamas",1,78630.096,2026-02-20,2026-02-21,2,0,Booking.com,OTAs,cvalen.475422@guest.booking.com,Mov: 542255606818,Villa Gesell,Argentina,17,Hotel VIPS,Primera vez,Pareja
+"Vanesa, Costa",1,250564.817,2026-02-21,2026-02-24,2,0,Booking.com,OTAs,vanesacosta119@gmail.com,Mov: 541157612641,,Argentina,14,Hotel VIPS,Primera vez,Pareja
+"Varela, Karen",1,250564.817,2026-02-20,2026-02-23,2,0,Booking.com,OTAs,varelakaernmagali@gamail.com,Mov: 542323622546,,Argentina,15,Hotel VIPS,Primera vez,Pareja
+"Vargas Sales, Rosa Carina",1,120000.0,2026-02-15,2026-02-16,1,0,WhatsApp,Directo,carilove_cv@hotmail.com,Mov: 5491150297234,,Argentina,22,Hotel VIPS,Primera vez,Solo
+"Vasconcellos, Ruben Matildo",1,812135.544,2026-02-05,2026-02-11,1,0,Booking.com,OTAs,mansonruben8@hotmail.com,Mov: 1169623078,,Argentina,27,Hotel VIPS,Primera vez,Solo
+"Veliz, Milagros",1,235890.29,2026-02-26,2026-03-01,2,0,Booking.com,OTAs,velizaguilarmilagros@gmail.com,Mov: 541123502166,,Argentina,9,Hotel VIPS,Primera vez,Pareja
+"Vera, Jose Alberto",1,77000.0,2026-03-04,2026-03-05,2,0,Contacto Telefónico,Directo,vera@gmail.com,Mov: 291 4439793 - Fij: +54 291 443 9793,Buenos Aires,Argentina,5,Hotel VIPS,Primera vez,Pareja
+"Vespaciano , Alicia",1,800000.0,2026-02-18,2026-02-27,2,0,WhatsApp,Tour & Travel,Vespaciano,Mov: 549 2352 466877,,Indefinido,11,Hotel VIPS,Primera vez,Pareja
+"Vicente, Juan Carlos",1,1560000.0,2026-02-09,2026-02-22,2,0,WhatsApp,Corporativo,foto_vicente@hotmail.com,Mov: 5492314625617,,Indefinido,16,Hotel VIPS,Primera vez,Pareja
+"Vidal, Enrique",1,231000.0,2026-02-10,2026-02-13,2,0,Walk In,Directo,enrique.vidal@live.com,Mov: 1151127106,,Indefinido,25,Hotel VIPS,Primera vez,Pareja
+"Villalobos, Juan Lucas",2,1200000.0,2026-02-13,2026-02-18,2,0,Motor de reservas propio,Directo,juanchilv15@gmail.com,Mov: 1168637688,,Argentina,20,Hotel VIPS,Recurrente,Pareja
+"Villaverde, Fiama",2,310384.43799999997,2026-02-07,2026-02-10,2,0,Booking.com,Directo,fvilla.287232@guest.booking.com,Mov: 5491139052041,Lanús,Argentina,28,Hotel VIPS,Recurrente,Pareja
+"Viña, Gonzalo Ezequiel Demian",1,77000.0,2026-02-26,2026-02-27,1,0,WhatsApp,Directo,tambellarosario@gmail.com,Mov: +54 9 11 6376-6061,,Indefinido,11,Hotel VIPS,Primera vez,Solo
+"WILLINER, SERGIOANIBAL",1,222788.091,2026-02-25,2026-02-28,2,1,Booking.com,OTAs,sergiowilli@hotmail.com,Mov: 5450625627539 - Fij: 549 1164912435,,Argentina,10,Hotel VIPS,Primera vez,Familia
+"Walitko , Daniel",1,600000.0,2026-02-22,2026-02-27,2,0,WhatsApp,Directo,danywal2000@hotmail.com,Mov: 3364547788,San Nicolás de los Arroyos,Argentina,11,Hotel VIPS,Primera vez,Pareja
+"Wollter, Sanna",1,157260.192,2026-02-19,2026-02-20,4,0,Booking.com,OTAs,swollt.742727@guest.booking.com,Mov: 46704752909,,Suecia,18,Hotel VIPS,Primera vez,Grupo
+"Zambrino, Micaela Rocío",1,78621.626,2026-02-13,2026-02-14,2,0,Booking.com,OTAs,micaelazambrino47@gmail.com,Mov: 542235559374,,Argentina,24,Hotel VIPS,Primera vez,Pareja
+"Zilli, Hugo Leopoldo",1,346500.0,2026-02-20,2026-02-23,3,0,Walk In,Directo,zilli@gmail.com,Mov: 5491164002027,San Miguel,Argentina,15,Hotel VIPS,Primera vez,Grupo
+"Zoanni, Lucas Adrian",1,120000.0,2026-02-14,2026-02-15,2,0,Contacto Telefónico,Directo,lucasazoanni@gmail.com,Mov: +54 9 11 3401-4333,Loberia,Argentina,23,Hotel VIPS,Primera vez,Pareja
+"Zunino, Beatriz",1,385000.0,2026-02-18,2026-02-23,2,0,WhatsApp,Directo,@zunino,Mov: +54 9 11 6568-2817,,Indefinido,15,Hotel VIPS,Primera vez,Pareja
+"ancao, isaac",1,462000.0,2026-03-01,2026-03-07,2,0,WhatsApp,Directo,rancao.196361@guest.booking.com,Mov: +54 299 405 8013 - Fij: +54 299 405 8013,,Argentina,3,Hotel VIPS,Primera vez,Pareja
+"arsuaga, isabel",1,360000.0,2026-02-14,2026-02-17,2,0,Contacto Telefónico,Directo,@rsuaga,Mov: 0273 403010 - Fij: 0273 403010,Carmen de Areco,Argentina,21,Hotel VIPS,Primera vez,Pareja
+"barrayazarra, mguel martin",1,7000000.0,2026-02-09,2026-02-16,2,0,Contacto Telefónico,Directo,no usa !!,Mov: 549 2216071398,,Indefinido,22,Hotel VIPS,Primera vez,Pareja
+"bernardini, Delma ",1,490000.0,2026-02-26,2026-03-05,2,0,Contacto Telefónico,Directo,delmabernardini31@gmail.com,Mov: +54 9 11 5405-6921,Buenos Aires,Argentina,5,Hotel VIPS,Primera vez,Pareja
+"brito  , paola noemi",1,840000.0,2026-02-16,2026-02-23,2,0,WhatsApp,Directo,britopaolanoe@gmail.com,Mov: 543865452689,,Indefinido,15,Hotel VIPS,Primera vez,Pareja
+"cabrera , elian ",1,77000.0,2026-02-21,2026-02-22,2,0,Contacto Telefónico,Directo,agus18.zjgmail.com,Mov: 221 6779273,Trelew,Argentina,16,Hotel VIPS,Primera vez,Pareja
+"cabrera, roberto",1,77000.0,2026-03-09,2026-03-10,2,0,Walk In,Directo,arobles471@gmail.com,Mov: 549 2644477846,,Indefinido,0,Hotel VIPS,Primera vez,Pareja
+"calvo, manuel",1,154000.0,2026-02-19,2026-02-21,2,0,WhatsApp,Directo,manuelcaot32@gmail.com,Mov: 5492317574083,,Indefinido,17,Hotel VIPS,Primera vez,Pareja
+"cangeni, omar",1,539000.0,2026-02-23,2026-03-02,2,0,Walk In,Directo,jocpelu@gmail.com,Mov: 0111534835160,,Argentina,8,Hotel VIPS,Primera vez,Pareja
+"caselli, patricia ",1,231000.0,2026-02-20,2026-02-23,2,0,Contacto Telefónico,Directo,patricaselli@yahoo.com,Mov: 1163637090,,Argentina,15,Hotel VIPS,Primera vez,Pareja
+"cassese, graciela",1,440000.0,2026-02-18,2026-02-23,2,0,Contacto Telefónico,Corporativo,gracielacassese@hotmail.com,Mov: 549 1156400941,,Indefinido,15,Hotel VIPS,Primera vez,Pareja
+"cañete, Johana ",1,308000.0,2026-02-04,2026-02-08,2,0,WhatsApp,Directo,johanac.9428@gmail.com,Mov: 11 4024-1946 ,,Indefinido,30,Hotel VIPS,Primera vez,Pareja
+"chaves, gladys",1,400000.0,2026-02-06,2026-02-10,2,0,Contacto Telefónico,Tour & Travel,gladysthbest@hotmail.com,Mov: 1166002967,,Argentina,28,Hotel VIPS,Primera vez,Pareja
+"chavez, andy",1,231000.0,2026-02-28,2026-03-02,3,0,Walk In,Directo,adeleisabellachavez@gmail.coma,Mov: 549 1169712049,,Indefinido,8,Hotel VIPS,Primera vez,Grupo
+"covino, pedro oscar",1,462000.0,2026-03-02,2026-03-08,2,0,Walk In,Directo,pedrooscarcovino@hotmail.com,Mov: 549 2392 567777,,Indefinido,2,Hotel VIPS,Primera vez,Pareja
+"cuareim recupero, cuareim recupero",1,0.0,2026-03-02,2026-03-09,30,0,Mail,Tour & Travel,cuareim recupero,Mov: cuareim recupero,,Indefinido,1,Hotel VIPS,Primera vez,Grupo
+"cuesta, veronica",1,15400.0,2026-02-12,2026-02-14,2,0,Walk In,Directo,cuestaveronica@gmail.com,Mov: 11544488288 - Fij: 011 154-4488288,,Indefinido,24,Hotel VIPS,Primera vez,Pareja
+"dasscsdadsa, qessaddsa",1,510000.0,2026-02-27,2026-03-04,2,0,Motor de reservas propio,Directo,aaaq@hotmail.com,Mov: 122135465654,,Argentina,6,Hotel VIPS,Primera vez,Pareja
+"diaz, cristian",1,200000.0,2026-03-06,2026-03-08,1,0,Mail,Corporativo,cristiandiaz_88@hotmail.com,Mov: 5492216763887,,Argentina,2,Hotel VIPS,Primera vez,Solo
+"fernanda tour, fernanda tour",1,5040000.0,2026-02-14,2026-02-17,35,0,Contacto Telefónico,Tour & Travel,fernanda tour,Mov: fernanda tour,,Indefinido,21,Hotel VIPS,Primera vez,Grupo
+"gallardo, antonio rafael",2,505000.0,2026-02-09,2026-02-14,2,0,Walk In,Directo,gallardoantonio5@gmail.com,Mov: 549 1153749794,,Indefinido,24,Hotel VIPS,Recurrente,Pareja
+"garnica, adrian",1,539000.0,2026-02-17,2026-02-24,1,0,WhatsApp,Directo,adri_garnica_82@hotmail.com,Mov: 5493516517107,,Indefinido,14,Hotel VIPS,Primera vez,Solo
+"geloz, daniel omar",1,800000.0,2026-02-23,2026-02-27,4,0,Mail,Corporativo,omargeloz@hotmail.com,Mov: 1130759920,,Argentina,11,Hotel VIPS,Primera vez,Grupo
+"godoy, Daniel Mateo",1,400000.0,2026-02-14,2026-02-18,2,0,Contacto Telefónico,Tour & Travel,danielmateogodoy@yahoo.com.ar,Mov: godoydaniel,,Indefinido,20,Hotel VIPS,Primera vez,Pareja
+"gonzalez, agustina",1,100000.0,2026-02-14,2026-02-15,2,0,WhatsApp,Directo,54 9 11 4099-8035,Mov: 54 9 11 4099-8035,,Indefinido,23,Hotel VIPS,Primera vez,Pareja
+"gotta, raul diego",1,231000.0,2026-03-06,2026-03-09,2,0,WhatsApp,Directo,diegoamor2@hotmail.com,Mov: 5492214768155,,Indefinido,1,Hotel VIPS,Primera vez,Pareja
+"hernandez, maria de los angeles",1,1100000.0,2026-02-05,2026-02-16,1,0,Contacto Telefónico,Directo,angeles25marisa@gmail.com,Mov: 11 57820931,Buenos Aires,Argentina,22,Hotel VIPS,Primera vez,Solo
+"hwyamares, erycson",1,77000.0,2026-02-22,2026-02-23,1,0,Walk In,Directo,ericsonh.eh@gmail.com,Mov: 549 2254422105,,Indefinido,15,Hotel VIPS,Primera vez,Solo
+"islas, ignacio",1,400000.0,2026-02-04,2026-02-08,2,0,Contacto Telefónico,Corporativo,ignacioislas123@gmail.com,Mov: 549 2323356990,,Indefinido,30,Hotel VIPS,Primera vez,Pareja
+"jose castelli, juan",1,582638.084,2026-02-02,2026-02-09,2,0,Booking.com,OTAs,juanjo06castelli@hotmail.com,Mov: +54 336 431 1254 - Fij: +54 336 431 1254,,Argentina,29,Hotel VIPS,Primera vez,Pareja
+"lopez, carlos daniel",1,154000.0,2026-02-08,2026-02-10,2,0,Walk In,Directo,lopezdani@gmail.com,Mov: 5491134321398,,Indefinido,28,Hotel VIPS,Primera vez,Pareja
+"magdalena, Baltar",1,245099.065,2026-02-27,2026-03-02,2,0,Booking.com,OTAs,bmagda.238692@guest.booking.com,Mov: 542914637001 - Fij: 2914712870,,Argentina,8,Hotel VIPS,Primera vez,Pareja
+"malavolta, juan carlos",1,770000.0,2026-02-25,2026-03-01,5,0,Walk In,Directo,jcmalavolta@yahoo.com,Mov: 5492364658484,,Indefinido,9,Hotel VIPS,Primera vez,Grupo
+"mansilla, olga",1,784317.208,2026-02-10,2026-02-17,2,0,Booking.com,OTAs,hectorbravo35@hotmail.com,Mov: +54 11 4530 1111 - Fij: 549 1165035899,,Argentina,21,Hotel VIPS,Primera vez,Pareja
+"marcano robles, milagros",2,374003.648,2026-02-22,2026-02-27,2,0,Booking.com,Directo,milimracano.arg@gmail.com,Mov: 543416844660,,Argentina,11,Hotel VIPS,Recurrente,Pareja
+"marcelo Amado, Jorge",1,381020.374,2026-02-16,2026-02-20,2,0,Booking.com,OTAs,marceamadoliev.com,Mov: 541156915299,,Argentina,18,Hotel VIPS,Primera vez,Pareja
+"marina pesamo, gabriela",1,264418.782,2026-02-11,2026-02-14,2,0,Booking.com,OTAs,gpesam.873513@guest.booking.com,Mov: +54 58297111,Buenos Aires,Argentina,24,Hotel VIPS,Primera vez,Pareja
+"mendoza, rocio",1,300000.0,2026-02-14,2026-02-17,2,0,Mail,Tour & Travel,mendozarocio979@nomail.com,Mov: mendozarocio979@nomail.com - Fij: 1123217002,,Indefinido,21,Hotel VIPS,Primera vez,Pareja
+"miranda, eva",1,154000.0,2026-02-23,2026-02-25,2,0,Walk In,Directo,mirandaeva246@gmail.com,Mov: 0111536886000,,Indefinido,13,Hotel VIPS,Primera vez,Pareja
+"padilla, angelina",2,234243.252,2026-02-17,2026-02-20,2,0,Booking.com,Directo,apadil.283181@guest.booking.com,Mov: 541128635072,,Argentina,18,Hotel VIPS,Recurrente,Pareja
+"padin, carlos",2,1043000.0,2025-12-14,2026-03-08,2,0,Walk In,Directo,dinpacarlos@hotmail.com,Mov: 54 9 11 5419-5481,San Fernando,Argentina,2,Hotel VIPS,Recurrente,Pareja
+"palacios, lisandro",1,328000.0,2026-03-01,2026-03-05,2,0,Mail,Tour & Travel,elepalacios@oca.com.ar,Mov: 549 1153765081,,Indefinido,5,Hotel VIPS,Primera vez,Pareja
+"parella, maria rosa",1,720000.0,2026-02-14,2026-02-20,2,0,Contacto Telefónico,Directo,mariarpw@hotmail.com,Mov: 0343 -154732341,,Argentina,18,Hotel VIPS,Primera vez,Pareja
+"pedro, americo david",1,720000.0,2026-02-18,2026-02-24,2,0,Walk In,Directo,"dabid,pedro19696@gmail.com",Mov: 549 1169372787,,Indefinido,14,Hotel VIPS,Primera vez,Pareja
+"peralta, cristian",1,77000.0,2026-02-22,2026-02-23,2,0,Walk In,Directo,ivanyperalta @gmail.com,Mov: 5491160279239,,Indefinido,15,Hotel VIPS,Primera vez,Pareja
+"perez, GUMERCINDA",1,400000.0,2026-02-23,2026-02-27,2,0,Mail,Corporativo,perezgumercinda424@nomail.com,Mov: perezgumercinda424@nomail.com,,Indefinido,11,Hotel VIPS,Primera vez,Pareja
+"perez, daniel",1,492000.0,2026-02-28,2026-03-06,2,0,Mail,Tour & Travel,danielfernandoperez@yahoo.com,Mov: 549 1130494247,,Indefinido,4,Hotel VIPS,Primera vez,Pareja
+"perez, rueben",1,154000.0,2026-02-09,2026-02-10,4,0,Walk In,Directo,domingo.1979.ruben@gmail.com,Mov: 5549 2213061328,,Indefinido,28,Hotel VIPS,Primera vez,Grupo
+"petroli, marta",1,3102000.0,2026-03-03,2026-03-09,10,0,Contacto Telefónico,Directo,54 9 3424 42-9331,Mov: 54 9 3424 42-9331,,Indefinido,1,Hotel VIPS,Primera vez,Grupo
+"pierangeli, Andrea ",1,770000.0,2026-02-20,2026-03-02,2,0,WhatsApp,Directo,Anpierbel@gmail.com,Mov: +54 9 2612 48-7514,Buenos Aires,Argentina,8,Hotel VIPS,Primera vez,Pareja
+"ramia, jose luis",1,693000.0,2026-02-28,2026-03-09,2,0,Walk In,Directo,joseluispedroramia@gmail.com,Mov: 549 221 4766827,,Indefinido,1,Hotel VIPS,Primera vez,Pareja
+"rau, liliana",1,154000.0,2026-02-27,2026-03-01,2,0,Walk In,Directo,lilianarau@yahooo.com,Mov: 549 2914293403,,Indefinido,9,Hotel VIPS,Primera vez,Pareja
+"risco, leticia",1,210000.0,2026-02-25,2026-02-28,1,0,Contacto Telefónico,Directo,riscoleticia@gmail.com,Mov: 549 1122488410,,Indefinido,10,Hotel VIPS,Primera vez,Solo
+"rodas, marcela",1,492000.0,2026-02-27,2026-03-02,4,0,Contacto Telefónico,Tour & Travel,marcelarodas7476@gmail.com,Mov: + 54 9 11 5932-5237,,Indefinido,8,Hotel VIPS,Primera vez,Grupo
+"sanchez, hernan",1,528000.0,2026-02-14,2026-02-18,3,0,Contacto Telefónico,Corporativo,sanchezsanchezsanchezsanchezsanchezsanchez,Mov: 01161905714,,Indefinido,20,Hotel VIPS,Primera vez,Grupo
+"santilli, camila",1,78621.626,2026-02-13,2026-02-14,2,0,Booking.com,OTAs,csanti.367995@guest.booking.com,Mov: 542494319897,,Argentina,24,Hotel VIPS,Primera vez,Pareja
+"schaposchnik, hugo miguel",1,154000.0,2026-02-26,2026-02-28,2,0,Walk In,Directo,kokygruacrexell@gmail.com,Mov: 549 2914192892,,Indefinido,10,Hotel VIPS,Primera vez,Pareja
+"silva, maria del carmen",1,346500.0,2026-02-05,2026-02-08,3,0,WhatsApp,Directo,mdelcarmen782@gamil.com,Mov: 5491162474558,,Indefinido,30,Hotel VIPS,Primera vez,Grupo
+"silvina, sanchez",2,539000.0,2026-02-22,2026-03-01,2,0,Walk In,Directo,sil_san65@hotamail.com,Mov: 549 221 5541586,,Indefinido,9,Hotel VIPS,Recurrente,Pareja
+"suss, alejandro",1,77000.0,2026-02-18,2026-02-19,2,0,Walk In,Directo,alesusscasla@gamil.com,Mov: 549 1153426407,,Indefinido,19,Hotel VIPS,Primera vez,Pareja
+"tejada, ivana",1,308000.0,2026-03-06,2026-03-08,4,0,Mail,Tour & Travel,ivastejada@gmail.com,Mov: 549 2613865227,,Indefinido,2,Hotel VIPS,Primera vez,Grupo
+"touriña, gabriel",1,77000.0,2026-02-13,2026-02-14,1,0,Walk In,Directo,gabieltouriño@out.com,Mov: 549 1121709276,,Indefinido,24,Hotel VIPS,Primera vez,Solo
+"trettel, lucila",1,154000.0,2026-03-06,2026-03-08,2,0,WhatsApp,Directo,lucilatrettel@hotmail.com,Mov: 5491136815443,,Indefinido,2,Hotel VIPS,Primera vez,Pareja
+"vallejos, maria marcelina",1,948000.0,2026-02-11,2026-02-15,3,0,Mail,Tour & Travel,vallejosmariamarcelina971@nomail.com,Mov: vallejosmariamarcelina971@nomail.com - Fij: 549 1157383099,,Indefinido,23,Hotel VIPS,Primera vez,Grupo
+"ventre, raul alejandro",2,270000.0,2026-02-28,2026-03-04,2,0,Walk In,Directo,raulventre3@gmail.com,Mov: 5492325407687,,Indefinido,6,Hotel VIPS,Recurrente,Pareja
+"villaba, benitez magdalena",1,788574.233,2026-02-03,2026-02-12,2,0,Booking.com,OTAs,magdalena.benitez@gmail.com  ar,Mov: +54 11 3217 9216 - Fij: 549 1159619507,,Argentina,26,Hotel VIPS,Primera vez,Pareja
+"vilzdoza, sofia",1,231000.0,2026-02-17,2026-02-20,2,0,Walk In,Directo,sofiavilsoza5@gmail.com,Mov: 549 3815114481,,Indefinido,18,Hotel VIPS,Primera vez,Pareja
+"zirilli, leandro",1,231000.0,2026-02-19,2026-02-22,2,0,WhatsApp,Directo,lizandrozirilli@gmail.com,Mov: 5492216109318,,Indefinido,16,Hotel VIPS,Primera vez,Pareja

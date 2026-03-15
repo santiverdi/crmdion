@@ -1,0 +1,46 @@
+---
+tipo: huesped
+nombre: "jose castelli, juan"
+email: "juanjo06castelli@hotmail.com"
+telefono: "Mov: +54 336 431 1254 - Fij: +54 336 431 1254"
+ciudad: ""
+pais: "Argentina"
+canal: "Booking.com"
+mercado: "OTAs"
+tipo_viajero: "Pareja"
+primera_visita: "02/02/2026"
+ultima_visita: "02/02/2026"
+total_visitas: 1
+gasto_total: 582638.084
+gasto_alojamiento: 582638.084
+gasto_promedio: 582638.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, primera-vez, pareja, otas]
+---
+
+# jose castelli, juan
+
+## Datos de contacto
+- **Email**: juanjo06castelli@hotmail.com
+- **Telefono**: Mov: +54 336 431 1254 - Fij: +54 336 431 1254
+- **Ciudad**: 
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal principal | Booking.com |
+| Mercado | OTAs |
+| Total visitas | 1 |
+| Gasto total | $582,638 |
+| Gasto promedio | $582,638 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 02/02/2026 | 09/02/2026 | 1 | 7 | Booking.com | $582,638 | C. Sin anticipo |
+

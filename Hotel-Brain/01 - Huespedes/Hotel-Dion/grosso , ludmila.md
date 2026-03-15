@@ -1,0 +1,48 @@
+---
+tipo: huesped
+hotel: "Hotel Dion"
+nombre: "grosso , ludmila"
+email: "grossoludmila@gmail.com"
+telefono: "Mov: 2244502359"
+ciudad: ""
+pais: "Indefinido"
+canal: "Walk In"
+mercado: "Directo"
+tipo_viajero: "Grupo"
+primera_visita: "06/02/2026"
+ultima_visita: "06/02/2026"
+total_visitas: 1
+gasto_total: 346500.0
+gasto_promedio: 346500.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-dion, primera-vez, grupo, directo]
+---
+
+# grosso , ludmila
+**Hotel**: Hotel Dion
+
+## Datos de contacto
+- **Email**: grossoludmila@gmail.com
+- **Telefono**: Mov: 2244502359
+- **Ciudad**: 
+- **Pais**: Indefinido
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel Dion** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Grupo |
+| Canal | Walk In |
+| Mercado | Directo |
+| Visitas | 1 |
+| Gasto total | $346,500 |
+| Gasto promedio | $346,500 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 06/02/2026 | 09/02/2026 | 1 | 3 | Walk In | $346,500 | C. Sin anticipo |
+

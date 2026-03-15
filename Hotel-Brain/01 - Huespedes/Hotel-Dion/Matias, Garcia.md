@@ -1,0 +1,53 @@
+---
+tipo: huesped
+hotel: "Hotel Dion"
+nombre: "Matias, Garcia"
+email: "gmatia.866958@guest.booking.com"
+telefono: "Fij: +54 291 461 7796"
+ciudad: ""
+pais: "Argentina"
+canal: "Walk In"
+mercado: "Directo"
+tipo_viajero: "Pareja"
+primera_visita: "20/09/2025"
+ultima_visita: "20/09/2025"
+total_visitas: 1
+gasto_total: 52930.53
+gasto_promedio: 52931.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-dion, primera-vez, pareja, directo]
+---
+
+# Matias, Garcia
+**Hotel**: Hotel Dion
+
+## Datos de contacto
+- **Email**: gmatia.866958@guest.booking.com
+- **Telefono**: Fij: +54 291 461 7796
+- **Ciudad**: 
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel Dion** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | Walk In |
+| Mercado | Directo |
+| Visitas | 1 |
+| Gasto total | $52,931 |
+| Gasto promedio | $52,931 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 20/09/2025 | 21/09/2025 | 1 | 1 | Walk In | $52,931 | C. Anticipo |
+
+## Notas internas
+- 20/09/2025: DERIVADA AMERICA OK GUADA
+TRANSFIRIO OK SANTI
+
+

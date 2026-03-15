@@ -1,0 +1,48 @@
+---
+tipo: huesped
+hotel: "Hotel VIPS"
+nombre: "Belis, Marianela"
+email: "belismarianela@gmail.com"
+telefono: "Mov: +598 92 446 633"
+ciudad: ""
+pais: "Uruguay"
+canal: "Booking.com"
+mercado: "OTAs"
+tipo_viajero: "Solo"
+primera_visita: "08/01/2026"
+ultima_visita: "08/01/2026"
+total_visitas: 1
+gasto_total: 91380.76
+gasto_promedio: 91381.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-vips, primera-vez, solo, otas]
+---
+
+# Belis, Marianela
+**Hotel**: Hotel VIPS
+
+## Datos de contacto
+- **Email**: belismarianela@gmail.com
+- **Telefono**: Mov: +598 92 446 633
+- **Ciudad**: 
+- **Pais**: Uruguay
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel VIPS** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Solo |
+| Canal | Booking.com |
+| Mercado | OTAs |
+| Visitas | 1 |
+| Gasto total | $91,381 |
+| Gasto promedio | $91,381 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 08/01/2026 | 09/01/2026 | 1 | 1 | Booking.com | $91,381 | C. Sin anticipo |
+

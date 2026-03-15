@@ -1,0 +1,449 @@
+﻿Pasajero,visitas,revenue,primera,ultima,adultos_max,menores_max,canal,mercado,email,telefono,ciudad,pais,dias_desde_salida,hotel,segmento,tipo_viajero
+" Ciancio, Ana Lorena",1,210000.0,2026-02-27,2026-03-01,3,0,WhatsApp,Directo,lorluli@yahoo.com.ar,Mov: +54 9 11 5753-2634,Buenos Aires,Argentina,9,Hotel America,Primera vez,Grupo
+" Gómez Sliba , Sofía",1,110000.0,2026-01-20,2026-01-21,2,0,WhatsApp,Directo,sofiagomezslibaa@gmail.com,Mov: +54 9 2235 38-1251 - Fij: +54 9 2235 38-1251,Mar del Plata,Argentina,48,Hotel America,Primera vez,Pareja
+" Martínez, Paula Andrea",1,204000.0,2025-11-21,2025-11-24,2,0,WhatsApp,Directo,depaulamartinez@gmail.com,Mov: +54 9 11 2824-6156 - Fij: +54 9 11 2824-6156,San Martin,Argentina,106,Hotel America,Primera vez,Pareja
+" Rezola , Florencia Evangelina",1,68000.0,2025-11-08,2025-11-09,2,0,WhatsApp,Directo,florenciarezola7@gmail.com,Mov: +54 9 2494 48-2535,Tandil,Argentina,121,Hotel America,Primera vez,Pareja
+" Robles, Lorna Beatriz",1,405000.0,2026-01-31,2026-02-03,3,0,Mail,Tour & Travel,lornesbrobles@gmail.com,Mov: 1568905028,,Argentina,35,Hotel America,Primera vez,Grupo
+"ABREGO, EDUARDO FABIO",1,119000.0,2025-12-13,2025-12-14,3,0,WhatsApp,Directo,LEONLUJA@HOTMAIL.COM.AR,Mov: +54 9 2262 62-8289,Necochea,Argentina,86,Hotel America,Primera vez,Grupo
+"AGUIRRE, RICARDO AGUSTIN",1,70000.0,2026-02-09,2026-02-10,2,0,Walk In,Directo,RICARDO AGUSTIN@gmail.com,Mov: 2236692411 - Fij: 2236692411,Mar del Plata,Argentina,28,Hotel America,Primera vez,Pareja
+"ALFIERI, MARIA ALEJANDRA",1,356000.0,2025-12-30,2026-01-03,2,0,Walk In,Directo,alejandraalfieri16@gmail.com,Mov: 3874474454,Buenos Aires,Argentina,66,Hotel America,Primera vez,Pareja
+"ANDRINI, ANALIA",1,525000.0,2026-02-05,2026-02-08,5,0,Contacto Telefónico,Directo,ANDRINO@GMAIL.COM,Mov: 2474554501,,Indefinido,30,Hotel America,Primera vez,Grupo
+"ANGEL, SANTIAGO",1,204000.0,2025-11-21,2025-11-23,3,0,WhatsApp,Directo,santiangel2004@gmail.com,Mov: 1121561564,Ciudad Autónoma de Buenos Aires,Argentina,107,Hotel America,Primera vez,Grupo
+"ANGULO SOTTILE, ALEJO JAVIER",1,70000.0,2026-02-07,2026-02-08,2,0,Walk In,Directo,JUAN.PABLO.CAMPOS@OUTLOOK.COM,Mov: 2914399022,,Indefinido,30,Hotel America,Primera vez,Pareja
+"APAZA, FRANCISCO JUAN",1,105000.0,2026-02-10,2026-02-11,3,0,Walk In,Directo,paolavanina3010@gmail.com,Mov: 2996265814 - Fij: 2996265814,Plottier,Argentina,27,Hotel America,Primera vez,Grupo
+"ARAMBURU, FIAMA",1,420000.0,2026-02-02,2026-02-06,3,0,Walk In,Directo,FIAMARAMBURU287@GMAIL.COM,Mov: 2914719300,,Indefinido,32,Hotel America,Primera vez,Grupo
+"ARIAN GILMOUR, DIEGO",1,150696.26,2025-11-21,2025-11-23,1,0,Booking.com,OTAs,dgilmo.324830@guest.booking.com,Mov: +54 11 3075 2351 - Fij: +54 11 3075 2351,Buenos Aires,Argentina,107,Hotel America,Primera vez,Solo
+"ARRUYA, JOSE",1,51000.0,2025-11-08,2025-11-09,1,0,Walk In,Directo,arruyajulio@gmail.com,Mov: 1166005035,,Indefinido,121,Hotel America,Primera vez,Solo
+"ARTACHO ALCARAZ, LORENA VERONICA",1,280000.0,2026-02-05,2026-02-09,2,0,Walk In,Directo,lacoloartacho@gmail.com,Mov: 011 1561039675,Buenos Aires,Argentina,29,Hotel America,Primera vez,Pareja
+"ASSADOURAN, JOSE LUIS",1,320000.0,2026-01-10,2026-01-14,2,0,Walk In,Directo,ASSAJOSELUIS@HOTMAIL.COM,Mov: 1166213884,,Indefinido,55,Hotel America,Primera vez,Pareja
+"AVELLANEDA, MONICA",1,210000.0,2026-02-07,2026-02-10,2,0,Contacto Telefónico,Directo,samaniego_777@hotmail.com,Mov: 3813319741,Buenos Aires,Argentina,28,Hotel America,Primera vez,Pareja
+"AZZAM, UMAIMA",1,204000.0,2025-12-31,2026-01-04,1,0,Walk In,Directo,umaazzam@hotmail.com,Mov: 1540769820,,Indefinido,65,Hotel America,Primera vez,Solo
+"Abril Sandullo, Sharon",1,61312.85,2026-02-27,2026-02-28,2,0,Booking.com,OTAs,csandu.708838@guest.booking.com,Mov:  +5492215233976,,Argentina,10,Hotel America,Primera vez,Pareja
+"Acevedo, Sergio",1,61230.259,2026-02-28,2026-03-01,2,0,Booking.com,OTAs,saceve.566260@guest.booking.com,Mov: +54 11 6906 6287,Buenos Aires,Argentina,9,Hotel America,Primera vez,Pareja
+"Acuna, Leonel",1,61693.38,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,lacuna.978885@guest.booking.com,Mov: +54 3482 37 5387,,Argentina,68,Hotel America,Primera vez,Pareja
+"Agustin, Trillo",1,341278.08,2026-01-08,2026-01-12,2,0,Booking.com,OTAs,agustrillo@outlook.com,Mov: +54 11 3912 7704,,Argentina,57,Hotel America,Primera vez,Pareja
+"Ali, Gladys",1,136000.0,2025-12-06,2025-12-08,2,0,Walk In,Directo,gladysdorado33@gmail.com,Mov: 1125532629,,Indefinido,92,Hotel America,Primera vez,Pareja
+"Allen , Claudia ",1,63000.0,2026-02-28,2026-03-01,2,0,Mail,Directo,clauallen@hotmail.com,Mov: 1165082091,Buenos Aires,Argentina,9,Hotel America,Primera vez,Pareja
+"Almiron, Ariel",1,70000.0,2026-02-13,2026-02-14,2,0,Walk In,Directo,almiron@gmail.com,Mov: 2216974204,,Indefinido,24,Hotel America,Primera vez,Pareja
+"Alvarado, Luis",1,110000.0,2026-01-10,2026-01-11,1,0,Walk In,Directo,lalvar.786445@guest.booking.com,Mov: +54 9 11 2387 3479 - Fij: +54 9 11 2387 3479,,Argentina,58,Hotel America,Primera vez,Solo
+"Ancarola , María Belén",3,183600.0,2025-11-08,2025-11-09,2,0,Motor de reservas propio,Directo,belen.ancarola@gmail.com,Mov: 1530327744 - Fij: 1530327744,,Argentina,121,Hotel America,VIP,Pareja
+"Andino, Ignacio",1,460000.0,2026-01-17,2026-01-22,2,0,Walk In,Directo,ignacioandino1993@gmail.com,Mov: 1130035997,,Indefinido,47,Hotel America,Primera vez,Pareja
+"Anely, Rausin",1,61693.38,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,ranely.855397@guest.booking.com,Mov: +54 11 2513 7250,,Argentina,68,Hotel America,Primera vez,Pareja
+"Anghileri , María Victoria ",1,70000.0,2026-01-31,2026-02-01,2,0,WhatsApp,Directo,victoriaanghileri@gmail.com,Mov: +54 9 11 7360-8771,Buenos Aires,Argentina,37,Hotel America,Primera vez,Pareja
+"Anibal Ullmann, Eduardo",1,248220.126,2025-11-22,2025-11-24,2,0,Booking.com,OTAs,eullma.389111@guest.booking.com,Mov: +54 291 405 7534 - Fij: +54 291 405 7534,Buenos Aires,Argentina,106,Hotel America,Primera vez,Pareja
+"Aragon Martinez, Isabel Maria",1,61693.38,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,imarti.244386@guest.booking.com,Mov: +34 637 52 87 74,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"Arana Miguel, Rodolfo ",1,68000.0,2025-12-13,2025-12-14,2,0,WhatsApp,Directo,Rodolfoaran@gmail.com,Mov: +54 9 11 6541-1379,Buenos Aires,Argentina,86,Hotel America,Primera vez,Pareja
+"Arguello, Juliana",1,334647.3,2025-12-31,2026-01-03,2,0,Booking.com,OTAs,jargue.752493@guest.booking.com,Mov: +54 2474 44 3200,,Argentina,66,Hotel America,Primera vez,Pareja
+"Asselborn, Victoria",1,70743.62,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,vassel.152951@guest.booking.com,Fij: +54 11 6210 0293,Pilar,Argentina,68,Hotel America,Primera vez,Pareja
+"BARNES, ISMAEL",5,410000.0,2026-01-21,2026-02-26,2,0,Walk In,Directo,ISMAELBARNES20@GMAIL.COM,Mov: 1150990355,Buenos Aires,Argentina,12,Hotel America,VIP,Pareja
+"BARQUERO, JOSEFINA ",1,70000.0,2026-02-07,2026-02-08,2,0,WhatsApp,Directo,josefinabarquero@gmail.com,Mov: +54 9 2284 60-3891,Buenos Aires,Argentina,30,Hotel America,Primera vez,Pareja
+"BARREIRO, NANCY",1,320000.0,2026-01-03,2026-01-07,2,0,Walk In,Directo,NBARREIRO44@GMAIL.COM,Mov: 1141874604,,Indefinido,62,Hotel America,Primera vez,Pareja
+"BELTRAN VIAJES, BELTRAN VIAJES",1,600000.0,2026-01-20,2026-01-25,3,0,Contacto Telefónico,Corporativo,BELTRAN VIAJES,Mov: BELTRAN VIAJES,,Indefinido,44,Hotel America,Primera vez,Grupo
+"BERNALLIA, VIVIANA",1,70000.0,2026-02-19,2026-02-20,2,0,Walk In,Directo,VIVIANABERNALLIA873@GMAIL.COM,Mov: 2936404129,,Indefinido,18,Hotel America,Primera vez,Pareja
+"BRITO, ELISEO",1,350000.0,2026-02-12,2026-02-14,6,0,Walk In,Directo,ELISEOBRITO@gmail.com,Mov: 1139566685 - Fij: 1139566685,Tigre,Argentina,24,Hotel America,Primera vez,Grupo
+"BRUNO, ANTONIO ",1,490000.0,2026-02-23,2026-03-02,2,0,Walk In,Directo,QUETOURBANO@GMAIL.COM,Mov: 2342455487 - Fij: 2342505182,,Indefinido,8,Hotel America,Primera vez,Pareja
+"Bandinelli, Silvina",1,283565.339,2026-01-17,2026-01-20,2,0,Booking.com,OTAs,sbandi.854197@guest.booking.com,Mov: +54 9 11 3738 5010,,Argentina,49,Hotel America,Primera vez,Pareja
+"Barbon, Laura",1,136000.0,2025-11-21,2025-11-23,2,0,Walk In,Directo,laurabarbon66@gmail.com,Mov: 1157341775,,Indefinido,107,Hotel America,Primera vez,Pareja
+"Benitez, Nadir",1,740000.0,2026-02-18,2026-02-23,2,0,Mail,Tour & Travel,nadir_benitez98@hotmail.com,Mov: 1141404027,,Indefinido,15,Hotel America,Primera vez,Pareja
+"Benítez , Zulma ",1,102000.0,2025-12-31,2026-01-01,3,0,WhatsApp,Directo,Nahirroma21@gmail.com,Mov: +54 9 11 7134-3588,Buenos Aires,Argentina,68,Hotel America,Primera vez,Grupo
+"Berchialla, Diana",1,224000.0,2025-12-30,2026-01-03,2,0,Mail,Tour & Travel,berchialladiana662@nomail.com,Mov: 1166193304,Buenos Aires,Argentina,66,Hotel America,Primera vez,Pareja
+"Berrutti, Marta",1,63000.0,2025-10-11,2025-10-12,2,0,WhatsApp,Directo,lilianaberrutti@hotmail.com,Mov: +54 9 11 3398-0629,,Indefinido,149,Hotel America,Primera vez,Pareja
+"Blanco, Aracelis Beatriz",1,224000.0,2025-12-30,2026-01-03,2,0,Contacto Telefónico,Tour & Travel,camilalanoriega@gmail.com,Mov: 1130486492,Buenos Aires,Argentina,66,Hotel America,Primera vez,Pareja
+"Bramajo, Hugo",1,68000.0,2025-11-23,2025-11-24,2,0,Walk In,Directo,no usa mail,Mov: 2494356516,,Indefinido,106,Hotel America,Primera vez,Pareja
+"Brandan, Ramiro",1,123386.75,2025-12-30,2026-01-01,2,0,Booking.com,OTAs,rbrand.551724@guest.booking.com,Mov: +54 11 2461 7762,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"Bustamante, Sonia",1,94811.317,2026-01-10,2026-01-11,2,0,Booking.com,OTAs,soniabus1981@gmail.com,Mov: +54 2344 47 5223,,Argentina,58,Hotel America,Primera vez,Pareja
+"CAMILO, NICOLAS",1,80000.0,2026-01-04,2026-01-05,2,0,Walk In,Directo,GABILANMILO@GMAIL.COM,Mov: 1131470708,,Indefinido,64,Hotel America,Primera vez,Pareja
+"CANDADO, NIDIA",1,258000.0,2025-12-31,2026-01-04,2,0,Mail,Tour & Travel,candadonidia525@nomail.com,Mov: 1121820207,,Indefinido,65,Hotel America,Primera vez,Pareja
+"CANO, AGUSTIN NICOLAS",1,140000.0,2026-02-06,2026-02-08,1,0,Walk In,Directo,agustincanoturismo@gmail.com,Mov: 3858447071,Buenos Aires,Argentina,30,Hotel America,Primera vez,Solo
+"CARBAJO, CAROLINA",1,330000.0,2026-02-14,2026-02-16,3,0,WhatsApp,Directo,Carolina_carbajo@yahoo.com.ar,Mov: +54 9 11 6282-1028,Bolívar,Argentina,22,Hotel America,Primera vez,Grupo
+"CARCAMO, GUSTAVO MIGUEL",1,140000.0,2026-02-07,2026-02-08,4,0,Walk In,Directo,GUSTAVOCARCAMO@LIVE.COM.AR,Mov: 3416513265,,Indefinido,30,Hotel America,Primera vez,Grupo
+"CAROFIGILO, ARIEL HERNAN ",1,63000.0,2026-02-17,2026-02-18,2,0,Walk In,Directo,arielcaro@gmail.com,Mov: 1158210315,Buenos Aires,Argentina,20,Hotel America,Primera vez,Pareja
+"CAROSELLA, Nazareno",1,240000.0,2026-02-23,2026-02-27,2,0,Contacto Telefónico,Corporativo,nazareno@balltour.com,Mov: 1554746465,Buenos Aires,Argentina,11,Hotel America,Primera vez,Pareja
+"CASADO, MARTIN",1,480000.0,2026-01-25,2026-01-31,1,0,WhatsApp,Directo,casadomartin@hotmail.com,Mov: 54 9 2396 45 7939,Buenos Aires,Argentina,38,Hotel America,Primera vez,Solo
+"CASANOVAS, LUCAS GABRIEL",1,450000.0,2026-01-19,2026-01-24,2,0,Walk In,Directo,luca_bostero_316@hotmail.com,Mov: 1167820579,Buenos Aires,Argentina,45,Hotel America,Primera vez,Pareja
+"CASSANO, KARINA",1,280000.0,2026-02-01,2026-02-05,2,0,WhatsApp,Directo,KVCASSANO@YAHOO.COM.AR,Mov: 01168768176,Buenos Aires,Argentina,33,Hotel America,Primera vez,Pareja
+"CAÑARI MONTALVO, FIDELIA",1,810000.0,2026-01-13,2026-01-19,3,0,Contacto Telefónico,Tour & Travel,caNarimontalvofidelia461@nomail.com,Mov: 1153872325,Buenos Aires,Argentina,50,Hotel America,Primera vez,Grupo
+"CHRINO, JAVIER",1,240000.0,2026-01-10,2026-01-13,2,0,Walk In,Directo,SEGUROSGRAL@GMAIL.COM,Mov: 2664649369,,Indefinido,56,Hotel America,Primera vez,Pareja
+"COLLMER, LAURA ALICIA",1,770000.0,2026-02-09,2026-02-16,2,0,WhatsApp,Directo,lauracollmer389@gmail.com,Mov: +54 9 3382 46-6070 - Fij: +54 9 3382 46-6070,Rufino,Argentina,22,Hotel America,Primera vez,Pareja
+"CONTRERAS, ROBERTO OSVALDO",1,51000.0,2025-12-31,2026-01-01,2,0,Walk In,Directo,claudiaescudero2011@hotmail.com,Mov: 1156424059 - Fij: 1156424059,Villa Ballester,Argentina,68,Hotel America,Primera vez,Pareja
+"CORBALAN, MONICA BEATRIZ",1,70000.0,2026-02-13,2026-02-14,2,0,Walk In,Directo,corbalanmoica@nomail.com,Mov: 1171349124,Buenos Aires,Argentina,24,Hotel America,Primera vez,Pareja
+"CORDERO, MARCELO",1,102000.0,2025-11-21,2025-11-23,1,0,Walk In,Directo,m_c_cordero@hotmail.com,Mov: +54 11 2877 8045 - Fij: +54 11 2877 8045,,Argentina,107,Hotel America,Primera vez,Solo
+"CORONEL, LUCIANO SEBASTIAN",1,540000.0,2026-01-05,2026-01-11,2,0,Mail,Corporativo,coronellucianosebastian771@nomail.com,Mov: 2396609945,,Indefinido,58,Hotel America,Primera vez,Pareja
+"CORREA, TIZIANO NICOLAS",3,660000.0,2026-01-09,2026-01-27,2,0,WhatsApp,Directo,CORREATIZIANO162@gmail.com,Mov: 5492234460224,Mar del Plata,Argentina,42,Hotel America,VIP,Pareja
+"CUPARIZ, JULIAN",1,198000.0,2026-01-31,2026-02-02,2,0,WhatsApp,Directo,cupariz@hotmail.com,Mov: +54 9 11 2853-8722,Buenos Aires,Argentina,36,Hotel America,Primera vez,Pareja
+"Cabassi, Jerónimo",3,256500.0,2025-10-30,2025-11-01,1,0,Motor de reservas propio,Directo,jerocabassi@gmail.com,Fij: +5493764617646,,Argentina,129,Hotel America,VIP,Solo
+"Caffarena, Miguel Angel",1,204000.0,2025-11-07,2025-11-09,3,0,WhatsApp,Directo,Poncesilviaalejandra08@gmail.com,Mov: +54 9 11 3671-3908,Banfield,Argentina,121,Hotel America,Primera vez,Grupo
+"Calvente, Alfredo ",1,880000.0,2026-01-20,2026-01-28,2,0,WhatsApp,Directo,alfredocalvente@hotmail.com,Mov: +54 9 261 559-7643,Buenos Aires,Argentina,41,Hotel America,Primera vez,Pareja
+"Carolina, Verdino",1,150696.26,2025-11-21,2025-11-23,2,0,Booking.com,OTAs,caroverdino@hotmail.com,Mov: +54 11 3152 6454 - Fij: +54 11 3152 6454,,Argentina,107,Hotel America,Primera vez,Pareja
+"Castro, Alicia",1,360000.0,2026-02-04,2026-02-08,1,0,Contacto Telefónico,Directo,fakeemail@gmail.com,Mov: 1157456963,Buenos Aires,Argentina,30,Hotel America,Primera vez,Solo
+"Castro, Maribel",1,204000.0,2025-11-07,2025-11-09,3,0,Contacto Telefónico,Directo,maribelcastrofernandezxd@gmail.com,Mov: +54 9 11 2756-6701,Buenos Aires,Argentina,121,Hotel America,Primera vez,Grupo
+"Clemant, Ania",1,360000.0,2026-01-16,2026-01-20,2,0,WhatsApp,Corporativo,clemantania@gmail.com,Mov: 54 9 2915 09-1103,,Indefinido,49,Hotel America,Primera vez,Pareja
+"Colman, Damian",1,105000.0,2026-02-21,2026-02-22,3,0,Contacto Telefónico,Directo,colman@gmail.com,Mov: 2983530052,,Indefinido,16,Hotel America,Primera vez,Grupo
+"Contardo, Martina",1,322039.371,2026-01-23,2026-01-26,2,0,Booking.com,OTAs,martinacontardo.mc@gmail.com,Mov: +54 9 348 454 0596,Buenos Aires,Argentina,43,Hotel America,Primera vez,Pareja
+"Corvalan, luis julio",1,1430000.0,2026-01-05,2026-01-18,2,0,WhatsApp,Directo,nomail@nomail.com.arr,Mov: +54 9 3815 53-1909,Buenos Aires,Argentina,51,Hotel America,Primera vez,Pareja
+"Crettón , Facundo",1,102000.0,2025-12-31,2026-01-02,1,0,WhatsApp,Directo,Facundoecretton2004@gmail.com,Mov: +54 9 280 486-1682,Buenos Aires,Argentina,67,Hotel America,Primera vez,Solo
+"Cupariz, Gabriela Beatriz",2,735000.0,2026-01-25,2026-02-04,3,0,WhatsApp,Directo,gcupariz@hotmail.com,Mov: 5491171972789,,Argentina,34,Hotel America,Recurrente,Grupo
+"DAVALOS, BRIAN",1,70000.0,2026-02-07,2026-02-08,2,0,Walk In,Directo,CINTHIAE2500@GMAIL.COM,Mov: 1140465987,,Indefinido,30,Hotel America,Primera vez,Pareja
+"DEL PESCHIO, ALICIA",1,450000.0,2026-01-19,2026-01-24,2,0,Mail,Tour & Travel,ALIUMA789@GMAIL.COM,Mov: 3364631411,,Indefinido,45,Hotel America,Primera vez,Pareja
+"DELLA NINA, GUSTAVO",1,110000.0,2026-01-24,2026-01-25,2,0,WhatsApp,Directo,gustavodellanina5@gmail.com,Mov: +54 9 2494 56-0100,Tandil,Argentina,44,Hotel America,Primera vez,Pareja
+"DEMCZUK, IVAN",1,136000.0,2025-11-14,2025-11-16,2,0,Walk In,Directo,demczukivan@nomail.com,Mov: 1162453158,Buenos Aires,Argentina,114,Hotel America,Primera vez,Pareja
+"DIAZ, NAHUEL",1,80000.0,2026-01-21,2026-01-22,2,0,Walk In,Directo,diaznahu04@gmail.com,Mov: 2645266668,Buenos Aires,Argentina,47,Hotel America,Primera vez,Pareja
+"DOLBERG, RODRIGO",1,140000.0,2026-01-31,2026-02-02,2,0,Walk In,Directo,DOLBERG@GMAIL.COM,Mov: 43125602,,Indefinido,36,Hotel America,Primera vez,Pareja
+"DURANTE, GABRIEL ALBERTO",2,73800.0,2025-09-23,2025-09-24,1,0,Motor de reservas propio,Directo,ventas@totaltextil.com.ar,Mov: 11-62855198 - Fij: 1157944000,,Argentina,167,Hotel America,Recurrente,Solo
+"DYKE, EVITA NORMA",1,450000.0,2026-01-21,2026-01-26,1,0,Mail,Tour & Travel,evitanormadyke@gmail.com,Mov: 1158972264,,Indefinido,43,Hotel America,Primera vez,Solo
+"Delia, Martin Alejandro ",1,39000.0,2025-10-17,2025-10-18,1,0,Contacto Telefónico,Corporativo,ingdelia@hotmail.com,Mov: +54 9 11 4971-8125,,Argentina,143,Hotel America,Primera vez,Solo
+"Diaz, Lorena",1,167455.966,2025-11-21,2025-11-23,2,0,Booking.com,OTAs,ldiaz.622104@guest.booking.com,Mov: +54 11 6653 6049 - Fij: +54 11 6653 6049,,Argentina,107,Hotel America,Primera vez,Pareja
+"Domenichini, Laura Noemi",1,156000.0,2025-10-10,2025-10-13,2,0,Contacto Telefónico,Tour & Travel,nievess@juditur.com,Mov: 1126403728,,Indefinido,148,Hotel America,Primera vez,Pareja
+"ESTEVEZ, MAURO MANUEL",1,70000.0,2026-01-30,2026-01-31,1,0,Walk In,Directo,mme5604@gmail.com,Mov: 115367639 - Fij: 115367639,Ituzaingo,Argentina,38,Hotel America,Primera vez,Solo
+"Engo, Ricardo",1,255997.473,2026-01-18,2026-01-21,2,0,Booking.com,OTAs,rengo.259918@guest.booking.com,Mov: +54 11 5099 2450 - Fij: +54 11 5099 2450,Buenos Aires,Argentina,48,Hotel America,Primera vez,Pareja
+"Erramuspe, Aylen ",1,660000.0,2026-02-14,2026-02-17,4,0,WhatsApp,Directo,erramuspeaylen@gmail.com,Mov: +54 9 2323 53-3258,Buenos Aires,Argentina,21,Hotel America,Primera vez,Grupo
+"Escobilla, Pablo",1,68000.0,2025-11-15,2025-11-16,2,0,Walk In,Directo,pablo62@gmail.com,Mov: 1564702157,,Indefinido,114,Hotel America,Primera vez,Pareja
+"Escuela de River Plate Lomas de Zamora, Escuela de River Plate Lomas de Zamora",1,2464000.0,2025-11-14,2025-11-16,46,0,Contacto Telefónico,Corporativo,Escuela de River Plate Lomas de Zamora,Mov: Escuela de River Plate Lomas de Zamora,,Indefinido,114,Hotel America,Primera vez,Grupo
+"Espinosa , Camila",2,990000.0,2026-02-14,2026-02-17,3,0,Motor de reservas propio,Directo,camilaantonella1206@gmail.com,Mov: 1155066929 - Fij: 1161945309,,Argentina,21,Hotel America,Recurrente,Grupo
+"Esquivel, Carolina ",1,160000.0,2026-01-10,2026-01-12,2,0,WhatsApp,Directo,Carolina_esq@hotmail.com,Mov: +54 9 2914 47-5642,Buenos Aires,Argentina,57,Hotel America,Primera vez,Pareja
+"Ezequiel Rey, Luciano",1,94811.317,2026-01-10,2026-01-11,2,0,Booking.com,OTAs,lucianoluchyrey@gmail.com,Mov: +54 11 5328 8490,,Argentina,58,Hotel America,Primera vez,Pareja
+"FALL, DARIO DANIEL",1,210000.0,2026-02-07,2026-02-09,3,0,Walk In,Directo,danielfall@gmail.com,Mov: 3416997844,Buenos Aires,Argentina,29,Hotel America,Primera vez,Grupo
+"FERNANDEZ, LUCIANA",1,350000.0,2026-01-09,2026-01-14,2,0,Contacto Telefónico,Tour & Travel,lucianafernandez02@hotmail.com,Mov: 2215035795,,Indefinido,55,Hotel America,Primera vez,Pareja
+"FERNANDEZ, SOL",1,70000.0,2026-02-08,2026-02-09,2,0,Walk In,Directo,SOLFERNANDEZ@GMAIL.COM,Mov: 1178051929 - Fij: 1178051929,Bella Vista,Argentina,29,Hotel America,Primera vez,Pareja
+"FERRAIUOLO, ALBERTO",1,70000.0,2026-02-06,2026-02-07,2,0,Walk In,Directo,ferraiuoloalberto@gmail.com,Mov: +54 1171274059,,Italia,31,Hotel America,Primera vez,Pareja
+"Fabiana, Cantero",1,148932.076,2025-11-22,2025-11-24,2,0,Booking.com,OTAs,cfabia.137747@guest.booking.com,Mov: +54 11 5387 2820 - Fij: +54 11 5387 2820,Buenos Aires,Argentina,106,Hotel America,Primera vez,Pareja
+"Falcon, Fernando",1,210000.0,2026-02-11,2026-02-14,2,0,Walk In,Directo,falcon@gmail.com,Mov: 1144060463,,Indefinido,24,Hotel America,Primera vez,Pareja
+"Fernandez, Iara Magali",1,315000.0,2026-02-06,2026-02-09,3,1,Contacto Telefónico,Directo,iaramagali.fernandez@gmail.com,Mov: 1126724045,Ciudad Autónoma de Buenos Aires,Argentina,29,Hotel America,Primera vez,Familia
+"Ferreira Pereira, Sanny Lorena",1,440000.0,2026-01-03,2026-01-07,1,0,WhatsApp,Directo,ferreirasanny99@gmail.com,Mov: +54 9 11 5455-3337,,Indefinido,62,Hotel America,Primera vez,Solo
+"Ferzzola Rebottaro , Abril ",1,297000.0,2026-02-13,2026-02-16,2,0,WhatsApp,Directo,Ferzzola@gmail.com,Mov: +54 9 2346 54-1850,Buenos Aires,Argentina,22,Hotel America,Primera vez,Pareja
+"Fontanet, Federico",1,68121.67,2026-02-17,2026-02-18,2,0,Booking.com,OTAs,newsletff@protonmail.ch,Mov: 5491160565352,Ciudad Autónoma de Buenos Aires,Argentina,20,Hotel America,Primera vez,Pareja
+"Francia, Dora Isabel ",1,204000.0,2025-12-30,2026-01-02,2,0,WhatsApp,Directo,dorisa2761@gmail.com,Mov: +54 9 2281 46-3324,Azul,Argentina,67,Hotel America,Primera vez,Pareja
+"Frisorger, Catalina",1,68538.393,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,cfriso.500801@guest.booking.com,Mov: +54 249 401 8734,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"Funes , Matias Israel ",1,1080000.0,2026-01-22,2026-01-30,3,0,WhatsApp,Corporativo,Funesmatty@gmail.com,Mov: +54 9 2634 74-1113,Buenos Aires,Argentina,39,Hotel America,Primera vez,Grupo
+"GALIANO, LORENA",1,105000.0,2026-02-07,2026-02-08,3,0,WhatsApp,Directo,Lorena.galiano@gmail.com,Mov: +54 9 11 5641-2858,Avellaneda,Argentina,30,Hotel America,Primera vez,Grupo
+"GAMBARDELLA, PABLO",1,70000.0,2026-02-25,2026-02-26,1,0,Walk In,Directo,GAMBARDELLA68@PANA.COM.AR,Mov: 1136900374,,Indefinido,12,Hotel America,Primera vez,Solo
+"GAONA, DANIEL",2,280000.0,2026-02-03,2026-02-10,2,0,Walk In,Directo,DANI.3336.GAONA@GMAIL.COM,Mov: 2215685580,Buenos Aires,Argentina,28,Hotel America,Recurrente,Pareja
+"GARIN, ELSA BEATRIZ",1,99000.0,2026-01-17,2026-01-18,2,0,Walk In,Directo,elsabeatrizgarin@nomail.com,Mov: 2215674754,Buenos Aires,Argentina,51,Hotel America,Primera vez,Pareja
+"GASSIE, SILVIA NOEMI",1,270000.0,2026-01-05,2026-01-08,2,0,Mail,Tour & Travel,silviagassie@gmail.com,Mov: 2284520245,,Indefinido,61,Hotel America,Primera vez,Pareja
+"GELMAN, DANIEL OSCAR",1,140000.0,2026-02-07,2026-02-09,2,0,Walk In,Directo,OSCARDANIELGELMAN@GMAIL.COM,Mov: 1134062309,,Indefinido,29,Hotel America,Primera vez,Pareja
+"GOGLIORMELLA, RODRIGO ESTEBAN",1,240000.0,2026-02-14,2026-02-18,3,0,Mail,Corporativo,LUDMILA1996014ANTONELLA@GMAIL.COM,Mov: 1160528363,,Indefinido,20,Hotel America,Primera vez,Grupo
+"GOMEZ, NADIA",1,1480000.0,2026-02-09,2026-02-14,4,0,WhatsApp,Corporativo,Nadiag_81@hotmail.com,Mov: +54 9 11 6232-1065,Buenos Aires,Argentina,24,Hotel America,Primera vez,Grupo
+"GOMEZ, SOFIA",1,160000.0,2026-01-10,2026-01-12,2,0,Walk In,Directo,CAMILACAMELIERE@GMAIL.COM,Mov: 1153101367,,Indefinido,57,Hotel America,Primera vez,Pareja
+"GONZALEZ ROMERO, ISABEL",1,1120000.0,2026-02-06,2026-02-14,4,1,Walk In,Directo,gonzalezchaveli8@gmail.com,Mov: 1139478485,Buenos Aires,Argentina,24,Hotel America,Primera vez,Familia
+"GONZALEZ, ARIAN",1,136000.0,2025-12-31,2026-01-01,4,0,Walk In,Directo,BEELSOSA697@GMAIL.COM,Mov: 2281376938,,Indefinido,68,Hotel America,Primera vez,Grupo
+"GONZALEZ, LETICIA ANTONIA",1,140000.0,2026-02-27,2026-03-01,2,0,Walk In,Directo,gonzalezleti@gmail.com,Mov: 1130649851,Buenos Aires,Argentina,9,Hotel America,Primera vez,Pareja
+"GRACETOUR VERANO 2026, GRACETOUR VERANO 2026",1,3800000.0,2026-01-15,2026-01-20,20,0,Contacto Telefónico,Tour & Travel,GRACETOUR VERANO 2026,Mov: GRACETOUR VERANO 2026,,Indefinido,49,Hotel America,Primera vez,Grupo
+"GRATTONI , JUAN JOSE",1,270000.0,2026-02-14,2026-02-17,2,0,Mail,Tour & Travel,grattonijuanjose616@nomail.com,Mov: 2215371137,Buenos Aires,Argentina,21,Hotel America,Primera vez,Pareja
+"GRIFFITH, CECILIA",1,80000.0,2026-01-10,2026-01-11,2,0,Walk In,Directo,delfi09_@hotmail.com,Mov: 2215591066,,Indefinido,58,Hotel America,Primera vez,Pareja
+"GRUPO ENCUENTROS VERANO 2026, GRUPO ENCUENTROS VERANO 2026",1,3825000.0,2026-01-12,2026-01-17,18,0,Contacto Telefónico,Tour & Travel,GRUPO ENCUENTROS VERANO 2026,Mov: GRUPO ENCUENTROS VERANO 2026,,Indefinido,52,Hotel America,Primera vez,Grupo
+"GRUPO GRUPO, silvia",1,9600000.0,2026-02-21,2026-02-24,85,0,Contacto Telefónico,Tour & Travel,+54 9 11 3141-3128,Mov: sf7132058@gmail.com,,Indefinido,14,Hotel America,Primera vez,Grupo
+"GRUPO GUSMAC, GRUPO GUSMAC",1,2604000.0,2026-01-15,2026-01-19,16,0,Contacto Telefónico,Directo,GRUPO GUSMAC,Mov: 3462322194,,Indefinido,50,Hotel America,Primera vez,Grupo
+"GRUPO LEMONDE VERANO 2026, GRUPO LEMONDE VERANO 2026",2,9820000.0,2026-01-08,2026-02-24,33,0,Contacto Telefónico,Tour & Travel,GRUPO LEMONDE VERANO 2026,Mov: GRUPO LEMONDE VERANO 2026,,Indefinido,14,Hotel America,Recurrente,Grupo
+"Gabiola, Lucila",1,61693.38,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,lgabio.169901@guest.booking.com,Mov: +54 2262 53 2079,,Argentina,68,Hotel America,Primera vez,Pareja
+"Gaeta, Alejandra",1,68538.39,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,alejandra.gaeta@hotmail.com,Mov: +54 11 2450 8882,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"Gamarra, Fabio",1,127368.77,2025-10-10,2025-10-12,2,0,Booking.com,OTAs,fgamar.791921@guest.booking.com,Mov: +54 341 564 6523 - Fij: +54 341 564 6523,,Argentina,149,Hotel America,Primera vez,Pareja
+"Gamboa, Alejandro",1,63000.0,2025-10-11,2025-10-12,2,0,Walk In,Directo,ivandaniagus21@gmail.com,Mov: 2235239202 - Fij: 2235239202,,Argentina,149,Hotel America,Primera vez,Pareja
+"Gandola, Nelson Fabio",1,405000.0,2026-01-08,2026-01-11,3,0,Mail,Tour & Travel,nelson.gandola@gmail.com,Mov: 1135847278,,Indefinido,58,Hotel America,Primera vez,Grupo
+"Gattella, Soll",1,180000.0,2026-01-09,2026-01-11,2,0,WhatsApp,Directo,Gattellasol@gmail.com,Mov: 54 9 3858 47-2023,Santiago del Estero,Argentina,58,Hotel America,Primera vez,Pareja
+"Giaccone , Maria Luz",1,770000.0,2026-01-12,2026-01-19,2,0,WhatsApp,Directo,giacconemarialuz@gmail.com,Mov: +54 9 2355 51-7531,Lincoln,Argentina,50,Hotel America,Primera vez,Pareja
+"Giselle, Brandan",1,70743.62,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,johanaalavandeira@gmail.com,Mov: +54 11 7613 3797 - Fij: +54 11 7613 3797,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"Giuliano, Florencia",1,68117.87,2026-02-20,2026-02-21,2,0,Booking.com,OTAs,fgiuli.680279@guest.booking.com,Mov: 542235420989 - Fij: 542235420989,Mar del Plata,Argentina,17,Hotel America,Primera vez,Pareja
+"Gomez, Alejandra",1,220000.0,2026-02-15,2026-02-17,2,0,WhatsApp,Directo,gomez@gmail.com,Mov: +54 9 11 5042-7977,Buenos Aires,Argentina,21,Hotel America,Primera vez,Pareja
+"Gomez, Rodolfo",1,536732.284,2026-01-23,2026-01-26,2,0,Booking.com,OTAs,rgomez.191847@guest.booking.com,Mov: +54 11 4097 9159 - Fij: +54 11 4097 9159,Ciudad Autónoma de Buenos Aires,Argentina,43,Hotel America,Primera vez,Pareja
+"Gomez, Veronica",1,120000.0,2026-01-09,2026-01-10,3,0,Walk In,Directo,veronicagomez@nomail.com,Mov: 2215232447,,Indefinido,59,Hotel America,Primera vez,Grupo
+"Gonzales, Alejandro Gabriel",1,308000.0,2026-01-31,2026-02-03,2,0,WhatsApp,Directo,gonzalesalejandro@nomail.com,Mov: +54 9 11 3414-6879,Buenos Aires,Argentina,35,Hotel America,Primera vez,Pareja
+"Gonzalez, Hector",1,90000.0,2026-01-16,2026-01-17,2,0,Contacto Telefónico,Tour & Travel,choferes encuentros,Mov: 2215421577,,Indefinido,52,Hotel America,Primera vez,Pareja
+"González , Gustavo ",1,70000.0,2026-02-19,2026-02-20,2,0,Contacto Telefónico,Directo,gusstavogonzalez5@gmail.com,Mov: +54 9 2355 52-1983,Buenos Aires,Argentina,18,Hotel America,Primera vez,Pareja
+"González Martínez , Gloria",1,136000.0,2025-12-06,2025-12-08,2,0,WhatsApp,Directo,gloriamartinez1504@hotmail.com,Mov: 5492214405724 - Fij: 2214405724,Buenos Aires,Argentina,92,Hotel America,Primera vez,Pareja
+"Guebara, Ignacio",2,122400.0,2026-03-14,2026-03-15,1,0,Portal de reservas,Directo,ignacio.guebara@gmail.com,Mov: 1150071123,,Argentina,-5,Hotel America,Recurrente,Solo
+"HERRERA, Elbio Javier",1,136000.0,2025-12-31,2026-01-01,4,0,WhatsApp,Directo,ferjhherrera@gmail.com,Mov: +54 2268 41 9470 - Fij: +54 2268 41 9470,,Argentina,68,Hotel America,Primera vez,Grupo
+"HIDALGO, LUCAS",1,630000.0,2026-02-14,2026-02-21,2,0,Mail,Tour & Travel,sotelo_melina@cataturismo.tur.ar,Mov: 2613400254,Buenos Aires,Argentina,17,Hotel America,Primera vez,Pareja
+"HILT, ANTONELLA SOLEDAD",1,91800.0,2025-12-31,2026-01-01,3,0,Walk In,Directo,EDGARVAILSHEIM17@GMAIL.COM,Mov: 1133686419,Buenos Aires,Argentina,68,Hotel America,Primera vez,Grupo
+"Had, Sara Beatriz",1,70000.0,2026-01-31,2026-02-01,1,0,Walk In,Directo,saritahad@gmail.com,Mov: +54 3816345126 - Fij: +54 3816345126,,Argentina,37,Hotel America,Primera vez,Solo
+"Huelguera, Yanina Romina",1,270000.0,2026-01-29,2026-02-01,2,0,Mail,Corporativo,yaninaromina1981@gmail.com,Mov: 2215259202,,Indefinido,37,Hotel America,Primera vez,Pareja
+"INGRESO 1, CUAREIM",1,5635000.0,2026-01-05,2026-01-12,22,0,Contacto Telefónico,Tour & Travel,IN1CUAREIM,Mov: IN1IN,,Indefinido,57,Hotel America,Primera vez,Grupo
+"INGRESO 10 CANI VERANO 2026, INGRESO 10 CANI VERANO 2026",1,1200000.0,2026-02-02,2026-02-06,9,0,Contacto Telefónico,Tour & Travel,INGRESO 10 CANI VERANO 2026,Mov: INGRESO 10 CANI VERANO 2026,,Indefinido,32,Hotel America,Primera vez,Grupo
+"INGRESO 12 CANI VERANO 2026, INGRESO 12 CANI VERANO 2026",1,1650000.0,2026-02-09,2026-02-14,10,0,Contacto Telefónico,Tour & Travel,INGRESO 12 CANI VERANO 2026,Mov: INGRESO 12 CANI VERANO 2026,,Indefinido,24,Hotel America,Primera vez,Grupo
+"INGRESO 13 CANI VERANO 2026, INGRESO 13 CANI VERANO 2026",1,1350000.0,2026-02-14,2026-02-17,15,0,Contacto Telefónico,Tour & Travel,INGRESO 13 CANI VERANO 2026,Mov: INGRESO 13 CANI VERANO 2026,,Indefinido,21,Hotel America,Primera vez,Grupo
+"INGRESO 14 CANI VERANO 2026, INGRESO 14 CANI VERANO 2026",1,900000.0,2026-02-17,2026-02-20,12,0,Contacto Telefónico,Tour & Travel,INGRESO 14 CANI VERANO 2026,Mov: INGRESO 14 CANI VERANO 2026,,Indefinido,18,Hotel America,Primera vez,Grupo
+"INGRESO 15 CANI VERANO 2026, INGRESO 15 CANI VERANO 2026",1,360000.0,2026-02-20,2026-02-23,5,0,Contacto Telefónico,Tour & Travel,INGRESO 15 CANI VERANO 2026,Mov: INGRESO 15 CANI VERANO 2026,,Indefinido,15,Hotel America,Primera vez,Grupo
+"INGRESO 16 CANI VERANO 2026, INGRESO 16 CANI VERANO 2026",1,1680000.0,2026-02-23,2026-02-27,8,0,Contacto Telefónico,Tour & Travel,INGRESO 16 CANI VERANO 2026,Mov: INGRESO 16 CANI VERANO 2026,,Indefinido,11,Hotel America,Primera vez,Grupo
+"INGRESO 2 CANI VERANO 2026, INGRESO 1 CANI VERANO 2026",1,1200000.0,2026-01-05,2026-01-09,10,2,Contacto Telefónico,Tour & Travel,INGRESO 1 CANI VERANO 2026,Mov: INGRESO 1 CANI VERANO 2026,,Indefinido,60,Hotel America,Primera vez,Familia
+"INGRESO 2, CUAREIM",1,2695000.0,2026-01-12,2026-01-19,10,0,Contacto Telefónico,Tour & Travel,ING2CUAREIM,Mov: ING2CUAREIM,,Indefinido,50,Hotel America,Primera vez,Grupo
+"INGRESO 3 CANI VERANO 2026, INGRESO 2 CANI VERANO 2026",1,270000.0,2026-01-09,2026-01-12,3,0,Contacto Telefónico,Tour & Travel,INGRESO 2 CANI VERANO 2026,Mov: INGRESO 2 CANI VERANO 2026,,Indefinido,57,Hotel America,Primera vez,Grupo
+"INGRESO 3, CUAREIM",1,2450000.0,2026-01-19,2026-01-26,10,0,Contacto Telefónico,Tour & Travel,IN3CUAREIM,Mov: IN3IN,,Indefinido,43,Hotel America,Primera vez,Grupo
+"INGRESO 4 CANI VERANO 2026, INGRESO 4 CANI VERANO 2026",1,840000.0,2026-01-12,2026-01-16,6,0,Contacto Telefónico,Tour & Travel,INGRESO 4 CANI VERANO 2026,Mov: INGRESO 4 CANI VERANO 2026,,Indefinido,53,Hotel America,Primera vez,Grupo
+"INGRESO 4, CUAREIM",1,1960000.0,2026-01-26,2026-02-02,8,0,Contacto Telefónico,Tour & Travel,IN4,Mov: INgres4,,Indefinido,36,Hotel America,Primera vez,Grupo
+"INGRESO 5, CUAREIM",1,3920000.0,2026-02-02,2026-02-09,14,0,Contacto Telefónico,Tour & Travel,IN5CUAREIM,Mov: IN5IN,,Indefinido,29,Hotel America,Primera vez,Grupo
+"INGRESO 6 CANI VERANO 2026, INGRESO 6 CANI VERANO 2026",1,1560000.0,2026-01-19,2026-01-23,12,0,Contacto Telefónico,Tour & Travel,INGRESO 6 CANI VERANO 2026,Mov: INGRESO 6 CANI VERANO 2026,,Indefinido,46,Hotel America,Primera vez,Grupo
+"INGRESO 6, CUAREIM",1,1715000.0,2026-02-09,2026-02-16,7,1,Contacto Telefónico,Tour & Travel,IN6CUAREIM,Mov: IN6IN,,Indefinido,22,Hotel America,Primera vez,Familia
+"INGRESO 7 CANI VERANO 2026, INGRESO 7 CANI VERANO 2026",1,630000.0,2026-01-23,2026-01-26,7,0,Contacto Telefónico,Tour & Travel,INGRESO 7 CANI VERANO 2026,Mov: INGRESO 7 CANI VERANO 2026,,Indefinido,43,Hotel America,Primera vez,Grupo
+"INGRESO 7, CUAREIM",1,3920000.0,2026-02-16,2026-02-23,23,0,Contacto Telefónico,Tour & Travel,IN7CUAREIM,Mov: IN7IN,,Indefinido,15,Hotel America,Primera vez,Grupo
+"INGRESO 8 CANI VERANO 2026, INGRESO 8 CANI VERANO 2026",1,1440000.0,2026-01-26,2026-01-30,12,0,Contacto Telefónico,Tour & Travel,INGRESO 8 CANI VERANO 2026,Mov: INGRESO 8 CANI VERANO 2026,,Indefinido,39,Hotel America,Primera vez,Grupo
+"Iribarren, Domingo",1,110000.0,2026-01-22,2026-01-23,2,0,Contacto Telefónico,Directo,donoalsrl@hotmail.com,Mov: 5492241673216,Castelli,Argentina,46,Hotel America,Primera vez,Pareja
+"Ivanoff, Sheila",1,110000.0,2026-02-15,2026-02-16,1,0,WhatsApp,Directo,Ivanoff@gmail.com,Mov: +54 9 11 6513-0539,,Indefinido,22,Hotel America,Primera vez,Solo
+"Jose, Calvo",1,455037.44,2026-01-09,2026-01-11,4,0,Booking.com,OTAs,tikicalvoberdejatiki@gmail.com,Mov: +5426648972,Buenos Aires,Argentina,58,Hotel America,Primera vez,Grupo
+"Julia Riccillo, Maria",1,61693.375,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,mricci.624420@guest.booking.com,Mov: +54 2266 67 3470,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"KHATCHERIAN, CRISTINA",1,490000.0,2026-02-23,2026-03-02,2,0,Contacto Telefónico,Directo,VELEZJUAN.CARLOS@YAHOO.COM.AR,Mov: 1159324764,,Indefinido,8,Hotel America,Primera vez,Pareja
+"LADEDA, LUCAS EMANUEL",1,140000.0,2026-02-26,2026-02-28,2,0,Walk In,Directo,lucasladeda93@gmail.com,Mov: 1171075882 - Fij: 1171075882,Benavidez,Argentina,10,Hotel America,Primera vez,Pareja
+"LEDESMA, JOSE ENRIQUE",1,70000.0,2026-02-07,2026-02-08,2,0,Walk In,Directo,JOSELEDESMA315@GMAIL.COM,Mov: 2284552808,,Indefinido,30,Hotel America,Primera vez,Pareja
+"LEMONDE VERANO 2026, LEMONDE VERANO 2026",2,15480000.0,2026-01-21,2026-02-17,62,0,Contacto Telefónico,Tour & Travel,LEMONDE VERANO 2026,Mov: LEMONDE VERANO 2026,,Indefinido,21,Hotel America,Recurrente,Grupo
+"LOPEZ, RAUL OMAR",1,300000.0,2026-02-18,2026-02-23,2,0,Contacto Telefónico,Corporativo,lopez@gmail.com,Mov: 12345678r,,Indefinido,15,Hotel America,Primera vez,Pareja
+"LORAY, SANTIAGO",1,122400.0,2025-12-29,2025-12-31,2,0,Walk In,Directo,santiagoloray9@gmail.com,Mov: 2281314828,Buenos Aires,Argentina,69,Hotel America,Primera vez,Pareja
+"LOZADA , FACUNDO TOMAS ",1,220000.0,2026-01-17,2026-01-19,2,0,Walk In,Directo,facu1809@gmail.com,Mov: 1159429656 - Fij: 1159429656,Ciudad Autónoma de Buenos Aires,Argentina,50,Hotel America,Primera vez,Pareja
+"LUKEZIC, ESTEFANIA",1,70000.0,2026-01-31,2026-02-01,2,0,Walk In,Directo,STEFANIALUKEZIC@HOTMAIL.COM,Mov: 1165877591,,Indefinido,37,Hotel America,Primera vez,Pareja
+"La Porta, Angelina",1,70000.0,2026-02-18,2026-02-19,1,0,WhatsApp,Directo,laporta@gmail.com,Mov: +54 9 11 4927-4962,,Indefinido,19,Hotel America,Primera vez,Solo
+"Lamadrid, Silvina",1,550000.0,2026-01-15,2026-01-20,2,0,WhatsApp,Directo,gustavojadech@hotmail.com,Mov: 5492364668025,Junín,Argentina,49,Hotel America,Primera vez,Pareja
+"Lamberto , Agustina ",1,61200.0,2025-11-08,2025-11-09,2,0,Walk In,Directo,agustinalamberto04@gmail.com,Mov: +54 9 2257 61-8933 - Fij: 2257618933,,Argentina,121,Hotel America,Primera vez,Pareja
+"Lan, wenguang",1,97511.867,2026-01-26,2026-01-27,1,0,Booking.com,OTAs,wlan.291236@guest.booking.com,Mov: +86 13853506390,,China,42,Hotel America,Primera vez,Solo
+"Laniado, Victor",1,61225.431,2026-03-05,2026-03-06,2,0,Booking.com,OTAs,vlania.445450@guest.booking.com,Mov: +54 11 5578 9900,,Argentina,4,Hotel America,Primera vez,Pareja
+"Larocca, Bruno Damián",1,140000.0,2026-02-06,2026-02-08,2,0,Contacto Telefónico,Directo,BrunoDLarocca@gmail.com,Mov: +54 9 11 5488-8858,,Indefinido,30,Hotel America,Primera vez,Pareja
+"Lasca, Alejandro",1,433678.932,2026-02-12,2026-02-16,2,0,Booking.com,OTAs,alasca.829061@guest.booking.com,Mov: +54 11 6658 9630 - Fij: +54 11 6658 9630,Caballito,Argentina,22,Hotel America,Primera vez,Pareja
+"Leiton, Braian",1,61309.502,2026-02-17,2026-02-18,2,0,Booking.com,OTAs,bleito.816166@guest.booking.com,Mov: 542254593292,Buenos Aires,Argentina,20,Hotel America,Primera vez,Pareja
+"Lizarazu Torrico, Nelcy",1,68000.0,2025-11-08,2025-11-09,2,0,Walk In,Directo,nelcycalegadiel@gmail.com,Mov: 1123605652,,Indefinido,121,Hotel America,Primera vez,Pareja
+"Lopez, Hector Eduardo",1,360000.0,2026-01-12,2026-01-16,2,0,Mail,Tour & Travel,eduardolopez.we@gmail.com,Mov: 1164322936,,Indefinido,53,Hotel America,Primera vez,Pareja
+"Lopez, Marcela",1,126000.0,2025-10-10,2025-10-12,2,0,Contacto Telefónico,Directo,facultad175@gmail.com,Mov: +54 9 11 3910-8431,,Indefinido,149,Hotel America,Primera vez,Pareja
+"Lopez, Noemi Paola",1,540000.0,2026-01-11,2026-01-15,3,0,Mail,Tour & Travel,paolariver84@gmail.com,Mov: 1163024423,,Indefinido,54,Hotel America,Primera vez,Grupo
+"Lorenzo, Antonio",1,300000.0,2026-02-09,2026-02-14,2,0,Contacto Telefónico,Corporativo,tiraballtour,Mov: 1165256401,Buenos Aires,Argentina,24,Hotel America,Primera vez,Pareja
+"Luz Tomes, Maria",1,61693.375,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,malustomes@gmail.com,Mov: +54 9 223 555 1638,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"López , Victoria ",1,1485000.0,2026-01-18,2026-01-21,8,0,WhatsApp,Corporativo,Viculopez@1-8music.com,Mov: +54 9 11 3136-0539,Buenos Aires,Argentina,48,Hotel America,Primera vez,Grupo
+"López, Luciano ",1,99000.0,2026-01-01,2026-01-02,2,1,Walk In,Directo,Luciano.-lopez@hotmail.com,Mov: +54 9 2267 47-2558,Buenos Aires,Argentina,67,Hotel America,Primera vez,Familia
+"MARECO, LEANDRO ARIEL",1,255000.0,2025-12-31,2026-01-05,1,0,Walk In,Directo,leandroarielmareco@outlook.com,Mov: 1170736835,Buenos Aires,Argentina,64,Hotel America,Primera vez,Solo
+"MARIEL CARLOMAGNO, IVANNA",1,122619.0,2026-02-28,2026-03-02,2,0,Booking.com,OTAs,icarlo.916848@guest.booking.com,Mov: 541159889130,,Argentina,8,Hotel America,Primera vez,Pareja
+"MARTIN, ANGEL EMILIO",1,140000.0,2026-02-27,2026-03-02,2,0,Contacto Telefónico,Corporativo,argelmartin41@hotmail.com,Mov: 1126871789,Buenos Aires,Argentina,8,Hotel America,Primera vez,Pareja
+"MARTINEZ, LUCAS",1,70000.0,2026-01-31,2026-02-01,2,0,WhatsApp,Directo,nacho1903@live.com.ar,Mov: 5492494648350 - Fij: 5492494648350,Buenos Aires,Argentina,37,Hotel America,Primera vez,Pareja
+"MATIAS, EUSEBIO",1,240000.0,2026-01-10,2026-01-12,3,0,Walk In,Directo,alguien@exampl.com,Mov: 2212240249,,Indefinido,57,Hotel America,Primera vez,Grupo
+"MAZZELLA, SUSANA",1,180000.0,2026-02-18,2026-02-21,1,0,Mail,Corporativo,SUSANAMAZZELLA@GMAIL.COM,Mov: 1134102335,,Indefinido,17,Hotel America,Primera vez,Solo
+"MAZZUCHINI, HORACIO ALEJANDRO",1,140000.0,2026-02-09,2026-02-11,2,0,Walk In,Directo,joseramosdelrojo@gmai.como,Mov: 1136538396,Buenos Aires,Argentina,27,Hotel America,Primera vez,Pareja
+"MEJUTO, HAYDEE SUSANA",1,300000.0,2026-01-18,2026-01-23,1,0,Contacto Telefónico,Corporativo,MEJUTOHAYDEESUSANA@nomail.com,Mov: 1131264532,Buenos Aires,Argentina,46,Hotel America,Primera vez,Solo
+"MENDIGUIBEL, JUAN",1,110000.0,2026-01-17,2026-01-18,2,0,WhatsApp,Directo,juangerardomendiguibelmelin@gmail.com,Mov: 2245604128,Buenos Aires,Argentina,51,Hotel America,Primera vez,Pareja
+"MENTA, OSVALDO ANTONIO",1,361419.692,2026-01-20,2026-01-24,2,0,Booking.com,OTAs,nbenav.833886@guest.booking.com,Mov: +54 345 508 0454,Buenos Aires,Argentina,45,Hotel America,Primera vez,Pareja
+"MERINO, ANDREA DEL CARMEN",1,672000.0,2026-01-22,2026-01-29,2,0,Contacto Telefónico,Tour & Travel,VGPVGPVGP,Mov: 458413185,,Indefinido,40,Hotel America,Primera vez,Pareja
+"MONTERO, YAMILA",1,110000.0,2026-01-17,2026-01-18,2,0,WhatsApp,Directo,Yamimontero514@gmail.com,Mov: +54 9 2474 66-2304,,Indefinido,51,Hotel America,Primera vez,Pareja
+"MONTES, MARIA NATALIA",1,880000.0,2026-01-24,2026-01-28,4,0,WhatsApp,Directo,nattyxnatalia@yahoo.com.ar,Mov: +54 9 11 4424-3898 - Fij: +54 9 11 4424-3898,Avellaneda,Argentina,41,Hotel America,Primera vez,Grupo
+"MORALES, AMALIA",1,210000.0,2026-02-11,2026-02-14,2,0,WhatsApp,Directo,amajose40@gmail.com,Mov: +54 9 2216 78-5760,La Plata,Argentina,24,Hotel America,Primera vez,Pareja
+"MORALES, TRINIDAD",1,80000.0,2026-01-17,2026-01-18,2,1,Contacto Telefónico,Directo,hhhhh@6.com,Mov: 2262318392,,Indefinido,51,Hotel America,Primera vez,Familia
+"MOSCATELLI, MARIANO",1,320000.0,2026-01-13,2026-01-17,2,0,Walk In,Directo,MAMOSCATELLI@GMAIL.COM,Mov: 5511941168885,,Indefinido,52,Hotel America,Primera vez,Pareja
+"MUÑOZ, SOFIA",1,110000.0,2026-01-17,2026-01-18,2,0,Walk In,Directo,SOFMUOZ@GMAIL.COM,Mov: 1168273581,,Indefinido,51,Hotel America,Primera vez,Pareja
+"Maidana, Matias",1,122460.518,2026-02-27,2026-03-01,2,0,Booking.com,OTAs,maty-maidana@live.com,Mov: +54 1562327239,,Argentina,9,Hotel America,Primera vez,Pareja
+"Maidana, Patricia",1,423429.632,2026-01-20,2026-01-24,2,0,Booking.com,OTAs,pmaida.334745@guest.booking.com,Mov: +54 11 6258 4521,Buenos Aires,Argentina,45,Hotel America,Primera vez,Pareja
+"Marina, Alegre",1,232219.014,2025-11-21,2025-11-24,2,0,Booking.com,OTAs,amarin.883158@guest.booking.com,Mov: +54 11 6609 9503 - Fij: +54 11 6609 9503,,Argentina,106,Hotel America,Primera vez,Pareja
+"Martinez, Alejandra",1,122400.0,2025-11-23,2025-11-24,4,0,Walk In,Directo,aaa.martinez0@gmail.com,Mov: 1155117261,Buenos Aires,Argentina,106,Hotel America,Primera vez,Grupo
+"Martinez, Ana Elisa",1,110000.0,2026-01-20,2026-01-21,1,0,Walk In,Directo,teatronuestro@gmail.com,Mov: 1140251743,,Indefinido,48,Hotel America,Primera vez,Solo
+"Martinez, Emiliano",1,61693.38,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,emarti.965160@guest.booking.com,Mov: +54 11 7365 3448,,Argentina,68,Hotel America,Primera vez,Pareja
+"Maximo, Fiser",1,68538.39,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,fmaxim.674331@guest.booking.com,Mov: +54 351 211 3713,,Argentina,68,Hotel America,Primera vez,Pareja
+"Mazza, Victoria Alejandra",1,540000.0,2026-01-11,2026-01-15,3,0,Mail,Tour & Travel,VICTORIAMAZZA1@GMAIL.COM,Mov: 3407408691,,Indefinido,54,Hotel America,Primera vez,Grupo
+"Medina, Horacio ",1,990000.0,2026-01-09,2026-01-19,2,0,Contacto Telefónico,Directo,medina.horacio63@gmail.com,Mov: +54 9 2302 59-2858,General Pico,Argentina,50,Hotel America,Primera vez,Pareja
+"Medina, Karina",2,131230.259,2026-02-27,2026-03-01,2,0,Booking.com,Directo,kmedin.709322@guest.booking.com,Mov: +54 11 6825 5432 - Fij: +54 11 6825 5432,Buenos Aires,Argentina,9,Hotel America,Recurrente,Pareja
+"Melina, Garcia",1,61230.259,2026-02-28,2026-03-01,2,0,Booking.com,OTAs,gmelin.880541@guest.booking.com,Mov: +54 223 615 9648,Buenos Aires,Argentina,9,Hotel America,Primera vez,Pareja
+"Mendivil Ortiz de Apodaca, Zurine Ortiz de",1,567130.678,2026-01-17,2026-01-20,4,0,Booking.com,OTAs,zapoda.651654@guest.booking.com,Mov: +34 671 06 01 92,,España,49,Hotel America,Primera vez,Grupo
+"Mendoza, Yennifer",1,280000.0,2026-02-06,2026-02-08,4,0,Walk In,Directo,yennifermp123@gmail.com,Mov: +54 9 11 2241-8708,,Argentina,30,Hotel America,Primera vez,Grupo
+"Miranda, Omar",1,140000.0,2025-12-12,2025-12-14,2,0,Contacto Telefónico,Corporativo,-------------,Mov: -------------,,Indefinido,86,Hotel America,Primera vez,Pareja
+"Miribuk , Felicitas ",1,160000.0,2026-01-19,2026-01-21,2,0,WhatsApp,Directo,felicitasmiribuk@gmail.com,Mov: +54 9 2245 47-7288,Buenos Aires,Argentina,48,Hotel America,Primera vez,Pareja
+"Mirta Bonifacio, Rosa",1,189600.13,2026-01-20,2026-01-22,2,0,Booking.com,OTAs,rbonif.134289@guest.booking.com,Mov: +54 1531906575,,Argentina,47,Hotel America,Primera vez,Pareja
+"Moheb, Luca",1,47500.0,2025-10-12,2025-10-13,1,0,Walk In,Directo,....2,Mov: 1707862961 - Fij: +49 170 7862961,,Alemania,148,Hotel America,Primera vez,Solo
+"Montoya, Matias",1,192447.427,2026-02-06,2026-02-08,1,0,Booking.com,OTAs,mmonto.968985@guest.booking.com,Mov: +54 2241 68 9216,Buenos Aires,Argentina,30,Hotel America,Primera vez,Solo
+"Muñoz, , Maria Emilia ",1,1320000.0,2026-01-25,2026-01-29,6,0,WhatsApp,Corporativo,maemilia92@gmail.com,Mov: +54 9 2364 34-5103,Buenos Aires,Argentina,40,Hotel America,Primera vez,Grupo
+"NACIMIENTO, RICARDO",1,80000.0,2026-01-14,2026-01-15,2,0,Walk In,Directo,nacimientoricardo@nomail.com,Mov: 3884802890,Buenos Aires,Argentina,54,Hotel America,Primera vez,Pareja
+"NEGRO, MARISA",1,470000.0,2026-02-13,2026-02-18,2,0,WhatsApp,Directo,marisa.negro65@gmail.com,Mov: +54 9 2227 54-6880,Lobos,Argentina,20,Hotel America,Primera vez,Pareja
+"NOEMI SABIN, CLAUDIA",1,298308.459,2026-01-25,2026-01-28,2,0,Booking.com,OTAs,claudiasabin@yahoo.com,Mov: +54 11 2452 9543,,Argentina,41,Hotel America,Primera vez,Pareja
+"NOVO, CRISTIAN SEBASTIAN",1,220000.0,2026-01-10,2026-01-12,1,0,Walk In,Directo,CRISTIANNOVO30@GMAIL.COM,Mov: 1125246875,,Indefinido,57,Hotel America,Primera vez,Solo
+"NUÑEZ, SILVIA KARINA",1,70000.0,2026-02-07,2026-02-08,1,0,Walk In,Directo,KARISIL82@GMAIL.COM,Mov: 1152592117,,Indefinido,30,Hotel America,Primera vez,Solo
+"Nati, Perez",1,61693.375,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,pnati.934094@guest.booking.com,Mov: +54 2355 51 6453,,Argentina,68,Hotel America,Primera vez,Pareja
+"Navarro, Jennifer",1,525000.0,2026-02-09,2026-02-12,5,0,WhatsApp,Directo,navarro@gmail.com,Mov: +54 9 2645 83-0032 - Fij: +54 9 2645 83-0032,San Juan,Argentina,26,Hotel America,Primera vez,Grupo
+"Neves, Maria Esther",1,906000.003,2025-12-30,2026-01-08,2,0,Contacto Telefónico,Directo,neves,Mov: 1155772375,Buenos Aires,Argentina,61,Hotel America,Primera vez,Pareja
+"Nievas, Luciana",1,210000.0,2026-02-12,2026-02-14,3,0,WhatsApp,Directo,Nievas@gmail.com,Mov: +54 9 2936 41-4305,,Indefinido,24,Hotel America,Primera vez,Grupo
+"Nocito, Camila",1,810000.0,2026-01-09,2026-01-18,2,0,WhatsApp,Tour & Travel,nocitocamila@gmail.com,Mov: +54 9 3764 35-1055,Buenos Aires,Argentina,51,Hotel America,Primera vez,Pareja
+"Nogue, Marta",1,224280.204,2025-11-21,2025-11-24,2,0,Booking.com,OTAs,martagmfnogue@hotmail.com.ar,Mov: 2931410855,Buenos Aires,Argentina,106,Hotel America,Primera vez,Pareja
+"OCHOA, JUANA",1,70000.0,2026-02-22,2026-02-23,2,0,Walk In,Directo,JUANIOCHIA.1983@GMAIL.COM,Mov: 2215463165,,Indefinido,15,Hotel America,Primera vez,Pareja
+"OLAECHEA, HECTOR AGUSTIN",1,210000.0,2026-02-03,2026-02-06,2,0,Contacto Telefónico,Directo,HAOLAECHEA@HOTMAIL.COM,Mov: 1164942434,,Argentina,32,Hotel America,Primera vez,Pareja
+"ORELLANA, FLORENCIA",1,220000.0,2026-01-18,2026-01-19,4,0,Walk In,Directo,asdasdasdsdasd@hotmail.com,Mov: 1123175009,,Indefinido,50,Hotel America,Primera vez,Grupo
+"ORELLANA, PAOLA ANDREA",1,540000.0,2026-01-31,2026-02-04,3,0,Mail,Tour & Travel,paorellana1969@gmail.com,Mov: 1132149428,Buenos Aires,Argentina,34,Hotel America,Primera vez,Grupo
+"Oieni Villagra, Federico",1,110000.0,2026-01-10,2026-01-11,2,0,Contacto Telefónico,Directo,FedericoOieniVillagra@gmail.com,Mov: +5493855953712 - Fij: +5493855953712,,Indefinido,58,Hotel America,Primera vez,Pareja
+"Olbeyra, Diego",1,113400.0,2025-10-10,2025-10-12,2,0,WhatsApp,Directo,dolbeyra@gmail.com,Mov: 5492214953838,La Plata,Argentina,149,Hotel America,Primera vez,Pareja
+"PANIGA, TOMAS",1,36000.0,2025-10-12,2025-10-13,1,0,Contacto Telefónico,Tour & Travel,NO,Mov: 2983447249,,Indefinido,148,Hotel America,Primera vez,Solo
+"PAZ, ALBERTO",1,136000.0,2025-11-14,2025-11-16,2,0,Walk In,Directo,pazalberto@nomail.com,Mov: 1157717872,Buenos Aires,Argentina,114,Hotel America,Primera vez,Pareja
+"PERALTA, AILEN MARIA DE LOS ANGELES",1,70000.0,2026-02-06,2026-02-07,1,0,Walk In,Directo,GARCIAHUGOARIEL@YAHOO.COM.AR,Mov: 3815958117,,Indefinido,31,Hotel America,Primera vez,Solo
+"PEREZ, MARTIN NICOLAS",1,280000.0,2026-02-06,2026-02-10,2,0,Walk In,Directo,martinnicoperez22@gmail.com,Mov: 2604012789,Buenos Aires,Argentina,28,Hotel America,Primera vez,Pareja
+"PIZZI, BLAS",1,280000.0,2026-02-26,2026-03-02,2,0,Walk In,Directo,PIZZINOMAIL,Mov: 1130971687,,Indefinido,8,Hotel America,Primera vez,Pareja
+"PONTE GONZALES, JHON",8,734400.0,2025-11-13,2025-11-15,1,0,Motor de reservas propio,Directo,jponteg@caen.edu.pe,Mov: 902227212,Lima,Perú,115,Hotel America,VIP,Solo
+"PORREZ, HECTOR",1,68000.0,2025-11-21,2025-11-22,2,0,Walk In,Directo,porrezhector@nomail.com,Mov: 2245513049,Buenos Aires,Argentina,108,Hotel America,Primera vez,Pareja
+"Pablo Cortelezzi, Juan",1,127780.966,2025-11-14,2025-11-16,2,0,Booking.com,OTAs,jcorte.186196@guest.booking.com,Mov: +54 11 5002 5108 - Fij: +54 11 5002 5108,,Argentina,114,Hotel America,Primera vez,Pareja
+"Pacheco, Cecilia Susana",1,136000.0,2025-11-07,2025-11-09,2,0,WhatsApp,Directo,Ceciliapacheco661@gmai.com,Mov: +54 9 11 2361-3115,Lanús,Argentina,121,Hotel America,Primera vez,Pareja
+"Paez, Jhonatan",1,325191.299,2025-12-31,2026-01-03,2,0,Booking.com,OTAs,jpaez.168052@guest.booking.com,Mov: +54 11 2262 8538 - Fij: +54 11 2262 8538,Buenos Aires,Argentina,66,Hotel America,Primera vez,Pareja
+"Pasquali, Laura",1,102000.0,2025-11-14,2025-11-16,1,0,WhatsApp,Directo,laura@pasquali.com.ar,Mov: +549 3416961339 - Fij: 341-156961339,,Argentina,114,Hotel America,Primera vez,Solo
+"Patrichelli, Paola",1,320000.0,2026-01-10,2026-01-14,3,0,Walk In,Directo,valeriapatri2912@gmail.com,Mov: 3462538508,,Indefinido,55,Hotel America,Primera vez,Grupo
+"Peralta-ramos, Pilar",1,150696.26,2025-11-21,2025-11-23,1,1,Booking.com,OTAs,pperal.907183@guest.booking.com,Mov: +54 9 11 4087 9324 - Fij: +54 9 11 4087 9324,,Argentina,107,Hotel America,Primera vez,Familia
+"Pereyra, Mariano",1,306000.0,2025-12-30,2026-01-02,3,0,WhatsApp,Directo,marianobruno587@gmail.com,Mov: +54 9 3413 21-6597,Rosario,Filipinas,67,Hotel America,Primera vez,Grupo
+"Perez Gonzalez, Jose Maria ",1,220000.0,2026-01-16,2026-01-18,2,0,WhatsApp,Directo,gtaelectronica@gmail.com,Mov: +54 9 11 3069-9815,Buenos Aires,Argentina,51,Hotel America,Primera vez,Pareja
+"Perez Rodriguez, Jesica",1,293657.32,2026-02-14,2026-02-16,2,0,Booking.com,OTAs,lulii_perez@hotmail.com,Mov: 541127522350,Buenos Aires,Argentina,22,Hotel America,Primera vez,Pareja
+"Perez, Arminda",1,360000.0,2026-02-06,2026-02-10,2,0,Mail,Tour & Travel,perezarminda582@nomail.com,Mov: 1154218702,,Indefinido,28,Hotel America,Primera vez,Pareja
+"Perez, Paola",1,270000.0,2026-02-17,2026-02-20,1,0,Mail,Tour & Travel,paomax2008@hotmail.com,Mov: 1135530565,,Indefinido,18,Hotel America,Primera vez,Solo
+"Perrone, Martina",1,61309.5,2026-02-19,2026-02-20,2,0,Booking.com,OTAs,mperro.117347@guest.booking.com,Mov: +54 11 3871 4712 - Fij: +54 11 3871 4712,,Argentina,18,Hotel America,Primera vez,Pareja
+"Peñalba, Noelia",1,140000.0,2026-02-06,2026-02-08,2,0,WhatsApp,Directo,,Mov: +54 9 2266 61-5043,Buenos Aires,Argentina,30,Hotel America,Primera vez,Pareja
+"Piller, Pamela",1,90000.0,2026-02-15,2026-02-16,2,0,Contacto Telefónico,Directo,piller@gmail.com,Mov: +54 9 2983 50-8066,,Indefinido,22,Hotel America,Primera vez,Pareja
+"Pineau, virginia",1,68000.0,2025-12-31,2026-01-01,2,0,WhatsApp,Directo,dravirginiapineau@gmail.com,Mov: +54 9 11 5377-3428,Ciudad Autónoma de Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"Policicchio , Veronica",1,140000.0,2026-02-06,2026-02-08,2,0,WhatsApp,Directo,veropoli1975@gmail.com,Mov: +54 9 2227 56-4807,Lobos,Argentina,30,Hotel America,Primera vez,Pareja
+"Principato, Jose Luis",1,630000.0,2026-02-09,2026-02-15,3,0,Walk In,Directo,principato@gmail.com,Mov: 2473457056,,Indefinido,23,Hotel America,Primera vez,Grupo
+"Puente, Patricia",3,1701000.0,2026-03-09,2026-03-16,2,0,Motor de reservas propio,Directo,pato_puente@hotmail.com,Mov: 01166481095,,Argentina,-6,Hotel America,VIP,Pareja
+"PÀLLERO, ERIC JAVIER",1,70000.0,2026-01-29,2026-01-30,2,0,Walk In,Directo,palleroeric@gmail.com,Mov: 3425321189 - Fij: 3425321189,Santa Fe,Argentina,39,Hotel America,Primera vez,Pareja
+"QUATTRINI, DANIEL",1,136000.0,2025-12-31,2026-01-02,2,0,Walk In,Directo,moniv0908@gmail.com,Mov: 1151650419,Buenos Aires,Argentina,67,Hotel America,Primera vez,Pareja
+"Quiroga, Florencia",1,630000.0,2026-02-10,2026-02-17,2,0,WhatsApp,Corporativo,quiroga.florencia1999@gmail.com,Mov: +54 9 2646 22-3518,,Indefinido,21,Hotel America,Primera vez,Pareja
+"RAMIREZ, PATRICIA",1,440000.0,2026-01-19,2026-01-23,2,0,Walk In,Directo,PRAMIREZ01@OUTLOOK.COM,Mov: 1159821720,,Indefinido,46,Hotel America,Primera vez,Pareja
+"RAMON, FERNANDEZ",1,400000.0,2026-01-04,2026-01-09,2,0,Walk In,Directo,.........@gmail.com,Mov: 1165006514,,Indefinido,60,Hotel America,Primera vez,Pareja
+"REINAGA, CARLOS",1,189000.0,2026-02-28,2026-03-02,3,0,Walk In,Directo,reinagacarlos@nomail.com,Mov: 2215073675,,Argentina,8,Hotel America,Primera vez,Grupo
+"RIVELO, SILVIA",1,270000.0,2026-02-14,2026-02-17,2,0,Contacto Telefónico,Tour & Travel,silviarivelo@hotmail.com,Mov: 1134801114,,Argentina,21,Hotel America,Primera vez,Pareja
+"RIVERO, ADRIANA",1,330000.0,2026-01-10,2026-01-13,2,0,WhatsApp,Directo,Riveromariaadriana1@gmail.com,Mov: +54 9 11 4160-9313 - Fij: +54 9 11 4160-9313,Buenos Aires,Argentina,56,Hotel America,Primera vez,Pareja
+"RODRIGUEZ, AYELEN",1,70000.0,2026-02-07,2026-02-08,2,0,Walk In,Directo,Aye2409dx@gmail.com,Mov: 2314537768,,Indefinido,30,Hotel America,Primera vez,Pareja
+"RODRIGUEZ, GIOVANNA",1,1728000.0,2026-01-02,2026-01-08,9,1,WhatsApp,Tour & Travel,..........G,Mov: +54 9 3855 97-0746,,Indefinido,61,Hotel America,Primera vez,Familia
+"RODRIGUEZ, MARCELA DEL ROSARIO",1,660000.0,2026-02-14,2026-02-17,4,0,WhatsApp,Directo,mr9367484@gmail.com,Mov: +54 9 2477 58-5031 - Fij: +54 9 2477 58-5031,Pergamino,Argentina,21,Hotel America,Primera vez,Grupo
+"ROMERO, JUAN JOSE",1,70000.0,2026-02-19,2026-02-20,2,0,WhatsApp,Directo,juanjromero8@gmail.com,Mov: +54 9 2932 49-8102,Coronel Pringles,Argentina,18,Hotel America,Primera vez,Pareja
+"ROSSI, RAUL",1,280000.0,2026-02-23,2026-02-27,2,0,Walk In,Directo,RAULHROSSI@GMAIL.COM,Mov: 2346659016,,Indefinido,11,Hotel America,Primera vez,Pareja
+"RUBEN OMAR, CALISAYA",1,210000.0,2026-02-07,2026-02-09,3,0,WhatsApp,Directo,rubensalisaya67@gmail.com,Mov: 3884779010,Buenos Aires,Argentina,29,Hotel America,Primera vez,Grupo
+"RUIZ, GUSTAVO",1,70000.0,2025-12-13,2025-12-14,2,0,Walk In,Corporativo,ruizgustavo@nomail.com,Mov: 146565132132,,Indefinido,86,Hotel America,Primera vez,Pareja
+"Rasich, Matias Mariano",1,51000.0,2025-11-23,2025-11-24,1,0,Contacto Telefónico,Directo,no tienee,Mov: 2494016342,,Indefinido,106,Hotel America,Primera vez,Solo
+"Ratto, Abel Hector",1,280000.0,2026-02-17,2026-02-21,2,0,WhatsApp,Directo,rattokarina@gmail.com,Mov: +54 9 11 7026-0291,Buenos Aires,Argentina,17,Hotel America,Primera vez,Pareja
+"Regules, Osvaldo Fabian",1,110000.0,2026-01-17,2026-01-18,2,0,WhatsApp,Directo,osvaldofabianregules@nomail.com,Mov: +54 9 11 3602-7755,Buenos Aires,Argentina,51,Hotel America,Primera vez,Pareja
+"Ricci, Graciela Susana",1,110000.0,2026-01-22,2026-01-23,2,0,WhatsApp,Directo,gracielaricci@live.com.ar,Mov: 11524647,Buenos Aires,Argentina,46,Hotel America,Primera vez,Pareja
+"Rivas, Veronica",1,70000.0,2026-02-20,2026-02-21,2,0,WhatsApp,Directo,rivas@gmail.com,Mov: +54 9 2214 98-9993,,Indefinido,17,Hotel America,Primera vez,Pareja
+"Roberto Chesolari, Ricardo",1,642249.559,2026-01-20,2026-01-27,2,0,Booking.com,OTAs,ricardo_esmeralda@hotmail.com,Mov: +54 341 570 8729,,Argentina,42,Hotel America,Primera vez,Pareja
+"Rodriguez, Jose Luis",1,136000.0,2025-11-07,2025-11-09,2,0,WhatsApp,Directo,joslurod21@gmail.com,Mov: +54 9 11 5567-1040,Lomas de Zamora,Argentina,121,Hotel America,Primera vez,Pareja
+"Rodríguez , Facundo ",1,136000.0,2025-12-30,2026-01-01,2,0,WhatsApp,Directo,faqrodri95@gmail.com,Mov: +54 9 11 3181-5398,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"Rodríguez , Lucía ",1,91800.0,2025-12-30,2026-01-01,1,0,WhatsApp,Directo,luciabelen017@icloud.com,Mov: +54 9 11 5660-3682,Buenos Aires,Costa Rica,68,Hotel America,Primera vez,Solo
+"Rojas, Daniel",1,102000.0,2025-11-07,2025-11-09,1,0,WhatsApp,Directo,DANYROJAS2017@GMAIL.COM,Mov: +54 9 11 3271-9846,Lomas de Zamora,Argentina,121,Hotel America,Primera vez,Solo
+"Romano, Gustavo Fabián",1,136000.0,2025-11-07,2025-11-09,2,0,WhatsApp,Directo,gusf.romano@gmail.com,Mov: 1131083823,,Indefinido,121,Hotel America,Primera vez,Pareja
+"Romay, Estela",1,92532.809,2025-10-16,2025-10-17,1,1,Booking.com,OTAs,eromay.123135@guest.booking.com,Mov: +54 9 2267 43 8236 - Fij: +54 9 2267 43 8236,Villa Gesell,Argentina,144,Hotel America,Primera vez,Familia
+"Romero, Alexis",1,51000.0,2025-12-13,2025-12-14,1,0,Walk In,Directo,++++,Mov: 2235751778 - Fij: 2235751778,,Indefinido,86,Hotel America,Primera vez,Solo
+"Rosa, Maria",1,255997.473,2026-01-18,2026-01-21,2,0,Booking.com,OTAs,mrosa.598419@guest.booking.com,Mov: +54 1165601929,,Argentina,48,Hotel America,Primera vez,Pareja
+"Ruth, Benegas",1,61693.375,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,bruth.270441@guest.booking.com,Mov: +54 11 3477 8536,,Argentina,68,Hotel America,Primera vez,Pareja
+"SAMPEDRO, MARIA ALEJANDRA",1,140000.0,2026-02-06,2026-02-08,2,0,WhatsApp,Directo,Sampedroalejandramaria@gmail.com,Mov: +54 9 11 5106-5863,Lomas de Zamora,Argentina,30,Hotel America,Primera vez,Pareja
+"SCHVARZMAN, AMADO HUGO",1,210000.0,2026-02-14,2026-02-17,1,0,Walk In,Directo,amado@nomail.com,Mov: 3424776073,,Indefinido,21,Hotel America,Primera vez,Solo
+"SILVA, LEONEL",1,450000.0,2026-01-24,2026-01-29,2,0,WhatsApp,Directo,sdmleonel@gmail.com,Mov: +54 9 11 5809-6602,Buenos Aires,Argentina,40,Hotel America,Primera vez,Pareja
+"SOBRERO, MARIA VANESA",1,180000.0,2026-01-27,2026-01-30,2,0,Contacto Telefónico,Corporativo,vanesobrero@yahoo.com.ar,Mov: 1563647211,,Indefinido,39,Hotel America,Primera vez,Pareja
+"SOLUCIONES , SOLUCIONES",1,951000.0,2026-01-17,2026-01-22,6,0,Contacto Telefónico,Tour & Travel,SOLUCIONES,Mov: SOLUCIONES,,Indefinido,47,Hotel America,Primera vez,Grupo
+"SOTERA, JULIETA",1,220000.0,2026-02-14,2026-02-16,2,0,WhatsApp,Directo,julietasotera@hotmail.com,Mov: +54 9 2346 31-4137,Chivilcoy,Argentina,22,Hotel America,Primera vez,Pareja
+"STRINNA, LORENA",1,360000.0,2026-01-17,2026-01-21,3,0,Contacto Telefónico,Corporativo,FRANCHU16PRINCE@GMAIL.COM,Mov: 1136667970,,Indefinido,48,Hotel America,Primera vez,Grupo
+"San Germán , Cintia ",1,140000.0,2026-02-06,2026-02-08,1,0,WhatsApp,Directo,Cintiasangerman@yahoo.com.ar,Mov: +54 9 11 3195-6077,Buenos Aires,Argentina,30,Hotel America,Primera vez,Solo
+"Santiago, Sosa",1,97511.867,2026-01-21,2026-01-22,2,0,Booking.com,OTAs,santisosaa11@gmail.com,Mov: +54 221 617 7686 - Fij: +54 221 617 7686,,Argentina,47,Hotel America,Primera vez,Pareja
+"Sauchuk, María Paula ",1,70000.0,2026-01-31,2026-02-01,2,0,WhatsApp,Directo,Paulasauchuk64@gmail.com,Mov: +54 9 3704 26-4664 - Fij: +54 9 3704 26-4664,Buenos Aires,Argentina,37,Hotel America,Primera vez,Pareja
+"Scillama, Gabriel Alejandro",1,240000.0,2026-02-02,2026-02-05,2,0,Contacto Telefónico,Directo,gabrieltemper@yahoo.com,Mov: +54 9 11 3259-1525,Temperley,Argentina,33,Hotel America,Primera vez,Pareja
+"Scotto, Gustavo",1,420000.0,2026-02-12,2026-02-15,5,0,Contacto Telefónico,Directo,nomailverdimariano@gmail.com,Mov: .216854132,,Indefinido,23,Hotel America,Primera vez,Grupo
+"Screnci, Sabrina",1,136000.0,2025-11-21,2025-11-23,2,0,WhatsApp,Directo,screncis@gmail.com,Mov: 54 9 11 4471-4747,Avellaneda,Argentina,107,Hotel America,Primera vez,Pareja
+"Selva , Elia",1,70000.0,2026-02-20,2026-02-21,2,0,WhatsApp,Directo,Js_laprida@hotmail.com,Mov: +54 9 2284 65-2343,Buenos Aires,Argentina,17,Hotel America,Primera vez,Pareja
+"Sena, Daniel",1,1188000.0,2026-02-09,2026-02-15,4,0,Motor de reservas propio,Directo,sena454311@gmail.com,Mov: 01127169385,,Argentina,23,Hotel America,Primera vez,Grupo
+"Serrano Serrano, Fernando",1,102816.41,2025-12-31,2026-01-01,2,1,Booking.com,OTAs,fserra.616249@guest.booking.com,Mov: +54 9 11 2251 2240,,Argentina,68,Hotel America,Primera vez,Familia
+"Suasnabar, Emmanuel ",1,80000.0,2026-01-10,2026-01-11,2,0,WhatsApp,Directo,emmanuelsuasnabar@outlook.com,Mov: +54 9 2216 11-7889,Buenos Aires,Argentina,58,Hotel America,Primera vez,Pareja
+"Susana, Fernandez",1,386690.612,2025-12-29,2026-01-02,2,0,Booking.com,OTAs,07.susana.fernandez@gmail.com,Mov: +54 11 3167 4945 - Fij: +54 11 3167 4945,Buenos Aires,Argentina,67,Hotel America,Primera vez,Pareja
+"TELLO, ANA",1,61312.85,2026-02-19,2026-02-20,2,0,Booking.com,OTAs,ANATELLO2205@GMAIL.COM,Mov: 541156229040,,Argentina,18,Hotel America,Primera vez,Pareja
+"TERZI, MARIO SERGIO",1,630000.0,2026-02-03,2026-02-10,2,0,WhatsApp,Directo,Silviaperezemp@gmail.com,Mov: +54 9 2645 52-6866,Chimbas,Argentina,28,Hotel America,Primera vez,Pareja
+"TIERNO CARBONETTI , FRANCO",1,540000.0,2026-02-13,2026-02-17,3,0,Mail,Tour & Travel,tiernocarbonettifranco458@nomail.com,Mov: 2227525732,,Indefinido,21,Hotel America,Primera vez,Grupo
+"TOLEDO, ANA",1,123386.75,2025-12-30,2026-01-01,2,0,Booking.com,OTAs,atoled.722867@guest.booking.com,Mov: +54 3756 46 8119 - Fij: +54 3756 46 8119,Ciudad Autónoma de Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"TURISMO GUSMAC, TURISMO GUSMAC",1,1575000.0,2026-02-27,2026-03-02,16,0,Contacto Telefónico,Tour & Travel,TURISMO GUSMAC,Mov: TURISMO GUSMAC,,Indefinido,8,Hotel America,Primera vez,Grupo
+"Taccarello, Anabella",1,68538.39,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,atacca.358438@guest.booking.com,Mov: +54 11 6548 7575,,Argentina,68,Hotel America,Primera vez,Pareja
+"Testa, Danilo",1,136000.0,2025-11-21,2025-11-23,2,0,Walk In,Directo,salvatierradanilo@gmail.com,Mov: 1135920964,,Indefinido,107,Hotel America,Primera vez,Pareja
+"Torres, Liliana",1,270000.0,2026-01-20,2026-01-23,2,0,Mail,Tour & Travel,LILIANABETORRES@YAHOO.COM.AR,Mov: 2494373764,,Indefinido,46,Hotel America,Primera vez,Pareja
+"Uriart, Celeste",1,140000.0,2026-02-12,2026-02-14,2,1,Walk In,Directo,uriart@gmail.com,Mov: 1132802664,,Indefinido,24,Hotel America,Primera vez,Familia
+"VAZQUEZ, ALBERTO",2,458996.48,2026-02-13,2026-02-17,2,0,Booking.com,Directo,avazqu.267769@guest.booking.com,Mov: +54 11 6693 2796,,Argentina,21,Hotel America,Recurrente,Pareja
+"VAZQUEZ, CAMILA BELEN",1,140000.0,2026-02-06,2026-02-08,2,0,WhatsApp,Directo,Vazquezcamilabelen54@gmail.com,Mov: +54 9 11 5099-2337,Tortuguitas,Argentina,30,Hotel America,Primera vez,Pareja
+"VEDOVALDI, GISELLA",1,78000.0,2025-10-10,2025-10-12,1,0,WhatsApp,Corporativo,KHGJ,Mov: 1132496473,,Indefinido,149,Hotel America,Primera vez,Solo
+"VEGETTI, CATALINA",1,240000.0,2026-01-09,2026-01-12,2,0,Walk In,Directo,cattalinavegetti276@gmail.com,Mov: 2214976008,Buenos Aires,Argentina,57,Hotel America,Primera vez,Pareja
+"VERGARA, JORGE",1,204000.0,2026-01-18,2026-01-20,2,0,Walk In,Directo,COCOVERGARA@HOTMAIL.COM,Mov: 1166551949,,Indefinido,49,Hotel America,Primera vez,Pareja
+"VERON, NAHUEL",1,440000.0,2026-01-22,2026-01-26,2,0,WhatsApp,Directo,Nahueveron12@gmail.com,Mov: +54 9 2284 54-9422 - Fij: +54 9 2284 54-9422,Benito Juarez,Argentina,43,Hotel America,Primera vez,Pareja
+"VGP INGRESO 10 2026, VGP INGRESO 10 2026",1,4935000.0,2026-02-02,2026-02-09,17,0,Contacto Telefónico,Tour & Travel,VGP INGRESO 10 2026,Mov: VGP INGRESO 10 2026,,Indefinido,29,Hotel America,Primera vez,Grupo
+"VGP INGRESO 12 2026, VGP INGRESO 12 2026",1,3990000.0,2026-02-09,2026-02-16,16,0,Contacto Telefónico,Tour & Travel,VGP INGRESO 12 2026,Mov: VGP INGRESO 12 2026,,Indefinido,22,Hotel America,Primera vez,Grupo
+"VGP INGRESO 14 2026, VGP INGRESO 14 2026",1,3150000.0,2026-02-16,2026-02-23,12,0,Contacto Telefónico,Tour & Travel,VGP INGRESO 14 2026,Mov: VGP INGRESO 14 2026,,Indefinido,15,Hotel America,Primera vez,Grupo
+"VGP INGRESO 8 2026, VGP INGRESO 8 2026",1,1680000.0,2026-02-23,2026-03-02,6,0,Contacto Telefónico,Tour & Travel,VGP INGRESO 8 2026,Mov: VGP INGRESO 8 2026,,Indefinido,8,Hotel America,Primera vez,Grupo
+"VGP INGRESO2 2026, VGP INGRESO2 2026",1,2730000.0,2026-01-05,2026-01-12,13,0,Contacto Telefónico,Tour & Travel,VGP INGRESO2 2026,Mov: VGP INGRESO2 2026,,Indefinido,57,Hotel America,Primera vez,Grupo
+"VGP INGRESO4 2026, VGP INGRESO4 2026",1,3808000.0,2026-01-12,2026-01-19,17,0,Contacto Telefónico,Tour & Travel,VGP INGRESO4 2026,Mov: VGP INGRESO4 2026,,Indefinido,50,Hotel America,Primera vez,Grupo
+"VGP INGRESO6 2026, VGP INGRESO6 2026",1,3584000.0,2026-01-19,2026-01-26,16,0,Contacto Telefónico,Tour & Travel,VGP INGRESO6 2026,Mov: VGP INGRESO6 2026,,Indefinido,43,Hotel America,Primera vez,Grupo
+"VGP INGRESO8 2026, VGP INGRESO8 2026",1,4620000.0,2026-01-26,2026-02-02,19,0,Contacto Telefónico,Tour & Travel,VGP INGRESO8 2026,Mov: VGP INGRESO8 2026,,Indefinido,36,Hotel America,Primera vez,Grupo
+"VGP, RECUPERO",1,0.0,2025-12-29,2026-01-05,19,0,Contacto Telefónico,Tour & Travel,RECU,Mov: 455454,,Indefinido,64,Hotel America,Primera vez,Grupo
+"VIEJAS LOCAS, VIEJAS LOCAS",1,0.0,2026-01-30,2026-01-31,9,0,Sin Cargo / Complimentary,Directo,VIEJAS LOCAS,Mov: VIEJAS LOCAS,,Indefinido,38,Hotel America,Primera vez,Grupo
+"VILLAFAÑE, EVANGELINA AZUCENA",1,70000.0,2026-02-26,2026-02-27,2,0,Walk In,Directo,villafañeevangelina@gmail.com,Mov: 2262244779,Buenos Aires,Argentina,11,Hotel America,Primera vez,Pareja
+"VITALE , ELIZABETH",1,70000.0,2026-02-13,2026-02-14,1,0,WhatsApp,Directo,bvitale2016@gmail.com,Mov: +54 9 2494 34-9517,Tandil,Argentina,24,Hotel America,Primera vez,Solo
+"Virginia, Carrizo",1,78903.1,2026-02-07,2026-02-08,2,0,Booking.com,OTAs,cvirgi.842344@guest.booking.com,Mov: +54 11 2843 5704,,Argentina,30,Hotel America,Primera vez,Pareja
+"Vito, Riccardi",1,283565.339,2026-01-17,2026-01-20,2,0,Booking.com,OTAs,rvito.686142@guest.booking.com,Mov: +39 389 461 3515,,Italia,49,Hotel America,Primera vez,Pareja
+"Whitty, Florencia",1,360000.0,2026-02-16,2026-02-20,2,0,Contacto Telefónico,Tour & Travel,whittywhitty@nomail.com,Mov: whittywhitty,,Indefinido,18,Hotel America,Primera vez,Pareja
+"Yesica, Lopez",1,61693.38,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,lyesic.489389@guest.booking.com,Mov: +54 11 3015 7859,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"ZABALA, CHRISTIAN DAMIAN",1,70000.0,2026-02-26,2026-02-27,2,0,Walk In,Directo,CHRISTIANDAMIANZABALA2@GMAIL.COM,Mov: 1163307583,,Indefinido,11,Hotel America,Primera vez,Pareja
+"ZARATE, Marcos ",1,80000.0,2026-01-10,2026-01-11,2,0,WhatsApp,Directo,Mzarateadavg28@hotmail.com,Mov: +54 9 2255 50-9304,Buenos Aires,Argentina,58,Hotel America,Primera vez,Pareja
+"ZAYAS, MARTIN",1,78903.1,2026-02-07,2026-02-08,2,0,Booking.com,OTAs,MARTINZYA123@GMAIL.COM,Mov: +54 11 7153 2786,,Argentina,30,Hotel America,Primera vez,Pareja
+"ZEBERIO, ZENON",1,140000.0,2026-02-25,2026-02-27,2,0,Walk In,Directo,ZENONZEBERIO@GMAIL.COM,Mov: 2494623631,,Indefinido,11,Hotel America,Primera vez,Pareja
+"ZUCRO, JORGE",1,280000.0,2026-02-08,2026-02-12,2,0,Walk In,Directo,jorgezucro@nomail.com,Mov: 0341156645645,Buenos Aires,Argentina,26,Hotel America,Primera vez,Pareja
+"Zeki, Sasha",1,157806.2,2026-02-07,2026-02-08,4,0,Booking.com,OTAs,SASHA.ZEKI@GMAIL.COM,Mov: +54 221 611 0124,,Argentina,30,Hotel America,Primera vez,Grupo
+"aguirres RAELE, maría dolores",1,121901.93,2026-02-27,2026-03-01,2,0,Booking.com,OTAs,mariaraele658@gmail.com,Mov: 541164511257,,Argentina,9,Hotel America,Primera vez,Pareja
+"agustin casquero, Elias",1,78903.1,2026-02-07,2026-02-08,2,0,Booking.com,OTAs,jcroci.199235@guest.booking.com,Mov: +54 2291 46 5407 - Fij: +54 2291 46 5407,Tapalque,Argentina,30,Hotel America,Primera vez,Pareja
+"aladio, ailin",1,270000.0,2026-02-26,2026-03-01,2,0,Mail,Tour & Travel,AILIN.MAILEN1997@GMAIL.COM,Mov: 1164664675,,Indefinido,9,Hotel America,Primera vez,Pareja
+"alderete, graciela",1,1036000.0,2026-01-20,2026-01-27,2,0,Mail,Tour & Travel,alderetegraciela58@nomail.com,Mov: 1136920329,Buenos Aires,Argentina,42,Hotel America,Primera vez,Pareja
+"alonso, luis",1,136000.0,2025-11-23,2025-11-24,4,0,Walk In,Directo,",",Mov: 2254 620064,Pinamar,Argentina,106,Hotel America,Primera vez,Grupo
+"alonzo, paula",1,360000.0,2026-01-24,2026-01-28,2,0,Mail,Corporativo,42135863,Mov: 1122587973 - Fij: 1122587973,Guernica,Argentina,41,Hotel America,Primera vez,Pareja
+"amaya Agüero, Julio Carlos",1,660000.0,2026-01-05,2026-01-09,3,0,Contacto Telefónico,Corporativo,amayajulio431@gmail.com,Mov: 54 9 2664 34-7382,,Indefinido,60,Hotel America,Primera vez,Grupo
+"amodeo , Maximiliano matias ",1,280000.0,2026-02-09,2026-02-13,1,0,WhatsApp,Directo,Matiasamodeo2002@gmail.com,Mov: +54 9 2364 67-9235,Buenos Aires,Argentina,25,Hotel America,Primera vez,Solo
+"aranda, liliana",2,360000.0,2026-01-30,2026-02-02,2,0,Contacto Telefónico,Corporativo,saavedrasaavedrasaave,Mov: saavedrasaavedrasaave,Buenos Aires,Argentina,36,Hotel America,Recurrente,Pareja
+"armijo, carmen",1,183671.61,2026-02-26,2026-03-01,2,0,Booking.com,OTAs,carmij.527093@guest.booking.com,Mov: +54 11 5624 9097,Buenos Aires,Argentina,9,Hotel America,Primera vez,Pareja
+"arregui, natalia",2,510000.0,2026-02-14,2026-02-20,2,0,Contacto Telefónico,Tour & Travel,julirojomonaco@hotmail.com.ar,Mov: 1130694371,Buenos Aires,Argentina,18,Hotel America,Recurrente,Pareja
+"ayala, alan",1,360000.0,2026-02-22,2026-02-26,2,0,WhatsApp,Tour & Travel,AYALANOMAILLLL,Mov: 1124648287,Buenos Aires,Argentina,12,Hotel America,Primera vez,Pareja
+"barrio, daniel",1,180000.0,2026-02-09,2026-02-10,4,0,Sin Cargo / Complimentary,Directo,barriobarrio,Mov: barriobarrio,,Indefinido,28,Hotel America,Primera vez,Grupo
+"cani cani canicani cani canicani cani cani, cani cani cani",1,0.0,2026-04-02,2026-04-05,13,0,Contacto Telefónico,Tour & Travel,cani cani cani,Mov: cani cani canicani cani canicani cani canicani cani canicani cani cani,,Indefinido,-26,Hotel America,Primera vez,Grupo
+"carrizo, matias  ariel",1,68000.0,2025-12-31,2026-01-01,2,0,Walk In,Directo,melany.ruth@outloook.com,Mov: 1161471922,Buenos Aires,Argentina,68,Hotel America,Primera vez,Pareja
+"castano, pablo",1,68538.39,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,pcasta.867740@guest.booking.com,Mov: +54 11 3690 7001 - Fij: 1134191675,,Argentina,68,Hotel America,Primera vez,Pareja
+"castillo , pedro daniel ",1,770000.0,2026-01-19,2026-01-26,2,0,Contacto Telefónico,Directo,pedrodcastillo1@gmail.com,Mov: 151472884 - Fij: 1138541190,Buenos Aires,Argentina,43,Hotel America,Primera vez,Pareja
+"catino, giuliana",1,148932.076,2025-11-22,2025-11-24,2,0,Booking.com,OTAs,gcatin.693178@guest.booking.com,Mov: +54 11 3862 0075 - Fij: +54 11 3862 0075,San Miguel,Argentina,106,Hotel America,Primera vez,Pareja
+"celis, Juan",1,204319.754,2026-02-20,2026-02-21,4,2,Booking.com,OTAs,jcelis.832718@guest.booking.com,Mov: 542284464572,Buenos Aires,Argentina,17,Hotel America,Primera vez,Familia
+"cerrato, monica",1,1036000.0,2026-02-02,2026-02-09,2,0,Mail,Tour & Travel,cerratomoni@gmail.com,Mov: 1155244362,,Indefinido,29,Hotel America,Primera vez,Pareja
+"charni, tomas",1,102000.0,2025-11-14,2025-11-16,1,0,Contacto Telefónico,Directo,nomail@gmail.com,Mov: 02494465983,,Indefinido,114,Hotel America,Primera vez,Solo
+"choferes relajate, choferes relajate",1,112000.0,2025-11-07,2025-11-09,3,0,WhatsApp,Tour & Travel,choferes relajate,Mov: choferes relajate,,Indefinido,121,Hotel America,Primera vez,Grupo
+"claudio rodolfo, candiano",1,99000.0,2026-01-22,2026-01-23,2,0,Walk In,Directo,claudiorodolfocandiano@nomail.com,Mov: 1141470120,Buenos Aires,Argentina,46,Hotel America,Primera vez,Pareja
+"coñoepan , luis marcelo ",1,660000.0,2026-01-12,2026-01-16,3,0,WhatsApp,Directo,marceloconoepan@gmail.com,Mov: +54 9 2996 24-3748,Neuquén,Argentina,53,Hotel America,Primera vez,Grupo
+"cuello, norma",1,210000.0,2026-02-05,2026-02-08,2,0,Walk In,Directo,gracielanormacuello@gmail.com,Mov: 2364582928,Buenos Aires,Argentina,30,Hotel America,Primera vez,Pareja
+"d adario , micaela belen",1,315000.0,2026-01-16,2026-01-19,3,0,Contacto Telefónico,Tour & Travel,d adario,Mov: d adario,,Indefinido,50,Hotel America,Primera vez,Grupo
+"delma, ramiros",1,78000.0,2025-10-12,2025-10-13,3,0,Contacto Telefónico,Directo,......5,Mov: 3546476772,,Indefinido,148,Hotel America,Primera vez,Grupo
+"demetrio , jorge",1,63000.0,2025-10-11,2025-10-12,2,1,Walk In,Directo,77777,Mov: 2235623634,,Indefinido,149,Hotel America,Primera vez,Familia
+"di domeneca, valentina",1,330000.0,2026-01-16,2026-01-19,1,0,Walk In,Directo,VDIDOMENECA@GMAIL.COM,Mov: 5492227553361,,Indefinido,50,Hotel America,Primera vez,Solo
+"duarte, Álvaro ",1,80000.0,2026-01-10,2026-01-11,2,0,WhatsApp,Directo,duartealvaro151@gmail.com,Mov: +54 9 11 6920-2087,Buenos Aires,Argentina,58,Hotel America,Primera vez,Pareja
+"estelita, ariel",1,168000.0,2025-12-31,2026-01-03,2,0,Contacto Telefónico,Tour & Travel,estelitaestelita,Mov: estelita,,Indefinido,66,Hotel America,Primera vez,Pareja
+"fernandez, guillermo",1,126000.0,2026-02-28,2026-03-02,2,0,Walk In,Directo,guuuhiili@gmail.com,Mov: 2234425039,Buenos Aires,Argentina,8,Hotel America,Primera vez,Pareja
+"ferreras, luciano",1,80000.0,2026-01-10,2026-01-11,2,0,Walk In,Directo,luciano@marcodigital.com,Mov: 2266531659,,Indefinido,58,Hotel America,Primera vez,Pareja
+"florentin, claudia",1,888000.0,2026-02-07,2026-02-11,3,0,Contacto Telefónico,Tour & Travel,"LILIA.FLORENTIN@HOTMAIL,.COM",Mov: 01159806940,,Indefinido,27,Hotel America,Primera vez,Grupo
+"flores, alejandro",2,194000.0,2025-10-11,2025-11-24,2,0,Walk In,Directo,alenruja@gmail.com,Mov: 22124886895 - Fij: 22124886895,La Plata,Argentina,106,Hotel America,Recurrente,Pareja
+"flores, hugo",1,540000.0,2026-02-14,2026-02-18,3,0,Mail,Tour & Travel,cancion826@gmail.com,Mov: 1124935529 - Fij: 1130046675,,Indefinido,20,Hotel America,Primera vez,Grupo
+"flores, ramón agustín",2,400000.0,2026-01-20,2026-01-24,2,0,Mail,Directo,ramoncalani@gmail.com,Mov: 3884301659,,Indefinido,45,Hotel America,Recurrente,Pareja
+"florido, hector",1,315612.384,2026-02-07,2026-02-09,2,1,Booking.com,OTAs,hflori.335038@guest.booking.com,Mov: +54 91133188402,Buenos Aires,Argentina,29,Hotel America,Primera vez,Familia
+"gama silvera , luis raul",1,160000.0,2026-01-20,2026-01-22,2,0,Walk In,Directo,gamasilvera@gmail.com,Mov: 598 091751442,Montevideo,Uruguay,47,Hotel America,Primera vez,Pareja
+"gandia, sol",1,322039.371,2026-01-23,2026-01-26,2,0,Booking.com,OTAs,sgandi.924643@guest.booking.com,Mov: +54 11 2189 9239 - Fij: +54 11 2189 9239,,Argentina,43,Hotel America,Primera vez,Pareja
+"gomez, ludmila",1,80000.0,2026-01-10,2026-01-11,1,0,Walk In,Directo,ludmilagomez@nomail,Mov: 1128842148,,Indefinido,58,Hotel America,Primera vez,Solo
+"gomez, rocio",1,630000.0,2026-02-07,2026-02-14,2,0,Mail,Tour & Travel,ROCIOJULIETA@HOTMAIL.COM,Mov: 03413440530,,Indefinido,24,Hotel America,Primera vez,Pareja
+"grupo lemondegrupo lemonde, grupogrupo lemonde",2,7860000.0,2026-01-23,2026-02-06,26,0,Contacto Telefónico,Tour & Travel,grupo lemonde,Mov: 568475145676431,,Indefinido,32,Hotel America,Recurrente,Grupo
+"grupo mariela bidese, grupo mariela bidese",1,6708000.0,2026-01-30,2026-02-01,81,1,Contacto Telefónico,Tour & Travel,grupo mariela bidese,Mov: 56475414536435874,,Argentina,37,Hotel America,Primera vez,Familia
+"grupo nancy leon, grupo nancy leon",1,5040000.0,2026-01-14,2026-01-20,22,0,Contacto Telefónico,Tour & Travel,grupo nancy leon,Mov: grupo nancy leon,,Indefinido,49,Hotel America,Primera vez,Grupo
+"guardia, gladys",1,330000.0,2026-01-20,2026-01-23,2,0,WhatsApp,Directo,Gladys26572@gmail.com,Mov: 2345514186 - Fij: +54 9 2345 51-9377,Saladillo,Argentina,46,Hotel America,Primera vez,Pareja
+"guevara, claudio",1,168000.0,2025-12-31,2026-01-03,2,0,Contacto Telefónico,Corporativo,guevaraclaudio,Mov: 1126592533,,Indefinido,66,Hotel America,Primera vez,Pareja
+"guzman , romina yohana ",1,675000.0,2026-01-27,2026-01-30,5,0,Walk In,Directo,rominaguz2019@gmail.com,Mov: 1125236148,,Argentina,39,Hotel America,Primera vez,Grupo
+"hugo, sosa",1,78903.096,2026-02-07,2026-02-08,2,0,Booking.com,OTAs,shugo.267355@guest.booking.com,Mov: +54 2382106 - Fij: +54 2382106,San Miguel de Tucumán,Argentina,30,Hotel America,Primera vez,Pareja
+"ingreso 8 cuareim, ingreso 8 cuareim",1,1960000.0,2026-02-23,2026-03-02,8,0,Contacto Telefónico,Tour & Travel,ingreso 8 cuareim,Mov: ingreso 8 cuareim,,Indefinido,8,Hotel America,Primera vez,Grupo
+"karina Guerrero, Brenda",1,61312.854,2026-02-20,2026-02-21,2,0,Booking.com,OTAs,bg586632@gmail.com,Mov: 542983581790,Buenos Aires,Argentina,17,Hotel America,Primera vez,Pareja
+"larrea, braian",1,540000.0,2026-01-27,2026-01-31,3,0,Contacto Telefónico,Tour & Travel,braianlarrea42@gmail.com,Mov: 1125110401,Buenos Aires,Argentina,38,Hotel America,Primera vez,Grupo
+"lemonde, lemonde",1,7425000.0,2026-04-02,2026-04-05,61,0,Contacto Telefónico,Tour & Travel,lemonde,Mov: lemonde,,Indefinido,-26,Hotel America,Primera vez,Grupo
+"lopez, andrea",1,350000.0,2026-01-19,2026-01-24,2,0,Contacto Telefónico,Tour & Travel,ANDREELOPEZ1422@GMAIL.COM,Mov: 3512559271,,Indefinido,45,Hotel America,Primera vez,Pareja
+"lopez, pablo damian",1,280000.0,2026-02-24,2026-02-28,1,0,Walk In,Directo,PDHOLZMANN7@YAHOO.COM.AR,Mov: 2923650092,,Indefinido,10,Hotel America,Primera vez,Solo
+"macagnone, lautaro",1,270000.0,2026-01-12,2026-01-15,1,0,Mail,Corporativo,macagnonelautaro637@nomail.com,Mov: 2914731308,Buenos Aires,Argentina,54,Hotel America,Primera vez,Solo
+"maris Machirola, Stella",1,248220.126,2025-11-22,2025-11-24,3,0,Booking.com,OTAs,smachi.748366@guest.booking.com,Mov: +54 1569489168 - Fij: +54 1569489168,,Argentina,106,Hotel America,Primera vez,Grupo
+"martin, Facundo",3,275400.0,2025-11-13,2025-11-15,1,0,Motor de reservas propio,Directo,facunahuel@gmail.com,Mov: 1136005728 - Fij: 1136005728,,Argentina,115,Hotel America,VIP,Solo
+"martinez,  NADRA YAEL",1,450000.0,2026-01-05,2026-01-10,2,0,Mail,Tour & Travel,NADRAMRTZ@GMAIL.COM,Mov: 2216149510,,Indefinido,59,Hotel America,Primera vez,Pareja
+"martinez, maia",1,475500.0,2026-01-15,2026-01-20,3,0,Contacto Telefónico,Tour & Travel,MAIAMARTINEZB@GMAIL.COM,Mov: 3425299304,,Indefinido,49,Hotel America,Primera vez,Grupo
+"masdeu, facundo nicolas ",1,99000.0,2026-01-16,2026-01-17,2,0,WhatsApp,Directo,sabinocandela96@gmail.com,Mov: +54 9 11 6727-1574,Buenos Aires,Argentina,52,Hotel America,Primera vez,Pareja
+"mazo, marcelo",1,4200000.0,2025-12-06,2025-12-08,79,0,Contacto Telefónico,Corporativo,grupo marcelo manzo,Mov: grupo marcelo manzo,,Indefinido,92,Hotel America,Primera vez,Grupo
+"miguel Romero, marcelo",1,61693.38,2025-12-31,2026-01-01,2,0,Booking.com,OTAs,mromer.470728@guest.booking.com,Mov: +54 11 5737 7269,,Argentina,68,Hotel America,Primera vez,Pareja
+"mirabile, marisa",1,450000.0,2026-01-22,2026-01-27,2,0,WhatsApp,Tour & Travel,mirabile,Mov: mirabile,,Indefinido,42,Hotel America,Primera vez,Pareja
+"ortiz, juliana",1,1260000.0,2026-02-14,2026-02-21,4,0,Mail,Corporativo,ortizjuliana1965@hotmail.com,Mov: 1140582233,Buenos Aires,Argentina,17,Hotel America,Primera vez,Grupo
+"peÑa, enzo",1,90000.0,2026-01-17,2026-01-18,2,0,Walk In,Directo,penaenz@nomail.com,Mov: 2983645973,Buenos Aires,Argentina,51,Hotel America,Primera vez,Pareja
+"ruiz, karina",1,104000.0,2025-10-10,2025-10-12,2,0,Contacto Telefónico,Corporativo,nalltour@baltour.com,Mov: 1550396293,,Indefinido,149,Hotel America,Primera vez,Pareja
+"ruiz, miriam",1,2845692.912,2026-01-08,2026-01-20,3,0,Booking.com,OTAs,MIRIAMARUIZ@HOTMAIL.COM,Mov: +54 11 6781 7830 - Fij: +54 11 6781 7830,,Argentina,49,Hotel America,Primera vez,Grupo
+"sancio, hector",1,810000.0,2026-01-13,2026-01-22,2,0,Mail,Tour & Travel,HECTORLUISSANCIO@GMAIL.COM,Mov: 2613351464,,Indefinido,47,Hotel America,Primera vez,Pareja
+"savignac, agustin",1,367857.012,2026-02-23,2026-03-01,2,0,Booking.com,OTAs,asavig.704308@guest.booking.com,Mov: 541130047315,Buenos Aires,Argentina,9,Hotel America,Primera vez,Pareja
+"sosa , Nahuel gastón ",1,320000.0,2026-01-19,2026-01-23,2,0,WhatsApp,Directo,nahusosa_11@live.com.ar,Mov: +54 9 2281 54-7539 - Fij: -,Buenos Aires,Argentina,46,Hotel America,Primera vez,Pareja
+"turismo busmac, turismo busmac",1,2940000.0,2026-01-23,2026-01-27,18,1,Contacto Telefónico,Corporativo,turismo busmac,Mov: turismo busmac,,Indefinido,42,Hotel America,Primera vez,Familia
+"vazquez, andrea",1,270000.0,2026-02-14,2026-02-17,1,0,Mail,Tour & Travel,luciana@juditur.com.ar,Mov: 1541444675 - Fij: 1541444675,Lomas de Zamora,Argentina,21,Hotel America,Primera vez,Solo
+"ventosa, nicolas",1,720000.0,2026-01-15,2026-01-23,1,0,Contacto Telefónico,Corporativo,nicolasventosa31@gmail.com,Mov: 1132780775,,Indefinido,46,Hotel America,Primera vez,Solo
+"vgp ingreso 11, vgp ingreso 11",1,2464000.0,2026-02-05,2026-02-12,13,0,Contacto Telefónico,Tour & Travel,vgp ingreso 11,Mov: vgp ingreso 11,,Indefinido,26,Hotel America,Primera vez,Grupo
+"vgp ingreso 13, vgp ingreso 13",1,3360000.0,2026-02-12,2026-02-19,13,0,Contacto Telefónico,Tour & Travel,vgp ingreso 13,Mov: vgp ingreso 13,,Indefinido,19,Hotel America,Primera vez,Grupo
+"vgp ingreso 15, vgp ingreso 15",1,3584000.0,2026-02-19,2026-02-26,15,0,Contacto Telefónico,Tour & Travel,vgp ingreso 15,Mov: vgp ingreso 15,,Indefinido,12,Hotel America,Primera vez,Grupo
+"vgp ingreso 9, vgp ingreso 9",1,3808000.0,2026-01-29,2026-02-05,17,0,Contacto Telefónico,Tour & Travel,vgp ingreso 9,Mov: vgp ingreso 9,,Indefinido,33,Hotel America,Primera vez,Grupo
+"vgp ingreso5, vgp ingreso5",2,8064000.0,2026-01-08,2026-01-22,19,1,Contacto Telefónico,Tour & Travel,vgp ingreso5,Mov: vgp ingreso5,,Indefinido,47,Hotel America,Recurrente,Familia
+"vgp ingresoo7, vgp ingresoo7",1,3318000.0,2026-01-22,2026-01-29,16,1,Contacto Telefónico,Tour & Travel,vgp ingresoo7,Mov: vgp ingresoo7,,Indefinido,40,Hotel America,Primera vez,Familia
+"vivardo, maite ",1,126000.0,2026-02-25,2026-02-27,2,0,WhatsApp,Directo,maitesanmartin2007@gmail.com,Mov: +54 9 2241 56-9680,Buenos Aires,Argentina,11,Hotel America,Primera vez,Pareja

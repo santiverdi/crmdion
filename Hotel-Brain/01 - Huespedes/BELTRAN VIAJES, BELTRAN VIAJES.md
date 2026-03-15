@@ -1,0 +1,104 @@
+---
+tipo: huesped
+nombre: "BELTRAN VIAJES, BELTRAN VIAJES"
+email: "BELTRAN VIAJES"
+telefono: "Mov: BELTRAN VIAJES"
+ciudad: ""
+pais: "Indefinido"
+canal: "Mail"
+mercado: "Tour & Travel"
+tipo_viajero: "Grupo"
+primera_visita: "02/02/2026"
+ultima_visita: "20/01/2026"
+total_visitas: 5
+gasto_total: 58722000.0
+gasto_alojamiento: 58722000.0
+gasto_promedio: 11744400.0
+segmento: "VIP"
+score: 90
+tags: [huesped, vip, grupo, tour-y-travel]
+---
+
+# BELTRAN VIAJES, BELTRAN VIAJES
+
+## Datos de contacto
+- **Email**: BELTRAN VIAJES
+- **Telefono**: Mov: BELTRAN VIAJES
+- **Ciudad**: 
+- **Pais**: Indefinido
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Segmento | **VIP** |
+| Score | 90/100 |
+| Tipo viajero | Grupo |
+| Canal principal | Mail |
+| Mercado | Tour & Travel |
+| Total visitas | 5 |
+| Gasto total | $58,722,000 |
+| Gasto promedio | $11,744,400 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 02/02/2026 | 09/02/2026 | 24 | 7 | Mail | $17,248,000 | C. Anticipo |
+| 12/01/2026 | 19/01/2026 | 18 | 7 | Mail | $14,154,000 | C. Anticipo |
+| 19/01/2026 | 26/01/2026 | 23 | 7 | Mail | $17,360,000 | C. Anticipo |
+| 20/01/2026 | 25/01/2026 | 17 | 5 | Mail | $9,360,000 | C. Anticipo |
+| 20/01/2026 | 25/01/2026 | 1 | 5 | Contacto Telefónico | $600,000 | C. Anticipo |
+
+## Notas internas
+- 02/02/2026: N ° de teléfono huéspedes 
+
+202 ALBARRACIN BRUNO/ N° 3834957725
+203 AIMO CARLOS/ N° 3835285411204
+205 BELLANTE ENRIQUE/  N° 3834293661
+301 AROCA MARIA ELOISA/  N° 3834211310
+303 SOSA MARIA INES/  N° 3834573189
+305 AIMO CESAR JESUS/  N° 3835523410
+401 BASTIANON ELIAS ALINA/  N° 3834905918
+902 BULACIO AGUERO MIGUEL/  N° 3834255607
+403 COORDINADOR COORDINADOR/  N° +54 9 3834 22-7434
+404 AHUMADA PAULA ISABEL/  N° 3835509783
+405 ASTORGA BLANCA/  N° 3834768228
+502 ARAGON GABRIELA AGUSTINA/  N° 3834230215
+503 LABELLI NORMA CRISTINA/  N° 3834230797
+504 LEZCANO AGUEDA SUSANA/  N° 3834615082
+505 DIEZ GOMEZ HERNAN/  N° 3835435758
+605 JAIME YESSICA/  N° 3834532365
+701 reynaldi aparo ahumada herrera luciana /  N° 3834242710
+702 AYBAR FABRIS TIZIANO/  N° 3835412734
+703 CUELLO NAZARENA/  N° 3834522046
+801 CHOFER CHOFER/  N° +54 9 3804 35-3016
+802 MARTINEZ MIGUEL ANGEL/  N° 3834263919
+803 DIAZ INES DEL VALLE/  N° 3834220134
+402 ARGAÑAR NILDA DEL VALLE/  N° 3834295439
+603 N° 3834052446
+- 19/01/2026: NUM HAB 201 [ 3834629369 
+NUM HAB 202 [ 3834646392
+NUM HAB 205 [ 
+NUM HAB 301 [ 3834935788
+NUM HAB 302 [ 3834910083 
+NUM HAB 303 [ 3834216333
+NUM HAB 304 [ 3834762839
+NUM HAB 305 [3834908495
+NUM HAB 402 [ 3834348228
+NUM HAB 405 [ 3834608841
+NUM HAB 502 [ 3834710423
+NUM HAB 703 [ 3834233413
+NUM HAB 504 [ 3834996836
+NUM HAB 505 [ 3834346908
+NUM HAB 603 [ 3834050283
+NUM HAB 604 [ 3834826053
+NUM HAB 605 [ 3834647349 
+NUM HAB 503 [ 3834540299
+NUM HAB 704 [ 3834623505
+NUM HAB 805 [ 3834367684
+NUM HAB 902 [ 3834735584
+NUM HAB 404 [ 3834323682
+NUM HAB 403 [ 3834465360
+
+
+- 20/01/2026: LA TRIPULACION VA AL AMERICA
+

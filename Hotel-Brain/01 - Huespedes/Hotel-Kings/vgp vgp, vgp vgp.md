@@ -1,0 +1,51 @@
+---
+tipo: huesped
+hotel: "Hotel Kings"
+nombre: "vgp vgp, vgp vgp"
+email: "vgp vgp"
+telefono: "Mov: vgp vgp"
+ciudad: ""
+pais: "Indefinido"
+canal: "Contacto Telefónico"
+mercado: "Tour & Travel"
+tipo_viajero: "Grupo"
+primera_visita: "02/03/2026"
+ultima_visita: "02/03/2026"
+total_visitas: 1
+gasto_total: 0.0
+gasto_promedio: 0.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-kings, primera-vez, grupo, tour-y-travel]
+---
+
+# vgp vgp, vgp vgp
+**Hotel**: Hotel Kings
+
+## Datos de contacto
+- **Email**: vgp vgp
+- **Telefono**: Mov: vgp vgp
+- **Ciudad**: 
+- **Pais**: Indefinido
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel Kings** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Grupo |
+| Canal | Contacto Telefónico |
+| Mercado | Tour & Travel |
+| Visitas | 1 |
+| Gasto total | $0 |
+| Gasto promedio | $0 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 02/03/2026 | 09/03/2026 | 2 | 7 | Contacto Telefónico | $0 | C. Sin anticipo |
+
+## Notas internas
+- 02/03/2026: recupero
+
