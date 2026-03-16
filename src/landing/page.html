@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Dion - Mar del Plata | Consultá disponibilidad</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            color: #1a1a1a;
+            background: #f8f6f3;
+        }
+
+        /* Hero */
+        .hero {
+            position: relative;
+            height: 50vh;
+            min-height: 320px;
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            overflow: hidden;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🏨</text></svg>') no-repeat center;
+            background-size: 200px;
+            opacity: 0.1;
+        }
+        .hero-content { position: relative; z-index: 1; padding: 20px; }
+        .hero h1 { font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 700; margin-bottom: 8px; }
+        .hero p { font-size: 1.2rem; opacity: 0.9; }
+        .hero .location { font-size: 1rem; opacity: 0.7; margin-top: 4px; }
+
+        /* Info cards */
+        .info-section {
+            max-width: 800px;
+            margin: -40px auto 0;
+            padding: 0 20px;
+            position: relative;
+            z-index: 2;
+        }
+        .info-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+        .info-card {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        }
+        .info-card .icon { font-size: 1.8rem; margin-bottom: 8px; }
+        .info-card .label { font-size: 0.85rem; color: #666; }
+        .info-card .value { font-weight: 600; font-size: 0.95rem; }
+
+        /* Form */
+        .form-section {
+            max-width: 600px;
+            margin: 0 auto 60px;
+            padding: 0 20px;
+        }
+        .form-container {
+            background: white;
+            border-radius: 16px;
+            padding: 32px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+        .form-container h2 {
+            font-size: 1.5rem;
+            margin-bottom: 4px;
+        }
+        .form-container .subtitle {
+            color: #666;
+            margin-bottom: 24px;
+            font-size: 0.95rem;
+        }
+
+        .form-group { margin-bottom: 18px; }
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 6px;
+            font-size: 0.9rem;
+        }
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        input, select, textarea {
+            width: 100%;
+            padding: 12px 14px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-family: inherit;
+            transition: border-color 0.2s;
+        }
+        input:focus, select:focus, textarea:focus {
+            outline: none;
+            border-color: #2c3e50;
+        }
+        textarea { resize: vertical; min-height: 60px; }
+
+        .submit-btn {
+            width: 100%;
+            padding: 16px;
+            background: #25D366;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: background 0.2s;
+            margin-top: 8px;
+        }
+        .submit-btn:hover { background: #1da851; }
+        .submit-btn:disabled { background: #ccc; cursor: not-allowed; }
+
+        /* Success */
+        .success-message {
+            display: none;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        .success-message .check { font-size: 4rem; margin-bottom: 16px; }
+        .success-message h2 { color: #25D366; margin-bottom: 8px; }
+        .success-message p { color: #666; line-height: 1.6; }
+
+        /* Error */
+        .error-text { color: #e74c3c; font-size: 0.85rem; margin-top: 4px; display: none; }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #999;
+            font-size: 0.85rem;
+        }
+
+        @media (max-width: 480px) {
+            .form-row { grid-template-columns: 1fr; }
+            .form-container { padding: 24px 20px; }
+        }
+    </style>
+</head>
+<body>
+
+<section class="hero">
+    <div class="hero-content">
+        <h1>Hotel Dion</h1>
+        <p>Tu lugar en Mar del Plata</p>
+        <span class="location">San Martín 2752 - Mar del Plata, Argentina</span>
+    </div>
+</section>
+
+<section class="info-section">
+    <div class="info-cards">
+        <div class="info-card">
+            <div class="icon">📍</div>
+            <div class="value">Centro</div>
+            <div class="label">A 3 cuadras del mar</div>
+        </div>
+        <div class="info-card">
+            <div class="icon">🅿️</div>
+            <div class="value">Estacionamiento</div>
+            <div class="label">Cochera propia</div>
+        </div>
+        <div class="info-card">
+            <div class="icon">☕</div>
+            <div class="value">Desayuno</div>
+            <div class="label">Buffet incluido</div>
+        </div>
+        <div class="info-card">
+            <div class="icon">📶</div>
+            <div class="value">Wi-Fi</div>
+            <div class="label">Gratis en todo el hotel</div>
+        </div>
+    </div>
+</section>
+
+<section class="form-section">
+    <div class="form-container">
+        <div id="form-area">
+            <h2>Consultá disponibilidad</h2>
+            <p class="subtitle">Completá el formulario y te respondemos por WhatsApp en menos de 30 minutos</p>
+
+            <form id="lead-form" novalidate>
+                <div class="form-group">
+                    <label for="nombre">Tu nombre</label>
+                    <input type="text" id="nombre" name="nombre" placeholder="Juan Pérez" required>
+                    <div class="error-text" id="error-nombre">Ingresá tu nombre</div>
+                </div>
+
+                <div class="form-group">
+                    <label>Fechas</label>
+                    <div class="form-row">
+                        <div>
+                            <input type="date" id="checkin" name="checkin" required>
+                            <div class="error-text" id="error-checkin">Elegí fecha de entrada</div>
+                        </div>
+                        <div>
+                            <input type="date" id="checkout" name="checkout" required>
+                            <div class="error-text" id="error-checkout">Elegí fecha de salida</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Personas</label>
+                    <div class="form-row">
+                        <div>
+                            <select id="adultos" name="adultos">
+                                <option value="1">1 adulto</option>
+                                <option value="2" selected>2 adultos</option>
+                                <option value="3">3 adultos</option>
+                                <option value="4">4 adultos</option>
+                                <option value="5">5+ adultos</option>
+                            </select>
+                        </div>
+                        <div>
+                            <select id="menores" name="menores">
+                                <option value="0" selected>Sin menores</option>
+                                <option value="1">1 menor</option>
+                                <option value="2">2 menores</option>
+                                <option value="3">3+ menores</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="tipo_habitacion">Tipo de habitación</label>
+                    <select id="tipo_habitacion" name="tipo_habitacion" required>
+                        <option value="">Elegí una opción</option>
+                        <option value="simple">Simple</option>
+                        <option value="doble">Doble</option>
+                        <option value="triple">Triple</option>
+                        <option value="familiar">Familiar</option>
+                        <option value="no_se">No sé, asesorenme</option>
+                    </select>
+                    <div class="error-text" id="error-tipo">Elegí un tipo de habitación</div>
+                </div>
+
+                <div class="form-group">
+                    <label for="telefono">Tu WhatsApp o teléfono</label>
+                    <input type="tel" id="telefono" name="telefono" placeholder="11 2345-6789" required>
+                    <div class="error-text" id="error-telefono">Ingresá tu teléfono</div>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email (opcional)</label>
+                    <input type="email" id="email" name="email" placeholder="juan@ejemplo.com">
+                </div>
+
+                <div class="form-group">
+                    <label for="mensaje">Algo más que quieras contarnos (opcional)</label>
+                    <textarea id="mensaje" name="mensaje" placeholder="Ej: necesitamos cuna, llegamos tarde..."></textarea>
+                </div>
+
+                <button type="submit" class="submit-btn" id="submit-btn">Consultar disponibilidad</button>
+            </form>
+        </div>
+
+        <div class="success-message" id="success-area">
+            <div class="check">✅</div>
+            <h2>¡Recibimos tu consulta!</h2>
+            <p>Nuestro conserje te va a escribir por WhatsApp<br>en menos de <strong>30 minutos</strong>.</p>
+            <p style="margin-top: 16px; font-size: 0.9rem;">Si es fuera de horario (22hs-8hs), te escribimos a primera hora.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>Hotel Dion - San Martín 2752, Mar del Plata, Argentina</p>
+</footer>
+
+<script>
+(function() {
+    // Set min dates to today
+    const today = new Date().toISOString().split('T')[0];
+    document.getElementById('checkin').min = today;
+    document.getElementById('checkout').min = today;
+
+    // Auto-set checkout when checkin changes
+    document.getElementById('checkin').addEventListener('change', function() {
+        const checkout = document.getElementById('checkout');
+        if (!checkout.value || checkout.value <= this.value) {
+            const next = new Date(this.value);
+            next.setDate(next.getDate() + 1);
+            checkout.value = next.toISOString().split('T')[0];
+        }
+        checkout.min = this.value;
+    });
+
+    // Get UTM params
+    const params = new URLSearchParams(window.location.search);
+    const utmSource = params.get('utm_source') || '';
+    const utmCampaign = params.get('utm_campaign') || '';
+
+    // Form submission
+    document.getElementById('lead-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        // Reset errors
+        document.querySelectorAll('.error-text').forEach(el => el.style.display = 'none');
+
+        // Validate
+        let valid = true;
+        const fields = ['nombre', 'checkin', 'checkout', 'tipo_habitacion', 'telefono'];
+        for (const f of fields) {
+            const el = document.getElementById(f);
+            if (!el.value.trim() || (el.tagName === 'SELECT' && !el.value)) {
+                document.getElementById('error-' + f.replace('_', '')).style.display = 'block';
+                valid = false;
+            }
+        }
+
+        // Validate checkout > checkin
+        const ci = document.getElementById('checkin').value;
+        const co = document.getElementById('checkout').value;
+        if (ci && co && co <= ci) {
+            document.getElementById('error-checkout').textContent = 'La salida debe ser después de la entrada';
+            document.getElementById('error-checkout').style.display = 'block';
+            valid = false;
+        }
+
+        if (!valid) return;
+
+        const btn = document.getElementById('submit-btn');
+        btn.disabled = true;
+        btn.textContent = 'Enviando...';
+
+        const data = {
+            nombre: document.getElementById('nombre').value.trim(),
+            telefono: document.getElementById('telefono').value.trim(),
+            email: document.getElementById('email').value.trim(),
+            checkin: ci,
+            checkout: co,
+            adultos: parseInt(document.getElementById('adultos').value),
+            menores: parseInt(document.getElementById('menores').value),
+            tipo_habitacion: document.getElementById('tipo_habitacion').value,
+            mensaje: document.getElementById('mensaje').value.trim(),
+            utm_source: utmSource,
+            utm_campaign: utmCampaign,
+        };
+
+        try {
+            const resp = await fetch('/api/lead', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data),
+            });
+
+            if (resp.ok) {
+                document.getElementById('form-area').style.display = 'none';
+                document.getElementById('success-area').style.display = 'block';
+            } else {
+                throw new Error('Error del servidor');
+            }
+        } catch (err) {
+            btn.disabled = false;
+            btn.textContent = 'Consultar disponibilidad';
+            alert('Hubo un error. Por favor intentá de nuevo o escribinos directamente al WhatsApp.');
+        }
+    });
+})();
+</script>
+
+</body>
+</html>

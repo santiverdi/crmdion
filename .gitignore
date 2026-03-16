@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment files (may contain secrets)
+**/.env
+**/.env.local
+**/.env.ci
+**/.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Claude Flow local state
+.claude-flow/
+.swarm/
+.claude/
+.mcp.json
+
+# === DATOS SENSIBLES - NO SUBIR ===
+# Perfiles de huéspedes (datos personales)
+Hotel-Brain/01 - Huespedes/
+# CSVs con datos personales
+Hotel-Brain/07 - Campañas/
+# Excel de TodoAlojamiento
+Hotel-Brain/00 - Inbox/
+*.xlsx
+*.xls
+# Base de datos de leads
+*.db
+# Logs con datos personales
+log_post_estadia.csv
+# HTMLs generados con datos
+post_estadia_*.html
+
+# Obsidian cache
+Hotel-Brain/.obsidian/

@@ -1,0 +1,10 @@
+# Fase 2: Post-estadía
+pandas>=2.0
+openpyxl>=3.1
+sib-api-v3-sdk>=7.6  # Brevo (ex Sendinblue) - opcional, solo para emails
+
+# Fase 3: Landing + cualificador
+fastapi>=0.109
+uvicorn>=0.27
+python-dotenv>=1.0
+pydantic>=2.0
