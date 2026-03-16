@@ -1,0 +1,48 @@
+---
+tipo: huesped
+hotel: "Hotel VIPS"
+nombre: "Denevi, Marisa Ines"
+email: "marisadenevi23@gmail.com"
+telefono: "Mov: +549 22323627813"
+ciudad: ""
+pais: "Argentina"
+canal: "Contacto Telefónico"
+mercado: "Directo"
+tipo_viajero: "Pareja"
+primera_visita: "16/02/2026"
+ultima_visita: "16/02/2026"
+total_visitas: 1
+gasto_total: 505000.002
+gasto_promedio: 505000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-vips, primera-vez, pareja, directo]
+---
+
+# Denevi, Marisa Ines
+**Hotel**: Hotel VIPS
+
+## Datos de contacto
+- **Email**: marisadenevi23@gmail.com
+- **Telefono**: Mov: +549 22323627813
+- **Ciudad**: 
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel VIPS** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | Contacto Telefónico |
+| Mercado | Directo |
+| Visitas | 1 |
+| Gasto total | $505,000 |
+| Gasto promedio | $505,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 16/02/2026 | 22/02/2026 | 1 | 6 | Contacto Telefónico | $505,000 | C. Anticipo |
+

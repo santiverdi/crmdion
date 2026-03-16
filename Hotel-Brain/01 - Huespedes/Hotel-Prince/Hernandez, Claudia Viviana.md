@@ -1,0 +1,48 @@
+---
+tipo: huesped
+hotel: "Hotel Prince"
+nombre: "Hernandez, Claudia Viviana"
+email: "hernandezzzz"
+telefono: "Mov: 1137953345"
+ciudad: ""
+pais: "Indefinido"
+canal: "Contacto Telefónico"
+mercado: "Directo"
+tipo_viajero: "Pareja"
+primera_visita: "17/02/2026"
+ultima_visita: "17/02/2026"
+total_visitas: 1
+gasto_total: 616000.0
+gasto_promedio: 616000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-prince, primera-vez, pareja, directo]
+---
+
+# Hernandez, Claudia Viviana
+**Hotel**: Hotel Prince
+
+## Datos de contacto
+- **Email**: hernandezzzz
+- **Telefono**: Mov: 1137953345
+- **Ciudad**: 
+- **Pais**: Indefinido
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel Prince** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | Contacto Telefónico |
+| Mercado | Directo |
+| Visitas | 1 |
+| Gasto total | $616,000 |
+| Gasto promedio | $616,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 17/02/2026 | 25/02/2026 | 1 | 8 | Contacto Telefónico | $616,000 | C. Anticipo |
+

@@ -1,0 +1,46 @@
+---
+tipo: huesped
+nombre: "ana maria , itoiz"
+email: "noutilizagmail.com"
+telefono: "Mov: 2226686580"
+ciudad: ""
+pais: "Indefinido"
+canal: "Walk In"
+mercado: "Directo"
+tipo_viajero: "Grupo"
+primera_visita: "01/02/2026"
+ultima_visita: "01/02/2026"
+total_visitas: 1
+gasto_total: 308000.0
+gasto_alojamiento: 308000.0
+gasto_promedio: 308000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, primera-vez, grupo, directo]
+---
+
+# ana maria , itoiz
+
+## Datos de contacto
+- **Email**: noutilizagmail.com
+- **Telefono**: Mov: 2226686580
+- **Ciudad**: 
+- **Pais**: Indefinido
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Grupo |
+| Canal principal | Walk In |
+| Mercado | Directo |
+| Total visitas | 1 |
+| Gasto total | $308,000 |
+| Gasto promedio | $308,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 01/02/2026 | 04/02/2026 | 2 | 3 | Walk In | $308,000 | C. Anticipo |
+

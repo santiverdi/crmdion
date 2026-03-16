@@ -1,0 +1,51 @@
+---
+tipo: huesped
+hotel: "Hotel Kings"
+nombre: "pedrozo, luis"
+email: "pedrozo"
+telefono: "Mov: 2215656582"
+ciudad: ""
+pais: "Argentina"
+canal: "WhatsApp"
+mercado: "Tour & Travel"
+tipo_viajero: "Pareja"
+primera_visita: "20/12/2025"
+ultima_visita: "20/12/2025"
+total_visitas: 1
+gasto_total: 280000.0
+gasto_promedio: 280000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-kings, primera-vez, pareja, tour-y-travel]
+---
+
+# pedrozo, luis
+**Hotel**: Hotel Kings
+
+## Datos de contacto
+- **Email**: pedrozo
+- **Telefono**: Mov: 2215656582
+- **Ciudad**: 
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel Kings** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | WhatsApp |
+| Mercado | Tour & Travel |
+| Visitas | 1 |
+| Gasto total | $280,000 |
+| Gasto promedio | $280,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 20/12/2025 | 26/12/2025 | 1 | 6 | WhatsApp | $280,000 | C. Anticipo |
+
+## Notas internas
+- 20/12/2025: 6*5
+

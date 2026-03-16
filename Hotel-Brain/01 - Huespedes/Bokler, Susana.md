@@ -1,0 +1,54 @@
+---
+tipo: huesped
+nombre: "Bokler, Susana"
+email: "susanabklr436@gmail.com"
+telefono: "Mov: +54 9 11 3129-5973"
+ciudad: ""
+pais: "Indefinido"
+canal: "WhatsApp"
+mercado: "Directo"
+tipo_viajero: "Pareja"
+primera_visita: "19/03/2026"
+ultima_visita: "19/03/2026"
+total_visitas: 1
+gasto_total: 464000.0
+gasto_alojamiento: 464000.0
+gasto_promedio: 464000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, primera-vez, pareja, directo]
+---
+
+# Bokler, Susana
+
+## Datos de contacto
+- **Email**: susanabklr436@gmail.com
+- **Telefono**: Mov: +54 9 11 3129-5973
+- **Ciudad**: 
+- **Pais**: Indefinido
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal principal | WhatsApp |
+| Mercado | Directo |
+| Total visitas | 1 |
+| Gasto total | $464,000 |
+| Gasto promedio | $464,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 19/03/2026 | 23/03/2026 | 2 | 4 | WhatsApp | $464,000 | C. Anticipo |
+
+## Notas internas
+- 19/03/2026: 2 HABITACIONES SINGLES - LLAMO PARA AVISAR QUE AL FINAL QUIERE LAS 2 HABITACIONES EN EL PISO 7 COMO LA COMPAÑERA 
+SE ENVIAN DATOS POR WHATSAPP PARA DEPOSITO 
+TARIFA DE PROMO TODA LA ESTADIA 
+
+ENVIO PAGO $116000 - OTRA SINGLE A NOMBRE DE  Raquel Adriana Hadid (DNI 13679290, Dirección Basavilbaso 1981 Lanús Este.
+
+

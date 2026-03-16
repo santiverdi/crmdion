@@ -1,0 +1,52 @@
+---
+tipo: huesped
+hotel: "Hotel VIPS"
+nombre: "BARBERO, DANIELA"
+email: "barberodani@hotalmail"
+telefono: "Mov: 549 1358510 5657"
+ciudad: ""
+pais: "Indefinido"
+canal: "Contacto Telefónico"
+mercado: "Tour & Travel"
+tipo_viajero: "Pareja"
+primera_visita: "24/01/2026"
+ultima_visita: "24/01/2026"
+total_visitas: 1
+gasto_total: 616000.0
+gasto_promedio: 616000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-vips, primera-vez, pareja, tour-y-travel]
+---
+
+# BARBERO, DANIELA
+**Hotel**: Hotel VIPS
+
+## Datos de contacto
+- **Email**: barberodani@hotalmail
+- **Telefono**: Mov: 549 1358510 5657
+- **Ciudad**: 
+- **Pais**: Indefinido
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel VIPS** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | Contacto Telefónico |
+| Mercado | Tour & Travel |
+| Visitas | 1 |
+| Gasto total | $616,000 |
+| Gasto promedio | $616,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 24/01/2026 | 31/01/2026 | 1 | 7 | Contacto Telefónico | $616,000 | C. Anticipo |
+
+## Notas internas
+- 24/01/2026: precompra
+(los tickets los dejan de montcatini en un sobre con el nombre de la pax, no los pedimos nosotros, ojo)
+

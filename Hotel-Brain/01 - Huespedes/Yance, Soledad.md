@@ -1,0 +1,46 @@
+---
+tipo: huesped
+nombre: "Yance, Soledad"
+email: "soleyance7@gmail.com"
+telefono: "Mov: 5491131530043"
+ciudad: "Loma Hermosa"
+pais: "Argentina"
+canal: "WhatsApp"
+mercado: "Directo"
+tipo_viajero: "Pareja"
+primera_visita: "09/10/2025"
+ultima_visita: "09/10/2025"
+total_visitas: 1
+gasto_total: 171000.0
+gasto_alojamiento: 171000.0
+gasto_promedio: 171000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, primera-vez, pareja, directo]
+---
+
+# Yance, Soledad
+
+## Datos de contacto
+- **Email**: soleyance7@gmail.com
+- **Telefono**: Mov: 5491131530043
+- **Ciudad**: Loma Hermosa
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal principal | WhatsApp |
+| Mercado | Directo |
+| Total visitas | 1 |
+| Gasto total | $171,000 |
+| Gasto promedio | $171,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 09/10/2025 | 12/10/2025 | 1 | 3 | WhatsApp | $171,000 | C. Anticipo |
+

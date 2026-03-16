@@ -1,0 +1,48 @@
+---
+tipo: huesped
+hotel: "Hotel Kings"
+nombre: "FARIAS, NERIO"
+email: "ALEJANDROFARIAS526@GMAIL.COM"
+telefono: "Mov: 3516412243"
+ciudad: ""
+pais: "Argentina"
+canal: "Walk In"
+mercado: "Directo"
+tipo_viajero: "Pareja"
+primera_visita: "16/12/2025"
+ultima_visita: "16/12/2025"
+total_visitas: 1
+gasto_total: 58000.0
+gasto_promedio: 58000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-kings, primera-vez, pareja, directo]
+---
+
+# FARIAS, NERIO
+**Hotel**: Hotel Kings
+
+## Datos de contacto
+- **Email**: ALEJANDROFARIAS526@GMAIL.COM
+- **Telefono**: Mov: 3516412243
+- **Ciudad**: 
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel Kings** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | Walk In |
+| Mercado | Directo |
+| Visitas | 1 |
+| Gasto total | $58,000 |
+| Gasto promedio | $58,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 16/12/2025 | 17/12/2025 | 1 | 1 | Walk In | $58,000 | C. Sin anticipo |
+

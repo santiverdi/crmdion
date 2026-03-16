@@ -1,0 +1,48 @@
+---
+tipo: huesped
+hotel: "Hotel VIPS"
+nombre: "Lautaro Martin, Armua"
+email: "lautaroarmua8@gmail.com"
+telefono: "Mov: +54 221 303 5779"
+ciudad: ""
+pais: "Argentina"
+canal: "Booking.com"
+mercado: "OTAs"
+tipo_viajero: "Pareja"
+primera_visita: "07/02/2026"
+ultima_visita: "07/02/2026"
+total_visitas: 1
+gasto_total: 123558.037
+gasto_promedio: 123558.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, hotel-vips, primera-vez, pareja, otas]
+---
+
+# Lautaro Martin, Armua
+**Hotel**: Hotel VIPS
+
+## Datos de contacto
+- **Email**: lautaroarmua8@gmail.com
+- **Telefono**: Mov: +54 221 303 5779
+- **Ciudad**: 
+- **Pais**: Argentina
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Hotel | **Hotel VIPS** |
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal | Booking.com |
+| Mercado | OTAs |
+| Visitas | 1 |
+| Gasto total | $123,558 |
+| Gasto promedio | $123,558 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 07/02/2026 | 08/02/2026 | 1 | 1 | Booking.com | $123,558 | C. Sin anticipo |
+

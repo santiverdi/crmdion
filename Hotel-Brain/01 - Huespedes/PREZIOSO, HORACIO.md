@@ -1,0 +1,46 @@
+---
+tipo: huesped
+nombre: "PREZIOSO, HORACIO"
+email: "5ssshsjaha"
+telefono: "Mov: +5492281667630"
+ciudad: ""
+pais: "Indefinido"
+canal: "Contacto Telefónico"
+mercado: "Directo"
+tipo_viajero: "Pareja"
+primera_visita: "15/12/2025"
+ultima_visita: "15/12/2025"
+total_visitas: 1
+gasto_total: 168000.0
+gasto_alojamiento: 168000.0
+gasto_promedio: 168000.0
+segmento: "Primera vez"
+score: 40
+tags: [huesped, primera-vez, pareja, directo]
+---
+
+# PREZIOSO, HORACIO
+
+## Datos de contacto
+- **Email**: 5ssshsjaha
+- **Telefono**: Mov: +5492281667630
+- **Ciudad**: 
+- **Pais**: Indefinido
+
+## Segmentacion
+| Metrica | Valor |
+|---------|-------|
+| Segmento | **Primera vez** |
+| Score | 40/100 |
+| Tipo viajero | Pareja |
+| Canal principal | Contacto Telefónico |
+| Mercado | Directo |
+| Total visitas | 1 |
+| Gasto total | $168,000 |
+| Gasto promedio | $168,000 |
+
+## Historial de estadias
+| Llegada | Salida | Hab. | Noches | Canal | Monto | Estado |
+|---------|--------|------|--------|-------|-------|--------|
+| 15/12/2025 | 17/12/2025 | 1 | 2 | Contacto Telefónico | $168,000 | C. Anticipo |
+
